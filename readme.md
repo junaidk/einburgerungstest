@@ -8,6 +8,8 @@ https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/gesamtfragen
 
 https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/gesamtfragenkatalog-lebenindeutschland.pdf?__blob=publicationFile&v=19
 
+https://oet.bamf.de/ords/oetut/f?p=514:1::::::
+
 ### Translation
 
 https://github.com/LibreTranslate/LibreTranslate?tab=readme-ov-file

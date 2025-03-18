@@ -17,7 +17,7 @@
                 "people have the right to vote.",
                 "freedom of expression."
             ],
-            "correctAnswer": 1
+            "correctAnswer": 4
         },
         {
             "id": 2,
@@ -35,7 +35,7 @@
                 "Policy lessons.",
                 "Language lessons."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 2
         },
         {
             "id": 3,
@@ -53,7 +53,7 @@
                 "Only Germans must comply with the laws.",
                 "The courts do the laws."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 1
         },
         {
             "id": 4,
@@ -71,7 +71,7 @@
                 "Freedom of expression",
                 "Self-adjustment"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 5,
@@ -89,7 +89,7 @@
                 "The voter must not be influenced or forced to vote for a certain vote and must not have any disadvantages by the election.",
                 "All eligible persons must choose."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 6,
@@ -107,7 +107,7 @@
                 "German law",
                 "Basic Law"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 7,
@@ -125,7 +125,7 @@
                 "Work",
                 "Apartment"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 8,
@@ -143,7 +143,7 @@
                 "Everyone can say his opinion.",
                 "All are equal before the law."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 9,
@@ -161,7 +161,7 @@
                 "Asylum",
                 "Freedom of expression"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 10,
@@ -179,7 +179,7 @@
                 "the death penalty",
                 "the fine"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 11,
@@ -197,7 +197,7 @@
                 "Legislation",
                 "Constitutional Treaty"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 12,
@@ -215,7 +215,7 @@
                 "No, because press freedom is a fundamental right. It cannot be abolished.",
                 "No, because only the Federal Council can abolish press freedom."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 13,
@@ -233,7 +233,7 @@
                 "all parties that were able to achieve the 5% guarantee at the last election.",
                 "all MEPs who do not belong to the government party/governmental parties."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 14,
@@ -251,7 +251,7 @@
                 "Nazi, Hamas or Islamic State symbols may bear publicly.",
                 "i can only express my opinion until I disagree with the government."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 15,
@@ -269,7 +269,7 @@
                 "free choice of profession",
                 "Working abroad"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 16,
@@ -287,7 +287,7 @@
                 "in discussions about religions",
                 "with criticism of the state"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 17,
@@ -305,7 +305,7 @@
                 "Freedom of assembly of residents.",
                 "Unequal treatment of citizens by the state."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 18,
@@ -323,7 +323,7 @@
                 "Freedom of religion",
                 "Freedom of expression"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 19,
@@ -341,7 +341,7 @@
                 "You can choose another religion.",
                 "You can only move slightly dressed in the public."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 20,
@@ -359,7 +359,7 @@
                 "law.",
                 "unconstitutional."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 21,
@@ -377,7 +377,7 @@
                 "Figure 3",
                 "Figure 4"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 22,
@@ -395,7 +395,7 @@
                 "Republic of",
                 "Principality"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 23,
@@ -413,7 +413,7 @@
                 "independent with its own company.",
                 "a company or authority."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 24,
@@ -431,7 +431,7 @@
                 "16",
                 "17"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 25,
@@ -449,7 +449,7 @@
                 "Mecklenburg-Vorpommern",
                 "Saxony-Anhalt"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 26,
@@ -467,7 +467,7 @@
                 "a capitalist and social monarchy.",
                 "a social and socialist state."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 27,
@@ -485,7 +485,7 @@
                 "a dictatorship.",
                 "a monarchy."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 28,
@@ -503,7 +503,7 @@
                 "the electoral people",
                 "administration"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 29,
@@ -521,7 +521,7 @@
                 "Bear",
                 "Horse"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 30,
@@ -539,7 +539,7 @@
                 "Freedom of expression",
                 "different parties"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 31,
@@ -557,7 +557,7 @@
                 "Ministry.",
                 "Group."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 32,
@@ -575,7 +575,7 @@
                 "Press release",
                 "Case"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 33,
@@ -593,7 +593,7 @@
                 "the state depends on the religious communities.",
                 "state and religious communities form a unity."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 34,
@@ -611,7 +611,7 @@
                 "a monarchy",
                 "a social state"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 35,
@@ -629,7 +629,7 @@
                 "Donations",
                 "Association contributions"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 36,
@@ -647,7 +647,7 @@
                 "building insurance",
                 "liability insurance"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 37,
@@ -665,7 +665,7 @@
                 "Senator",
                 "Prime Minister"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 38,
@@ -683,7 +683,7 @@
                 "Federation of States.",
                 "Central state."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 39,
@@ -701,7 +701,7 @@
                 "own army",
                 "own government"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 40,
@@ -719,7 +719,7 @@
                 "Joy of beautiful god sparks..",
                 "Germany single fatherland .."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 41,
@@ -737,7 +737,7 @@
                 "to prevent political demonstrations",
                 "to stimulate economic competition"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 42,
@@ -755,7 +755,7 @@
                 "the dishes",
                 "the police"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 43,
@@ -773,7 +773,7 @@
                 "when she makes criticism of the Head of State",
                 "if your program proposes a new direction"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 44,
@@ -791,7 +791,7 @@
                 "Country Members",
                 "Members of the Bundestag"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 45,
@@ -809,7 +809,7 @@
                 "Household insurance",
                 "Compulsory and fire insurance"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 46,
@@ -827,7 +827,7 @@
                 "It supplies all residents free of charge with newspapers.",
                 "He produces cars and buses."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 47,
@@ -845,7 +845,7 @@
                 "He supports museums.",
                 "He promotes athletes."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 48,
@@ -863,7 +863,7 @@
                 "the General Assembly",
                 "the Government"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 49,
@@ -881,7 +881,7 @@
                 "the Ministry of Family",
                 "universities"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 50,
@@ -899,7 +899,7 @@
                 "steered central economy.",
                 "Planning."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 51,
@@ -917,7 +917,7 @@
                 "People are arrested by a private police without reason.",
                 "someone commits a crime and is therefore arrested."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 52,
@@ -935,7 +935,7 @@
                 "prussian king.",
                 "Federal Constitutional Court."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 53,
@@ -953,7 +953,7 @@
                 "Citizens decide on laws.",
                 "The state must respect the laws."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 54,
@@ -971,7 +971,7 @@
                 "Executive",
                 "Directive"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 55,
@@ -989,7 +989,7 @@
                 "the Federal Council building in Berlin",
                 "the Federal Chancellery in Berlin"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 56,
@@ -1007,7 +1007,7 @@
                 "Taxation",
                 "Auswärtiges Amt"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 57,
@@ -1025,7 +1025,7 @@
                 "a former Federal Chancellor",
                 "a Member of the strongest group"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 58,
@@ -1043,7 +1043,7 @@
                 "the President of the Federal Council",
                 "the President of the Bundestag"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 59,
@@ -1061,7 +1061,7 @@
                 "about 1150 years ago",
                 "about 1700 years ago"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 60,
@@ -1079,7 +1079,7 @@
                 "Directive.",
                 "Judicative."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 61,
@@ -1097,7 +1097,7 @@
                 "The interest groups exercise sovereignty together with the government.",
                 "The power of state goes from the people."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 62,
@@ -1115,7 +1115,7 @@
                 "European elections",
                 "Bundestag election"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 63,
@@ -1133,7 +1133,7 @@
                 "the tax office",
                 "ministers"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 64,
@@ -1151,7 +1151,7 @@
                 "16 cantons.",
                 "Covenant, countries and municipalities."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 65,
@@ -1169,7 +1169,7 @@
                 "to choose the Chancellor.",
                 "to form the federal cabinet."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 66,
@@ -1187,7 +1187,7 @@
                 "Nuremberg and Stuttgart",
                 "Worms and Speyer"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 67,
@@ -1205,7 +1205,7 @@
                 "Economic policy",
                 "School policy"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 68,
@@ -1223,7 +1223,7 @@
                 "because there are different schools in the federal states",
                 "because it is his task according to the Basic Law"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 69,
@@ -1241,7 +1241,7 @@
                 "Communities",
                 "District offices"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 70,
@@ -1259,7 +1259,7 @@
                 "She/he selects ministers.",
                 "She/he proposes the chancellor to choose from."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 71,
@@ -1277,7 +1277,7 @@
                 "at Bellevue Castle, the seat of the Federal President/President to receive state guests.",
                 "in Berlin, because there are the Federal Chancellery and the Bundestag."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 72,
@@ -1295,7 +1295,7 @@
                 "Franziska Giffey",
                 "Olaf Scholz"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 73,
@@ -1313,7 +1313,7 @@
                 "FDP and SPD.",
                 "The Left and FDP."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 74,
@@ -1331,7 +1331,7 @@
                 "Parliament",
                 "Bundesgerichtshof"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 75,
@@ -1349,7 +1349,7 @@
                 "Bodo Ramelow",
                 "Joachim Gauck"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 76,
@@ -1367,7 +1367,7 @@
                 "Christian German environmental protection",
                 "Christian Democratic Union"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 77,
@@ -1385,7 +1385,7 @@
                 "a German citizen initiative",
                 "the German army"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 78,
@@ -1403,7 +1403,7 @@
                 "Social Democratic Party of Germany",
                 "Socially fair party of Germany"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 79,
@@ -1421,7 +1421,7 @@
                 "Leading Democratic Party",
                 "Free Democratic Party"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 80,
@@ -1439,7 +1439,7 @@
                 "Federal Constitutional Court",
                 "Administrative Court"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 81,
@@ -1457,7 +1457,7 @@
                 "the people",
                 "the Bundestag"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 82,
@@ -1475,7 +1475,7 @@
                 "the President of the Federal Council",
                 "the Federal Chancellor"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 83,
@@ -1493,7 +1493,7 @@
                 "the Bundestag",
                 "the Federal Government"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 84,
@@ -1511,7 +1511,7 @@
                 "represents the country.",
                 "monitors compliance with the laws."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 85,
@@ -1529,7 +1529,7 @@
                 "the government representatives of the federal states",
                 "the party members"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 86,
@@ -1547,7 +1547,7 @@
                 "the federal parliament",
                 "the Federal Constitutional Court"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 87,
@@ -1565,7 +1565,7 @@
                 "the President of the Federal Council",
                 "the President of the Bundestag"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 88,
@@ -1583,7 +1583,7 @@
                 "who sits in the Federal Council.",
                 "proposes the heads of government of the countries."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 89,
@@ -1601,7 +1601,7 @@
                 "Group",
                 "Opposition"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 90,
@@ -1619,7 +1619,7 @@
                 "the Bundestag.",
                 "the Federal Government."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 91,
@@ -1637,7 +1637,7 @@
                 "more difficult when the majority in the Federal Council is changed.",
                 "easier if it is a rich federal state."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 92,
@@ -1655,7 +1655,7 @@
                 "Christian Social Entrepreneurship Association",
                 "Christian Social Union"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 93,
@@ -1673,7 +1673,7 @@
                 "greater is the risk of forming a coalition.",
                 "the party receives more seats in Parliament."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 94,
@@ -1691,7 +1691,7 @@
                 "21",
                 "23"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 95,
@@ -1709,7 +1709,7 @@
                 "Liability",
                 "Religious duty"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 96,
@@ -1727,7 +1727,7 @@
                 "not at all, Holocaust denial is allowed",
                 "with imprisonment up to five years or with fine"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 97,
@@ -1745,7 +1745,7 @@
                 "Child benefit",
                 "Benefits"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 98,
@@ -1763,7 +1763,7 @@
                 "the Federal President must give her/her consent beforehand.",
                 "the voters of these Members may choose again."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 99,
@@ -1781,7 +1781,7 @@
                 "all nationals",
                 "employers only"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 100,
@@ -1799,7 +1799,7 @@
                 "unemployment insurance",
                 "care insurance"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 101,
@@ -1817,7 +1817,7 @@
                 "Pensioners.",
                 "Employers."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 102,
@@ -1835,7 +1835,7 @@
                 "Occupational Orders",
                 "Honorary title \"Held of the German Democratic Republic\""
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 103,
@@ -1853,7 +1853,7 @@
                 "by CSU, The LINKE and Alliance 90/The Greens in a Government",
                 "the parliamentary groups of CDU and SPD"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 104,
@@ -1871,7 +1871,7 @@
                 "The woman does private things during working hours.",
                 "The woman gets a child and her boss knows that."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 105,
@@ -1889,7 +1889,7 @@
                 "They pass interim results to the media.",
                 "They count the votes after the end of the election."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 106,
@@ -1907,7 +1907,7 @@
                 "They pass interim results to journalists.",
                 "They count the votes after the end of the election."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 107,
@@ -1925,7 +1925,7 @@
                 "6 years",
                 "8 years"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 108,
@@ -1943,7 +1943,7 @@
                 "for at least 3 years in the Federal Republic of Germany.",
                 "Citizens of the Federal Republic of Germany are at least 21 years old."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 109,
@@ -1961,7 +1961,7 @@
                 "every five years",
                 "every six years"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 110,
@@ -1979,7 +1979,7 @@
                 "4 years",
                 "5 years"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 111,
@@ -1997,7 +1997,7 @@
                 "a discussion on Israel's policy",
                 "the public call for the destruction of Israel"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 112,
@@ -2015,7 +2015,7 @@
                 "professional.",
                 "gender-dependent."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 113,
@@ -2033,7 +2033,7 @@
                 "most of the voices have received from the workers.",
                 "most initial votes for their chancellor candidate have received their chancellor candidates."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 114,
@@ -2051,7 +2051,7 @@
                 "a compulsion.",
                 "a load."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 115,
@@ -2069,7 +2069,7 @@
                 "You can choose.",
                 "You have to go to counting the voices."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 116,
@@ -2087,7 +2087,7 @@
                 "active campaign.",
                 "active voting rights."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 117,
@@ -2105,7 +2105,7 @@
                 "5%",
                 "6%"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 118,
@@ -2123,7 +2123,7 @@
                 "only religious people",
                 "all people"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 119,
@@ -2141,7 +2141,7 @@
                 "Any person can decide without compulsion whether they want to choose and who they want to choose.",
                 "I can decide freely where to choose."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 120,
@@ -2159,7 +2159,7 @@
                 "Majority and proportional voting rights.",
                 "general rule of men's choice."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 121,
@@ -2177,7 +2177,7 @@
                 "Basic value.",
                 "Directive."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 122,
@@ -2195,7 +2195,7 @@
                 "closed, equal, safe.",
                 "safe, open, voluntary."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 123,
@@ -2213,7 +2213,7 @@
                 "Minimum proportion of votes to come to Parliament",
                 "Presence check in the Federal Council for Voting"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 124,
@@ -2231,7 +2231,7 @@
                 "parliament for Germany.",
                 "the Federal President."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 125,
@@ -2249,7 +2249,7 @@
                 "to maintain existing laws in the country.",
                 "to give the poor more power."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 126,
@@ -2267,7 +2267,7 @@
                 "a notification from the Federal Assembly",
                 "a notification from the parish office"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 127,
@@ -2285,7 +2285,7 @@
                 "many small parties complicate government formation.",
                 "the small parties do not have so much money to pay politicians."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 128,
@@ -2303,7 +2303,7 @@
                 "Ambassadors.",
                 "Prime Minister."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 129,
@@ -2321,7 +2321,7 @@
                 "the Bundestag.",
                 "the Federal President."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 130,
@@ -2339,7 +2339,7 @@
                 "3",
                 "4"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 131,
@@ -2357,7 +2357,7 @@
                 "the head of a community.",
                 "the chairman of a party."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 132,
@@ -2375,7 +2375,7 @@
                 "They work in the federal government.",
                 "They work in a hospital and earn money."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 133,
@@ -2393,7 +2393,7 @@
                 "You can give your voice by phone on the election day.",
                 "Children aged 14 may choose."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 134,
@@ -2411,7 +2411,7 @@
                 "I turn to the tax office because I have a right to the bus line as taxpayer/tax payer.",
                 "I'll write a letter to the Municipal Forest Office."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 135,
@@ -2429,7 +2429,7 @@
                 "Self-employed",
                 "Employees"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 136,
@@ -2447,7 +2447,7 @@
                 "Problems with neighbors.",
                 "Difficulties after a traffic accident."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 137,
@@ -2465,7 +2465,7 @@
                 "the Labour Court",
                 "the District Court"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 138,
@@ -2483,7 +2483,7 @@
                 "Collection of notices",
                 "show the employer to the police"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 139,
@@ -2501,7 +2501,7 @@
                 "a different opinion than that of the government.",
                 "his car parked wrong and it is towed."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 140,
@@ -2519,7 +2519,7 @@
                 "issue documents.",
                 "defends the defendant."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 141,
@@ -2537,7 +2537,7 @@
                 "a spoon",
                 "a prosecutor"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 142,
@@ -2555,7 +2555,7 @@
                 "changes laws.",
                 "supervises young people in court."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 143,
@@ -2573,7 +2573,7 @@
                 "Operational.",
                 "Legislative."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 144,
@@ -2591,7 +2591,7 @@
                 "planning violence.",
                 "legislative violence."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 145,
@@ -2609,7 +2609,7 @@
                 "Press release",
                 "Legislative"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 146,
@@ -2627,7 +2627,7 @@
                 "Protocol",
                 "Process"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 147,
@@ -2645,7 +2645,7 @@
                 "Create a plan",
                 "Legislation"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 148,
@@ -2663,7 +2663,7 @@
                 "to decide the laws",
                 "to monitor compliance with laws"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 149,
@@ -2681,7 +2681,7 @@
                 "deny the Holocaust",
                 "against Jews playing football"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 150,
@@ -2699,7 +2699,7 @@
                 "a member of a municipal council.",
                 "a person who studied law."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 151,
@@ -2717,7 +2717,7 @@
                 "germany",
                 "uSA"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 152,
@@ -2735,7 +2735,7 @@
                 "1933 to 1945",
                 "1945 to 1989"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 153,
@@ -2753,7 +2753,7 @@
                 "Choice of Konrad Adenauer as Chancellor",
                 "End of World War II in Europe"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 154,
@@ -2771,7 +2771,7 @@
                 "1949",
                 "1961"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 155,
@@ -2789,7 +2789,7 @@
                 "1933 to 1945",
                 "1949 to 1963"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 156,
@@ -2807,7 +2807,7 @@
                 "1933",
                 "1936"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 157,
@@ -2825,7 +2825,7 @@
                 "a monarchy.",
                 "a principality."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 158,
@@ -2843,7 +2843,7 @@
                 "Monarchy.",
                 "Räterepublik."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 159,
@@ -2861,7 +2861,7 @@
                 "arbitrary arrests",
                 "Persecution of Jews"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 160,
@@ -2879,7 +2879,7 @@
                 "the Vietnam War",
                 "the Gulf War"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 161,
@@ -2897,7 +2897,7 @@
                 "the general freedom of religion",
                 "the development of democracy"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 162,
@@ -2915,7 +2915,7 @@
                 "the construction of the Wehrmacht.",
                 "the assassination on Hitler on 20. July 1944."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 163,
@@ -2933,7 +2933,7 @@
                 "1938",
                 "1945"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 164,
@@ -2951,7 +2951,7 @@
                 "Jewish shops and synagogues are destroyed by Nazis and their followers.",
                 "Hitler becomes Reich President and forbids all parties."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 165,
@@ -2969,7 +2969,7 @@
                 "Helmut Schmidt",
                 "Willy Brandt"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 166,
@@ -2987,7 +2987,7 @@
                 "in the anti-atom force demonstrations in 1985 in the Federal Republic of Germany",
                 "during the Monday demonstrations in 1989 in the GDR"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 167,
@@ -3005,7 +3005,7 @@
                 "United States, Soviet Union, Spain, Portugal",
                 "United States, Soviet Union, United Kingdom, France"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 168,
@@ -3023,7 +3023,7 @@
                 "France",
                 "Japan"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 169,
@@ -3041,7 +3041,7 @@
                 "1949",
                 "1951"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 170,
@@ -3059,7 +3059,7 @@
                 "Freedom of movement",
                 "protection of human dignity"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 171,
@@ -3077,7 +3077,7 @@
                 "depends on demand abroad.",
                 "depends on supply and demand, but the state ensures social compensation."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 172,
@@ -3095,7 +3095,7 @@
                 "british occupation zone",
                 "soviet occupation zone"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 173,
@@ -3113,7 +3113,7 @@
                 "european Union (EU).",
                 "of the Warsaw Pact."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 174,
@@ -3131,7 +3131,7 @@
                 "1953",
                 "1956"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 175,
@@ -3149,7 +3149,7 @@
                 "5",
                 "6"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 176,
@@ -3167,7 +3167,7 @@
                 "1=Great Britain, 2=Soviet Union, 3=USA, 4=France",
                 "1=Great Britain, 2=USA, 3=Soviet Union, 4=France"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 177,
@@ -3185,7 +3185,7 @@
                 "Dresden",
                 "Frankfurt/Oder"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 178,
@@ -3203,7 +3203,7 @@
                 "For the UK, the supply via the air bridge was faster.",
                 "The Soviet Union interrupted all traffic in the country."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 179,
@@ -3221,7 +3221,7 @@
                 "with the withdrawal of the Germans from the occupied territories",
                 "by a revolution in Germany"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 180,
@@ -3239,7 +3239,7 @@
                 "Konrad Adenauer.",
                 "Gerhard Schröder."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 181,
@@ -3257,7 +3257,7 @@
                 "He showed his humility before the Warsaw Pact.",
                 "He spoke a prayer at the grave of the unknown soldier."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 182,
@@ -3275,7 +3275,7 @@
                 "Synagogue",
                 "Church"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 183,
@@ -3293,7 +3293,7 @@
                 "70 years",
                 "80 years"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 184,
@@ -3311,7 +3311,7 @@
                 "a proposal from the Federal Government",
                 "a proposal from the USSR"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 185,
@@ -3329,7 +3329,7 @@
                 "Nazi Germany against the Allies",
                 "Europe against the USA"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 186,
@@ -3347,7 +3347,7 @@
                 "20. July",
                 "9. November"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 187,
@@ -3365,7 +3365,7 @@
                 "\"Third Kingdom\"",
                 "GDR"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 188,
@@ -3383,7 +3383,7 @@
                 "1959",
                 "1961"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 189,
@@ -3401,7 +3401,7 @@
                 "1961",
                 "1990"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 190,
@@ -3419,7 +3419,7 @@
                 "Third German Republic",
                 "German Democratic Republic"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 191,
@@ -3437,7 +3437,7 @@
                 "1992",
                 "1995"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 192,
@@ -3455,7 +3455,7 @@
                 "Saarland",
                 "Eat"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 193,
@@ -3473,7 +3473,7 @@
                 "divided by a wall.",
                 "only accessible by plane."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 194,
@@ -3491,7 +3491,7 @@
                 "Länder.",
                 "Cities."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 195,
@@ -3509,7 +3509,7 @@
                 "North Rhine-Westphalia",
                 "Saarland"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 196,
@@ -3527,7 +3527,7 @@
                 "from a monarchy to social democracy.",
                 "from a religious state to a communist state."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 197,
@@ -3545,7 +3545,7 @@
                 "Bavaria",
                 "Bremen"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 198,
@@ -3563,7 +3563,7 @@
                 "Saxony",
                 "Baden-Württemberg"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 199,
@@ -3581,7 +3581,7 @@
                 "a ruling party.",
                 "the Ministry of Education."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 200,
@@ -3599,7 +3599,7 @@
                 "Mecklenburg-Vorpommern",
                 "Saarland"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 201,
@@ -3617,7 +3617,7 @@
                 "Bavaria, Baden-Württemberg, Rhineland-Palatinate, Thuringia, Saxony",
                 "Saxony, Thuringia, Hesse, Lower Saxony, Brandenburg"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 202,
@@ -3635,7 +3635,7 @@
                 "to NATO",
                 "to block-free states"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 203,
@@ -3653,7 +3653,7 @@
                 "Supply and demand",
                 "Capital"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 204,
@@ -3671,7 +3671,7 @@
                 "The western Länder joined the GDR.",
                 "The GDR has occupied the Federal Republic of Germany."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 205,
@@ -3689,7 +3689,7 @@
                 "to OPEC.",
                 "on the European Defence Community."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 206,
@@ -3707,7 +3707,7 @@
                 "traffic dead",
                 "to famous Jewish musicians"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 207,
@@ -3725,7 +3725,7 @@
                 "in the Warsaw Pact",
                 "in the European Covenant"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 208,
@@ -3743,7 +3743,7 @@
                 "the secret service of the GDR",
                 "a German sports club during World War II"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 209,
@@ -3761,7 +3761,7 @@
                 "Figure 3",
                 "Figure 4"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 210,
@@ -3779,7 +3779,7 @@
                 "the 1st SED Party Day",
                 "the first visit Fidel Castros"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 211,
@@ -3797,7 +3797,7 @@
                 "Mikhail Gorbachev",
                 "Ludwig Erhard"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 212,
@@ -3815,7 +3815,7 @@
                 "Germany",
                 "Federal Republic of Germany"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 213,
@@ -3833,7 +3833,7 @@
                 "84 million",
                 "90 million"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 214,
@@ -3851,7 +3851,7 @@
                 "black-red green",
                 "black yellow red"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 215,
@@ -3869,7 +3869,7 @@
                 "Konrad Adenauer",
                 "Helmut Schmidt"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 216,
@@ -3887,7 +3887,7 @@
                 "the empire settlers",
                 "the crown of the kingdom"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 217,
@@ -3905,7 +3905,7 @@
                 "1945 to 1961",
                 "1949 to 1990"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 218,
@@ -3923,7 +3923,7 @@
                 "6",
                 "7"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 219,
@@ -3941,7 +3941,7 @@
                 "1971",
                 "1990"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 220,
@@ -3959,7 +3959,7 @@
                 "to the reunification of Germany",
                 "to the victims of National Socialism (Day of the Extermination Camp Auschwitz)"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 221,
@@ -3977,7 +3977,7 @@
                 "Germans can travel to any country without passport control.",
                 "Germans can pay with the euro in any country."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 222,
@@ -3995,7 +3995,7 @@
                 "Spain",
                 "Switzerland"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 223,
@@ -4013,7 +4013,7 @@
                 "Poland",
                 "Greece"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 224,
@@ -4031,7 +4031,7 @@
                 "Single Union",
                 "Euro Union"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 225,
@@ -4049,7 +4049,7 @@
                 "Spain",
                 "Austria"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 226,
@@ -4067,7 +4067,7 @@
                 "Figure 3",
                 "Figure 4"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 227,
@@ -4085,7 +4085,7 @@
                 "Norway",
                 "Sweden"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 228,
@@ -4103,7 +4103,7 @@
                 "German reunification",
                 "European Community"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 229,
@@ -4121,7 +4121,7 @@
                 "Norway",
                 "Luxembourg"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 230,
@@ -4139,7 +4139,7 @@
                 "Seven years.",
                 "8 years."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 231,
@@ -4157,7 +4157,7 @@
                 "This means European emigrants in the USA.",
                 "The term refers to the merger of European states to the EU."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 232,
@@ -4175,7 +4175,7 @@
                 "members of the European Parliament",
                 "the European Constitution"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 233,
@@ -4193,7 +4193,7 @@
                 "Greece",
                 "Portugal"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 234,
@@ -4211,7 +4211,7 @@
                 "Berlin",
                 "Strasbourg"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 235,
@@ -4229,7 +4229,7 @@
                 "Peace and security in EU countries",
                 "unified holidays in EU countries"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 236,
@@ -4247,7 +4247,7 @@
                 "25",
                 "27"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 237,
@@ -4265,7 +4265,7 @@
                 "Germany's obligation to repair services",
                 "Defining the Oder-Neiße line as an east boundary"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 238,
@@ -4283,7 +4283,7 @@
                 "Rome, Bern and Vienna",
                 "Bonn, Zurich and Milan"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 239,
@@ -4301,7 +4301,7 @@
                 "through the \"Paris Treaties\"",
                 "through the \"London Treaties\""
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 240,
@@ -4319,7 +4319,7 @@
                 "2002",
                 "2005"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 241,
@@ -4337,7 +4337,7 @@
                 "She doesn't have to do anything because she automatically gets parental money.",
                 "She must ask the employment office for permission."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 242,
@@ -4355,7 +4355,7 @@
                 "the parents/children",
                 "schools"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 243,
@@ -4373,7 +4373,7 @@
                 "You cannot do anything, because demonstrations are generally prohibited in Germany.",
                 "Maik and Sybille must establish a new club because only clubs can demonstrate."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 244,
@@ -4391,7 +4391,7 @@
                 "the procura",
                 "a Gesellenprüfung"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 245,
@@ -4409,7 +4409,7 @@
                 "Sofie (35 years) and Lisa (40 years)",
                 "Anne (13 years) and Tim (25 years)"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 246,
@@ -4427,7 +4427,7 @@
                 "19",
                 "21"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 247,
@@ -4445,7 +4445,7 @@
                 "Preparing birth",
                 "Weekly bed"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 248,
@@ -4463,7 +4463,7 @@
                 "the grandparents.",
                 "schools."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 249,
@@ -4481,7 +4481,7 @@
                 "the relatives",
                 "schools"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 250,
@@ -4499,7 +4499,7 @@
                 "is a woman.",
                 "Member of a party."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 251,
@@ -4517,7 +4517,7 @@
                 "cannot be punished for this.",
                 "can be punished for this."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 252,
@@ -4535,7 +4535,7 @@
                 "you can't get married once you've been married.",
                 "a woman must not marry again if her husband died."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 253,
@@ -4553,7 +4553,7 @@
                 "at the Order Office",
                 "at the trade office"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 254,
@@ -4571,7 +4571,7 @@
                 "The right to visit the children is one year.",
                 "The spouses live their own lives at least one year apart. Then divorce is possible."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 255,
@@ -4589,7 +4589,7 @@
                 "Youth Office.",
                 "Health office."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 256,
@@ -4607,7 +4607,7 @@
                 "an approval of the inhabitant registration office",
                 "a restaurant permit from the competent authority"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 257,
@@ -4625,7 +4625,7 @@
                 "a primary school.",
                 "a private university."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 258,
@@ -4643,7 +4643,7 @@
                 "It pays the child's money to the parents.",
                 "It controls whether the child visits a kindergarten."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 259,
@@ -4661,7 +4661,7 @@
                 "Excise declaration.",
                 "Health insurance."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 260,
@@ -4679,7 +4679,7 @@
                 "Entitlement to school allowance.",
                 "Compulsory attendance."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 261,
@@ -4697,7 +4697,7 @@
                 "a primary school.",
                 "a private university."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 262,
@@ -4715,7 +4715,7 @@
                 "No one is allowed to sue people if they were disadvantaged.",
                 "It is for all law to donate disadvantaged groups annually."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 263,
@@ -4733,7 +4733,7 @@
                 "share the punishment with their parents.",
                 "are not punished."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 264,
@@ -4751,7 +4751,7 @@
                 "at the Oktoberfest",
                 "at Pentecost"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 265,
@@ -4769,7 +4769,7 @@
                 "to the Agency for Work",
                 "to the State Office"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 266,
@@ -4787,7 +4787,7 @@
                 "at 0 o'clock, midnight",
                 "at 22 o'clock"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 267,
@@ -4805,7 +4805,7 @@
                 "You can go to the police and show the daughter.",
                 "They're looking for another man for the daughter."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 268,
@@ -4823,7 +4823,7 @@
                 "She has to make the driver's license in the country where you speak her language.",
                 "She might be able to do the theory exam in her mother tongue. There are more than ten languages to choose from."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 269,
@@ -4841,7 +4841,7 @@
                 "a kindergarten place.",
                 "a holiday pass."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 270,
@@ -4859,7 +4859,7 @@
                 "for further training.",
                 "only for pensioners."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 271,
@@ -4877,7 +4877,7 @@
                 "dress up with masks and costumes",
                 "Imagine pumpkins"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 272,
@@ -4895,7 +4895,7 @@
                 "A single father lives with his two children.",
                 "A man is married to two women at the same time."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 273,
@@ -4913,7 +4913,7 @@
                 "to the population registration office.",
                 "to the youth office."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 274,
@@ -4931,7 +4931,7 @@
                 "the obligation to remain silent",
                 "freedom of expression"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 275,
@@ -4949,7 +4949,7 @@
                 "the consent of the children",
                 "support of a lawyer"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 276,
@@ -4967,7 +4967,7 @@
                 "I threaten the person.",
                 "I can complain to the Head of State or Government."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 277,
@@ -4985,7 +4985,7 @@
                 "has no experience in this profession.",
                 "Mother is."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 278,
@@ -5003,7 +5003,7 @@
                 "has too high salary expectations.",
                 "does not speak English."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 279,
@@ -5021,7 +5021,7 @@
                 "Rules to which all residents must adhere.",
                 "the address of the next order."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 280,
@@ -5039,7 +5039,7 @@
                 "Objection.",
                 "wait till another man comes in."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 281,
@@ -5057,7 +5057,7 @@
                 "Freedom of assembly",
                 "Freedom of movement"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 282,
@@ -5075,7 +5075,7 @@
                 "Library supervision",
                 "Teacher/teacher"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 283,
@@ -5093,7 +5093,7 @@
                 "I'll send the bill back to the authority.",
                 "I'm going to the tax office with the bill."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 284,
@@ -5111,7 +5111,7 @@
                 "Children learn everything important in the profession at school. After school, you don't have to learn.",
                 "Everyone has to stop working early because everything changes."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 285,
@@ -5129,7 +5129,7 @@
                 "Contributions to pension and health insurance",
                 "Value added tax"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 286,
@@ -5147,7 +5147,7 @@
                 "the operating group",
                 "the operational management"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 287,
@@ -5165,7 +5165,7 @@
                 "the notice period",
                 "the insurance obligation"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 288,
@@ -5183,7 +5183,7 @@
                 "from the Basic Law of the Federal Republic of Germany",
                 "from the Christian tradition"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 289,
@@ -5201,7 +5201,7 @@
                 "he has a dark skin.",
                 "he has no experience in the profession."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 290,
@@ -5219,7 +5219,7 @@
                 "exchange the device unquestioned",
                 "extend the guarantee"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 291,
@@ -5237,7 +5237,7 @@
                 "you have to pay more taxes if you don't belong to a church.",
                 "the church is responsible for the tax return."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 292,
@@ -5255,7 +5255,7 @@
                 "Everyone can believe what he wants.",
                 "The state decides what God believes in people."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 293,
@@ -5273,7 +5273,7 @@
                 "Paint eggs",
                 "Shoot missiles in the air"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 294,
@@ -5291,7 +5291,7 @@
                 "international wedding day.",
                 "bavarian custom."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 295,
@@ -5309,7 +5309,7 @@
                 "buddhism",
                 "islam"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 296,
@@ -5327,7 +5327,7 @@
                 "the Advent season.",
                 "All Saints."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 297,
@@ -5345,7 +5345,7 @@
                 "Morocco",
                 "Turkey"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 298,
@@ -5363,7 +5363,7 @@
                 "Chile, Hungary, Zimbabwe.",
                 "North Korea, Mexico, Egypt."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 299,
@@ -5381,7 +5381,7 @@
                 "Time workers.",
                 "Shift workers."
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 300,
@@ -5399,7 +5399,7 @@
                 "Portugal",
                 "Turkey"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 1,
@@ -5417,7 +5417,7 @@
                 "Figure 3",
                 "Figure 4"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 2,
@@ -5435,7 +5435,7 @@
                 "Pankow",
                 "Mecklenburg Lake District"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 3,
@@ -5453,7 +5453,7 @@
                 "5",
                 "6"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 4,
@@ -5471,7 +5471,7 @@
                 "18",
                 "20"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 5,
@@ -5489,7 +5489,7 @@
                 "green-white red",
                 "black-gold"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 6,
@@ -5507,7 +5507,7 @@
                 "at the consumer centre",
                 "at the national headquarters for political education"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 7,
@@ -5525,7 +5525,7 @@
                 "Brandenburg",
                 "Eat"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 8,
@@ -5543,7 +5543,7 @@
                 "3",
                 "4"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 9,
@@ -5561,7 +5561,7 @@
                 "President/President of the Senate",
                 "Regulating Mayor/Register Mayor"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         },
         {
             "id": 10,
@@ -5579,7 +5579,7 @@
                 "Senator for External Relations",
                 "Justice Senator"
             ],
-            "correctAnswer": ""
+            "correctAnswer": 123
         }
     ]
 }

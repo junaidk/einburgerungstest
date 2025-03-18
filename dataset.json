@@ -1,0 +1,5596 @@
+{
+  "title": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil …",
+      "question_trans": "In Germany, people can openly say something about the government because..",
+      "options": [
+        "hier Religionsfreiheit gilt.",
+        "die Menschen Steuern zahlen.",
+        "die Menschen das Wahlrecht haben.",
+        "hier Meinungsfreiheit gilt."
+      ],
+      "options_trans": [
+        "freedom of religion applies here.",
+        "people pay taxes.",
+        "people have the right to vote.",
+        "freedom of expression."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 2,
+      "question": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am …",
+      "question_trans": "In Germany, parents can decide until the 14th year of their child whether it is in school at ..",
+      "options": [
+        "Geschichtsunterricht teilnimmt.",
+        "Religionsunterricht teilnimmt.",
+        "Politikunterricht teilnimmt.",
+        "Sprachunterricht teilnimmt."
+      ],
+      "options_trans": [
+        "History lessons.",
+        "Religious education.",
+        "Policy lessons.",
+        "Language lessons."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
+      "question_trans": "Germany is a rule of law. What does that mean?",
+      "options": [
+        "Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten.",
+        "Der Staat muss sich nicht an die Gesetze halten.",
+        "Nur Deutsche müssen die Gesetze befolgen.",
+        "Die Gerichte machen die Gesetze."
+      ],
+      "options_trans": [
+        "All residents and the state must comply with the laws.",
+        "The state does not have to comply with the laws.",
+        "Only Germans must comply with the laws.",
+        "The courts do the laws."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+      "question_trans": "What is the right to fundamental rights in Germany?",
+      "options": [
+        "Waffenbesitz",
+        "Faustrecht",
+        "Meinungsfreiheit",
+        "Selbstjustiz"
+      ],
+      "options_trans": [
+        "Armchairs",
+        "Right to vote",
+        "Freedom of expression",
+        "Self-adjustment"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+      "question_trans": "Elections in Germany are free. What does that mean?",
+      "options": [
+        "Man darf Geld annehmen, wenn man dafür eine bestimmte Kandidatin/einen bestimmten Kandidaten wählt.",
+        "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
+        "Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+        "Alle wahlberechtigten Personen müssen wählen."
+      ],
+      "options_trans": [
+        "You can accept money if you choose a particular candidate for it.",
+        "Only people who have never been in prison can choose.",
+        "The voter must not be influenced or forced to vote for a certain vote and must not have any disadvantages by the election.",
+        "All eligible persons must choose."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Wie heißt die deutsche Verfassung?",
+      "question_trans": "What is the German constitution?",
+      "options": [
+        "Volksgesetz",
+        "Bundesgesetz",
+        "Deutsches Gesetz",
+        "Grundgesetz"
+      ],
+      "options_trans": [
+        "National law",
+        "Federal Law",
+        "German law",
+        "Basic Law"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 7,
+      "question": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf …",
+      "question_trans": "What right is one of the fundamental rights guaranteed by the German Constitution? Right to ..",
+      "options": [
+        "Glaubens- und Gewissensfreiheit",
+        "Unterhaltung",
+        "Arbeit",
+        "Wohnung"
+      ],
+      "options_trans": [
+        "Freedom of belief and conscience",
+        "Entertainment",
+        "Work",
+        "Apartment"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 8,
+      "question": "Was steht nicht im Grundgesetz von Deutschland?",
+      "question_trans": "What does not stand in the Basic Law of Germany?",
+      "options": [
+        "Die Würde des Menschen ist unantastbar.",
+        "Alle sollen gleich viel Geld haben.",
+        "Jeder Mensch darf seine Meinung sagen.",
+        "Alle sind vor dem Gesetz gleich."
+      ],
+      "options_trans": [
+        "Human dignity is inviolable.",
+        "They're supposed to have a lot of money.",
+        "Everyone can say his opinion.",
+        "All are equal before the law."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 9,
+      "question": "Welches Grundrecht gilt in Deutschland nur für Ausländerinnen/Ausländer? Das Grundrecht auf …",
+      "question_trans": "What is the basic right in Germany for foreigners only? The basic right to ..",
+      "options": [
+        "Schutz der Familie",
+        "Menschenwürde",
+        "Asyl",
+        "Meinungsfreiheit"
+      ],
+      "options_trans": [
+        "Protection of family",
+        "Human dignity",
+        "Asylum",
+        "Freedom of expression"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 10,
+      "question": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+      "question_trans": "What is compatible with the German Basic Law?",
+      "options": [
+        "die Prügelstrafe",
+        "die Folter",
+        "die Todesstrafe",
+        "die Geldstrafe"
+      ],
+      "options_trans": [
+        "the deception penalty",
+        "the torture",
+        "the death penalty",
+        "the fine"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 11,
+      "question": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+      "question_trans": "What is the Constitution of the Federal Republic of Germany?",
+      "options": [
+        "Grundgesetz",
+        "Bundesverfassung",
+        "Gesetzbuch",
+        "Verfassungsvertrag"
+      ],
+      "options_trans": [
+        "Basic Law",
+        "Federal Constitution",
+        "Legislation",
+        "Constitutional Treaty"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 12,
+      "question": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?",
+      "question_trans": "A party in the German Bundestag wants to abolish press freedom. Is that possible?",
+      "options": [
+        "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.",
+        "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.",
+        "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+        "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
+      ],
+      "options_trans": [
+        "Yes, if more than half of the Members in the Bundestag are for this.",
+        "Yes, but there must be two thirds of the Members in the Bundestag.",
+        "No, because press freedom is a fundamental right. It cannot be abolished.",
+        "No, because only the Federal Council can abolish press freedom."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 13,
+      "question": "Im Parlament steht der Begriff \"Opposition\" für …",
+      "question_trans": "In Parliament, the term \"Opposition\" stands for ..",
+      "options": [
+        "die regierenden Parteien.",
+        "die Fraktion mit den meisten Abgeordneten.",
+        "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.",
+        "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören."
+      ],
+      "options_trans": [
+        "the ruling parties.",
+        "the group with most Members.",
+        "all parties that were able to achieve the 5% guarantee at the last election.",
+        "all MEPs who do not belong to the government party/governmental parties."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 14,
+      "question": "Meinungsfreiheit in Deutschland heißt, dass ich …",
+      "question_trans": "Freedom of expression in Germany means that I..",
+      "options": [
+        "Passanten auf der Straße beschimpfen darf.",
+        "meine Meinung in Leserbriefen äußern kann.",
+        "Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf.",
+        "meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche."
+      ],
+      "options_trans": [
+        "Passers on the street may be sworn.",
+        "i can express my opinion in reader letters.",
+        "Nazi, Hamas or Islamic State symbols may bear publicly.",
+        "i can only express my opinion until I disagree with the government."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 15,
+      "question": "Was verbietet das deutsche Grundgesetz?",
+      "question_trans": "What does the German Basic Law prohibit?",
+      "options": [
+        "Militärdienst",
+        "Zwangsarbeit",
+        "freie Berufswahl",
+        "Arbeit im Ausland"
+      ],
+      "options_trans": [
+        "Military service",
+        "Forced work",
+        "free choice of profession",
+        "Working abroad"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 16,
+      "question": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
+      "question_trans": "When is freedom of expression restricted in Germany?",
+      "options": [
+        "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+        "bei Meinungsäußerungen über die Bundesregierung",
+        "bei Diskussionen über Religionen",
+        "bei Kritik am Staat"
+      ],
+      "options_trans": [
+        "in the public dissemination of false claims about individual persons",
+        "in the opinion of the Federal Government",
+        "in discussions about religions",
+        "with criticism of the state"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 17,
+      "question": "Die deutschen Gesetze verbieten …",
+      "question_trans": "The German laws prohibit ..",
+      "options": [
+        "Meinungsfreiheit der Einwohnerinnen und Einwohner.",
+        "Petitionen der Bürgerinnen und Bürger.",
+        "Versammlungsfreiheit der Einwohnerinnen und Einwohner.",
+        "Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat."
+      ],
+      "options_trans": [
+        "Freedom of expression of residents.",
+        "Petitions by citizens.",
+        "Freedom of assembly of residents.",
+        "Unequal treatment of citizens by the state."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 18,
+      "question": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+      "question_trans": "What fundamental right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?",
+      "options": [
+        "die Unantastbarkeit der Menschenwürde",
+        "das Recht auf Leben",
+        "Religionsfreiheit",
+        "Meinungsfreiheit"
+      ],
+      "options_trans": [
+        "the inviolability of human dignity",
+        "the right to life",
+        "Freedom of religion",
+        "Freedom of expression"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 19,
+      "question": "Was versteht man unter dem Recht der \"Freizügigkeit\" in Deutschland?",
+      "question_trans": "What do you mean the right of \"freedom\" in Germany?",
+      "options": [
+        "Man darf sich seinen Wohnort selbst aussuchen.",
+        "Man kann seinen Beruf wechseln.",
+        "Man darf sich für eine andere Religion entscheiden.",
+        "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen."
+      ],
+      "options_trans": [
+        "You can choose your own place of residence.",
+        "You can change your job.",
+        "You can choose another religion.",
+        "You can only move slightly dressed in the public."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 20,
+      "question": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann …",
+      "question_trans": "A party in Germany pursues the goal of establishing a dictatorship. She's..",
+      "options": [
+        "tolerant.",
+        "rechtsstaatlich orientiert.",
+        "gesetzestreu.",
+        "verfassungswidrig."
+      ],
+      "options_trans": [
+        "tolerant.",
+        "legally oriented.",
+        "law.",
+        "unconstitutional."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 21,
+      "question": "Welches ist das Wappen der Bundesrepublik Deutschland?",
+      "question_trans": "What is the coat of arms of the Federal Republic of Germany?",
+      "img": "21.png",
+      "options": [
+        "Bild 1",
+        "Bild 2",
+        "Bild 3",
+        "Bild 4"
+      ],
+      "options_trans": [
+        "Figure 1",
+        "Figure 2",
+        "Figure 3",
+        "Figure 4"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 22,
+      "question": "Was für eine Staatsform hat Deutschland?",
+      "question_trans": "What kind of state has Germany?",
+      "options": [
+        "Monarchie",
+        "Diktatur",
+        "Republik",
+        "Fürstentum"
+      ],
+      "options_trans": [
+        "Monarchy",
+        "Dictatorship",
+        "Republic of",
+        "Principality"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 23,
+      "question": "In Deutschland sind die meisten Erwerbstätigen …",
+      "question_trans": "In Germany, most people are employed ..",
+      "options": [
+        "in kleinen Familienunternehmen beschäftigt.",
+        "ehrenamtlich für ein Bundesland tätig.",
+        "selbstständig mit einer eigenen Firma tätig.",
+        "bei einer Firma oder Behörde beschäftigt."
+      ],
+      "options_trans": [
+        "in small family businesses.",
+        "volunteer for a federal state.",
+        "independent with its own company.",
+        "a company or authority."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 24,
+      "question": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
+      "question_trans": "How many federal states have the Federal Republic of Germany?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "options_trans": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 25,
+      "question": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
+      "question_trans": "What is not a federal state of the Federal Republic of Germany?",
+      "options": [
+        "Elsass-Lothringen",
+        "Nordrhein-Westfalen",
+        "Mecklenburg-Vorpommern",
+        "Sachsen-Anhalt"
+      ],
+      "options_trans": [
+        "Alsace-Lothringen",
+        "North Rhine-Westphalia",
+        "Mecklenburg-Vorpommern",
+        "Saxony-Anhalt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 26,
+      "question": "Deutschland ist …",
+      "question_trans": "Germany is..",
+      "options": [
+        "eine kommunistische Republik.",
+        "ein demokratischer und sozialer Bundesstaat.",
+        "eine kapitalistische und soziale Monarchie.",
+        "ein sozialer und sozialistischer Bundesstaat."
+      ],
+      "options_trans": [
+        "a communist republic.",
+        "a democratic and social state.",
+        "a capitalist and social monarchy.",
+        "a social and socialist state."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 27,
+      "question": "Deutschland ist …",
+      "question_trans": "Germany is..",
+      "options": [
+        "ein sozialistischer Staat.",
+        "ein Bundesstaat.",
+        "eine Diktatur.",
+        "eine Monarchie."
+      ],
+      "options_trans": [
+        "a socialist state.",
+        "a state.",
+        "a dictatorship.",
+        "a monarchy."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 28,
+      "question": "Wer wählt in Deutschland die Abgeordneten zum Bundestag?",
+      "question_trans": "Who chooses the members of the Bundestag in Germany?",
+      "options": [
+        "das Militär",
+        "die Wirtschaft",
+        "das wahlberechtigte Volk",
+        "die Verwaltung"
+      ],
+      "options_trans": [
+        "the military",
+        "the economy",
+        "the electoral people",
+        "administration"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 29,
+      "question": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+      "question_trans": "What animal is the coat of arms of the Federal Republic of Germany?",
+      "options": [
+        "Löwe",
+        "Adler",
+        "Bär",
+        "Pferd"
+      ],
+      "options_trans": [
+        "Lion",
+        "Eagle",
+        "Bear",
+        "Horse"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 30,
+      "question": "Was ist kein Merkmal unserer Demokratie?",
+      "question_trans": "What is not a feature of our democracy?",
+      "options": [
+        "regelmäßige Wahlen",
+        "Pressezensur",
+        "Meinungsfreiheit",
+        "verschiedene Parteien"
+      ],
+      "options_trans": [
+        "regular elections",
+        "Press review",
+        "Freedom of expression",
+        "different parties"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 31,
+      "question": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland …",
+      "question_trans": "Cooperation between parties to form a government is called in Germany ..",
+      "options": [
+        "Einheit.",
+        "Koalition.",
+        "Ministerium.",
+        "Fraktion."
+      ],
+      "options_trans": [
+        "Unit.",
+        "Coalition.",
+        "Ministry.",
+        "Group."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 32,
+      "question": "Was ist keine staatliche Gewalt in Deutschland?",
+      "question_trans": "What is no state violence in Germany?",
+      "options": [
+        "Gesetzgebung",
+        "Regierung",
+        "Presse",
+        "Rechtsprechung"
+      ],
+      "options_trans": [
+        "Legislation",
+        "Government",
+        "Press release",
+        "Case"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 33,
+      "question": "Welche Aussage ist richtig? In Deutschland …",
+      "question_trans": "What statement is correct? In Germany ..",
+      "options": [
+        "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+        "bilden die Religionsgemeinschaften den Staat.",
+        "ist der Staat abhängig von den Religionsgemeinschaften.",
+        "bilden Staat und Religionsgemeinschaften eine Einheit."
+      ],
+      "options_trans": [
+        "state and religious communities are separated from each other.",
+        "religious communities form the state.",
+        "the state depends on the religious communities.",
+        "state and religious communities form a unity."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 34,
+      "question": "Was ist Deutschland nicht?",
+      "question_trans": "What isn't Germany?",
+      "options": [
+        "eine Demokratie",
+        "ein Rechtsstaat",
+        "eine Monarchie",
+        "ein Sozialstaat"
+      ],
+      "options_trans": [
+        "a democracy",
+        "a rule of law",
+        "a monarchy",
+        "a social state"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 35,
+      "question": "Womit finanziert der deutsche Staat die Sozialversicherung?",
+      "question_trans": "What does the German state finance social security?",
+      "options": [
+        "Kirchensteuer",
+        "Sozialabgaben",
+        "Spendengeldern",
+        "Vereinsbeiträgen"
+      ],
+      "options_trans": [
+        "Church tax",
+        "Social contributions",
+        "Donations",
+        "Association contributions"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 36,
+      "question": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
+      "question_trans": "What measure does social security create in Germany?",
+      "options": [
+        "die Krankenversicherung",
+        "die Autoversicherung",
+        "die Gebäudeversicherung",
+        "die Haftpflichtversicherung"
+      ],
+      "options_trans": [
+        "health insurance",
+        "car insurance",
+        "building insurance",
+        "liability insurance"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 37,
+      "question": "Wie werden die Regierungschefinnen/Regierungschefs der meisten Bundesländer in Deutschland genannt?",
+      "question_trans": "What are the heads of government of most federal states in Germany?",
+      "options": [
+        "Erste Ministerin/Erster Minister",
+        "Premierministerin/Premierminister",
+        "Senatorin/Senator",
+        "Ministerpräsidentin/Ministerpräsident"
+      ],
+      "options_trans": [
+        "First Minister/First Minister",
+        "Prime Minister/Premier Minister",
+        "Senator",
+        "Prime Minister"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 38,
+      "question": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer …",
+      "question_trans": "The Federal Republic of Germany is a democratic and social ..",
+      "options": [
+        "Staatenverbund.",
+        "Bundesstaat.",
+        "Staatenbund.",
+        "Zentralstaat."
+      ],
+      "options_trans": [
+        "States.",
+        "State.",
+        "Federation of States.",
+        "Central state."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 39,
+      "question": "Was hat jedes deutsche Bundesland?",
+      "question_trans": "What does every German federal state have?",
+      "options": [
+        "eine eigene Außenministerin/einen eigenen Außenminister",
+        "eine eigene Währung",
+        "eine eigene Armee",
+        "eine eigene Regierung"
+      ],
+      "options_trans": [
+        "a Foreign Minister of his own",
+        "own currency",
+        "own army",
+        "own government"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 40,
+      "question": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+      "question_trans": "In what words does the German national anthem begin?",
+      "options": [
+        "Völker, hört die Signale …",
+        "Einigkeit und Recht und Freiheit …",
+        "Freude schöner Götterfunken …",
+        "Deutschland einig Vaterland …"
+      ],
+      "options_trans": [
+        "Peoples, hear the signals..",
+        "Unity and law and freedom..",
+        "Joy of beautiful god sparks..",
+        "Germany single fatherland .."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 41,
+      "question": "Warum gibt es in einer Demokratie mehr als eine Partei?",
+      "question_trans": "Why is there more than one party in a democracy?",
+      "options": [
+        "weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden",
+        "damit Bestechung in der Politik begrenzt wird",
+        "um politische Demonstrationen zu verhindern",
+        "um wirtschaftlichen Wettbewerb anzuregen"
+      ],
+      "options_trans": [
+        "because the different opinions of citizens are represented",
+        "to limit bribery in politics",
+        "to prevent political demonstrations",
+        "to stimulate economic competition"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 42,
+      "question": "Wer beschließt in Deutschland ein neues Gesetz?",
+      "question_trans": "Who decides a new law in Germany?",
+      "options": [
+        "die Regierung",
+        "das Parlament",
+        "die Gerichte",
+        "die Polizei"
+      ],
+      "options_trans": [
+        "the Government",
+        "parliament",
+        "the dishes",
+        "the police"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 43,
+      "question": "Wann kann in Deutschland eine Partei verboten werden?",
+      "question_trans": "When can a party be banned in Germany?",
+      "options": [
+        "wenn ihr Wahlkampf zu teuer ist",
+        "wenn sie gegen die Verfassung kämpft",
+        "wenn sie Kritik am Staatsoberhaupt äußert",
+        "wenn ihr Programm eine neue Richtung vorschlägt"
+      ],
+      "options_trans": [
+        "if your campaign is too expensive",
+        "if she fights against the Constitution",
+        "when she makes criticism of the Head of State",
+        "if your program proposes a new direction"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 44,
+      "question": "Wen kann man als Bürgerin/Bürger in Deutschland nicht direkt wählen?",
+      "question_trans": "Who can't be chosen directly as a citizen in Germany?",
+      "options": [
+        "Abgeordnete des EU-Parlaments",
+        "Die Bundespräsidentin/den Bundespräsidenten",
+        "Landtagsabgeordnete",
+        "Bundestagsabgeordnete"
+      ],
+      "options_trans": [
+        "MEPs of the EU Parliament",
+        "The Federal President",
+        "Country Members",
+        "Members of the Bundestag"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 45,
+      "question": "Zu welcher Versicherung gehört die Pflegeversicherung?",
+      "question_trans": "What insurance is the care insurance?",
+      "options": [
+        "Sozialversicherung",
+        "Unfallversicherung",
+        "Hausratsversicherung",
+        "Haftpflicht- und Feuerversicherung"
+      ],
+      "options_trans": [
+        "Social security",
+        "Insurance",
+        "Household insurance",
+        "Compulsory and fire insurance"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 46,
+      "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?",
+      "question_trans": "The German state has many tasks. What is the task of this?",
+      "options": [
+        "Er baut Straßen und Schulen.",
+        "Er verkauft Lebensmittel und Kleidung.",
+        "Er versorgt alle Einwohnerinnen und Einwohner kostenlos mit Zeitungen.",
+        "Er produziert Autos und Busse."
+      ],
+      "options_trans": [
+        "He builds streets and schools.",
+        "He sells food and clothing.",
+        "It supplies all residents free of charge with newspapers.",
+        "He produces cars and buses."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 47,
+      "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?",
+      "question_trans": "The German state has many tasks. What is the task?",
+      "options": [
+        "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+        "Er zahlt Kindergeld.",
+        "Er unterstützt Museen.",
+        "Er fördert Sportlerinnen und Sportler."
+      ],
+      "options_trans": [
+        "He pays for all nationals holiday trips.",
+        "He pays child money.",
+        "He supports museums.",
+        "He promotes athletes."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 48,
+      "question": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
+      "question_trans": "Which institution does not belong to the constitutional bodies of Germany?",
+      "options": [
+        "der Bundesrat",
+        "die Bundespräsidentin/der Bundespräsident",
+        "die Bürgerversammlung",
+        "die Regierung"
+      ],
+      "options_trans": [
+        "the Federal Council",
+        "the Federal President",
+        "the General Assembly",
+        "the Government"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 49,
+      "question": "Wer bestimmt in Deutschland die Schulpolitik?",
+      "question_trans": "Who determines school policy in Germany?",
+      "options": [
+        "die Lehrer und Lehrerinnen",
+        "die Bundesländer",
+        "das Familienministerium",
+        "die Universitäten"
+      ],
+      "options_trans": [
+        "teachers",
+        "the federal states",
+        "the Ministry of Family",
+        "universities"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 50,
+      "question": "Die Wirtschaftsform in Deutschland nennt man …",
+      "question_trans": "The economic form in Germany is called ..",
+      "options": [
+        "freie Zentralwirtschaft.",
+        "soziale Marktwirtschaft.",
+        "gelenkte Zentralwirtschaft.",
+        "Planwirtschaft."
+      ],
+      "options_trans": [
+        "free central economy.",
+        "social market economy.",
+        "steered central economy.",
+        "Planning."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 51,
+      "question": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass …",
+      "question_trans": "It is not a democratic rule of law that..",
+      "options": [
+        "Menschen sich kritisch über die Regierung äußern können.",
+        "Bürger friedlich demonstrieren gehen dürfen.",
+        "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+        "jemand ein Verbrechen begeht und deshalb verhaftet wird."
+      ],
+      "options_trans": [
+        "People can speak critically about the government.",
+        "Citizens are allowed to demonstrate peacefully.",
+        "People are arrested by a private police without reason.",
+        "someone commits a crime and is therefore arrested."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 52,
+      "question": "Was bedeutet \"Volkssouveränität\"? Alle Staatsgewalt geht vom ...",
+      "question_trans": "What does \"people sovereignty\" mean? All state violence goes from...",
+      "options": [
+        "Volke aus.",
+        "Bundestag aus.",
+        "preußischen König aus.",
+        "Bundesverfassungsgericht aus."
+      ],
+      "options_trans": [
+        "People out.",
+        "Parliament.",
+        "prussian king.",
+        "Federal Constitutional Court."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 53,
+      "question": "Was bedeutet \"Rechtsstaat\" in Deutschland?",
+      "question_trans": "What does \"law state\" mean in Germany?",
+      "options": [
+        "Der Staat hat Recht.",
+        "Es gibt nur rechte Parteien.",
+        "Die Bürgerinnen und Bürger entscheiden über Gesetze.",
+        "Der Staat muss die Gesetze einhalten."
+      ],
+      "options_trans": [
+        "The state is right.",
+        "There are only right parties.",
+        "Citizens decide on laws.",
+        "The state must respect the laws."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 54,
+      "question": "Was ist keine staatliche Gewalt in Deutschland?",
+      "question_trans": "What is no state violence in Germany?",
+      "options": [
+        "Legislative",
+        "Judikative",
+        "Exekutive",
+        "Direktive"
+      ],
+      "options_trans": [
+        "Legislative",
+        "Judikative",
+        "Executive",
+        "Directive"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 55,
+      "question": "Was zeigt dieses Bild?",
+      "question_trans": "What does this picture show?",
+      "img": "55.png",
+      "options": [
+        "den Bundestagssitz in Berlin",
+        "das Bundesverfassungsgericht in Karlsruhe",
+        "das Bundesratsgebäude in Berlin",
+        "das Bundeskanzleramt in Berlin"
+      ],
+      "options_trans": [
+        "the Bundestagssitz in Berlin",
+        "the Federal Constitutional Court in Karlsruhe",
+        "the Federal Council building in Berlin",
+        "the Federal Chancellery in Berlin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 56,
+      "question": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
+      "question_trans": "Which office belongs to the municipal administration in Germany?",
+      "options": [
+        "Pfarramt",
+        "Ordnungsamt",
+        "Finanzamt",
+        "Auswärtiges Amt"
+      ],
+      "options_trans": [
+        "Parish",
+        "Order Office",
+        "Taxation",
+        "Auswärtiges Amt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 57,
+      "question": "Wer wird meistens zur Präsidentin/zum Präsidenten des Deutschen Bundestages gewählt?",
+      "question_trans": "Who is usually elected President/President of the German Bundestag?",
+      "options": [
+        "die/der älteste Abgeordnete im Parlament",
+        "die Ministerpräsidentin/der Ministerpräsident des größten Bundeslandes",
+        "eine ehemalige Bundeskanzlerin/ein ehemaliger Bundeskanzler",
+        "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion"
+      ],
+      "options_trans": [
+        "the oldest Member in Parliament",
+        "the Prime Minister of the largest federal state",
+        "a former Federal Chancellor",
+        "a Member of the strongest group"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 58,
+      "question": "Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?",
+      "question_trans": "Who appoints the ministers of the Federal Government in Germany?",
+      "options": [
+        "die Präsidentin/der Präsident des Bundesverfassungsgerichtes",
+        "die Bundespräsidentin/der Bundespräsident",
+        "die Bundesratspräsidentin/der Bundesratspräsident",
+        "die Bundestagspräsidentin/der Bundestagspräsident"
+      ],
+      "options_trans": [
+        "the President of the Federal Constitutional Court",
+        "the Federal President",
+        "the President of the Federal Council",
+        "the President of the Bundestag"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 59,
+      "question": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+      "question_trans": "How many years ago was there a Jewish community in today's Germany for the first time?",
+      "options": [
+        "vor etwa 300 Jahren",
+        "vor etwa 700 Jahren",
+        "vor etwa 1150 Jahren",
+        "vor etwa 1700 Jahren"
+      ],
+      "options_trans": [
+        "about 300 years ago",
+        "about 700 years ago",
+        "about 1150 years ago",
+        "about 1700 years ago"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 60,
+      "question": "In Deutschland gehören der Bundestag und der Bundesrat zur …",
+      "question_trans": "In Germany, the Bundestag and the Federal Council belong to ..",
+      "options": [
+        "Exekutive.",
+        "Legislative.",
+        "Direktive.",
+        "Judikative."
+      ],
+      "options_trans": [
+        "Executive.",
+        "Legislative.",
+        "Directive.",
+        "Judicative."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 61,
+      "question": "Was bedeutet \"Volkssouveränität\"?",
+      "question_trans": "What does \"people sovereignty\" mean?",
+      "options": [
+        "Die Königin/der König herrscht über das Volk.",
+        "Das Bundesverfassungsgericht steht über der Verfassung.",
+        "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+        "Die Staatsgewalt geht vom Volke aus."
+      ],
+      "options_trans": [
+        "The king reigns over the people.",
+        "The Federal Constitutional Court is above the Constitution.",
+        "The interest groups exercise sovereignty together with the government.",
+        "The power of state goes from the people."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 62,
+      "question": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …",
+      "question_trans": "If the parliament of a German federal state is elected, it is called..",
+      "options": [
+        "Kommunalwahl",
+        "Landtagswahl",
+        "Europawahl",
+        "Bundestagswahl"
+      ],
+      "options_trans": [
+        "Local elections",
+        "Local elections",
+        "European elections",
+        "Bundestag election"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 63,
+      "question": "Was gehört in Deutschland nicht zur Exekutive?",
+      "question_trans": "What does not belong to the executive in Germany?",
+      "options": [
+        "die Polizei",
+        "die Gerichte",
+        "das Finanzamt",
+        "die Ministerien"
+      ],
+      "options_trans": [
+        "the police",
+        "the dishes",
+        "the tax office",
+        "ministers"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 64,
+      "question": "Die Bundesrepublik Deutschland ist heute gegliedert in …",
+      "question_trans": "The Federal Republic of Germany is now divided into ..",
+      "options": [
+        "vier Besatzungszonen.",
+        "einen Oststaat und einen Weststaat.",
+        "16 Kantone.",
+        "Bund, Länder und Kommunen."
+      ],
+      "options_trans": [
+        "four occupation zones.",
+        "an East state and a West state.",
+        "16 cantons.",
+        "Covenant, countries and municipalities."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 65,
+      "question": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, …",
+      "question_trans": "It is not one of the tasks of the German Bundestag, ..",
+      "options": [
+        "Gesetze zu entwerfen.",
+        "die Bundesregierung zu kontrollieren.",
+        "die Bundeskanzlerin/den Bundeskanzler zu wählen.",
+        "das Bundeskabinett zu bilden."
+      ],
+      "options_trans": [
+        "To design laws.",
+        "to control the federal government.",
+        "to choose the Chancellor.",
+        "to form the federal cabinet."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 66,
+      "question": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
+      "question_trans": "Which cities have the largest Jewish communities in Germany?",
+      "options": [
+        "Berlin und München",
+        "Hamburg und Essen",
+        "Nürnberg und Stuttgart",
+        "Worms und Speyer"
+      ],
+      "options_trans": [
+        "Berlin and Munich",
+        "Hamburg and Essen",
+        "Nuremberg and Stuttgart",
+        "Worms and Speyer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 67,
+      "question": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
+      "question_trans": "What is primarily a task of the federal states in Germany?",
+      "options": [
+        "Verteidigungspolitik",
+        "Außenpolitik",
+        "Wirtschaftspolitik",
+        "Schulpolitik"
+      ],
+      "options_trans": [
+        "Defence",
+        "Foreign policy",
+        "Economic policy",
+        "School policy"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 68,
+      "question": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+      "question_trans": "Why does the state in Germany control schooling?",
+      "options": [
+        "weil es in Deutschland nur staatliche Schulen gibt",
+        "weil alle Schülerinnen und Schüler einen Schulabschluss haben müssen",
+        "weil es in den Bundesländern verschiedene Schulen gibt",
+        "weil es nach dem Grundgesetz seine Aufgabe ist"
+      ],
+      "options_trans": [
+        "because there are only state schools in Germany",
+        "because all students must have a school degree",
+        "because there are different schools in the federal states",
+        "because it is his task according to the Basic Law"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 69,
+      "question": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
+      "question_trans": "The Federal Republic of Germany has a three-stage administrative structure. What is the lowest political level?",
+      "options": [
+        "Stadträte",
+        "Landräte",
+        "Gemeinden",
+        "Bezirksämter"
+      ],
+      "options_trans": [
+        "City councils",
+        "Councils",
+        "Communities",
+        "District offices"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 70,
+      "question": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten?",
+      "question_trans": "German Federal President Gustav Heinemann gives Helmut Schmidt the appointment certificate as German Chancellor in 1974. What is one of the tasks of the German Federal President?",
+      "options": [
+        "Sie/Er führt die Regierungsgeschäfte.",
+        "Sie/Er kontrolliert die Regierungspartei.",
+        "Sie/Er wählt die Ministerinnen/Minister aus.",
+        "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor."
+      ],
+      "options_trans": [
+        "She/he conducts government business.",
+        "She/he controls the government party.",
+        "She/he selects ministers.",
+        "She/he proposes the chancellor to choose from."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 71,
+      "question": "Wo hält sich die deutsche Bundeskanzlerin/der deutsche Bundeskanzler am häufigsten auf? Am häufigsten ist sie/er …",
+      "question_trans": "Where does the German Chancellor of the German Federal Chancellor most often hold up? Most often it is..",
+      "options": [
+        "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+        "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
+        "auf Schloss Bellevue, dem Amtssitz der Bundespräsidentin/des Bundespräsidenten, um Staatsgäste zu empfangen.",
+        "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
+      ],
+      "options_trans": [
+        "in Bonn, because there are the Federal Chancellery and the Bundestag.",
+        "at Schloss Meseberg, the guest house of the Federal Government to receive state guests.",
+        "at Bellevue Castle, the seat of the Federal President/President to receive state guests.",
+        "in Berlin, because there are the Federal Chancellery and the Bundestag."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 72,
+      "question": "Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?",
+      "question_trans": "What is the current Chancellor of Germany?",
+      "options": [
+        "Gerhard Schröder",
+        "Angela Merkel",
+        "Franziska Giffey",
+        "Olaf Scholz"
+      ],
+      "options_trans": [
+        "Gerhard Schröder",
+        "Angela Merkel",
+        "Franziska Giffey",
+        "Olaf Scholz"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 73,
+      "question": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …",
+      "question_trans": "The two largest groups in the German Bundestag are currently called ..",
+      "options": [
+        "CDU/CSU und SPD.",
+        "Die Linke und Bündnis 90/Die Grünen.",
+        "FDP und SPD.",
+        "Die Linke und FDP."
+      ],
+      "options_trans": [
+        "CDU/CSU and SPD.",
+        "The left and alliance 90/The Greens.",
+        "FDP and SPD.",
+        "The Left and FDP."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 74,
+      "question": "Wie heißt das Parlament für ganz Deutschland?",
+      "question_trans": "What is the name of Parliament for Germany?",
+      "options": [
+        "Bundesversammlung",
+        "Volkskammer",
+        "Bundestag",
+        "Bundesgerichtshof"
+      ],
+      "options_trans": [
+        "Federal Assembly",
+        "Chamber of Commerce",
+        "Parliament",
+        "Bundesgerichtshof"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 75,
+      "question": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
+      "question_trans": "What is Germany's head of state today?",
+      "options": [
+        "Frank-Walter Steinmeier",
+        "Bärbel Bas",
+        "Bodo Ramelow",
+        "Joachim Gauck"
+      ],
+      "options_trans": [
+        "Frank-Walter Steinmeier",
+        "Bärbel Bas",
+        "Bodo Ramelow",
+        "Joachim Gauck"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 76,
+      "question": "Was bedeutet die Abkürzung CDU in Deutschland?",
+      "question_trans": "What does the abbreviation CDU mean in Germany?",
+      "options": [
+        "Christliche Deutsche Union",
+        "Club Deutscher Unternehmer",
+        "Christlicher Deutscher Umweltschutz",
+        "Christlich Demokratische Union"
+      ],
+      "options_trans": [
+        "Christian German Union",
+        "Club German entrepreneur",
+        "Christian German environmental protection",
+        "Christian Democratic Union"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 77,
+      "question": "Was ist die Bundeswehr?",
+      "question_trans": "What is the Bundeswehr?",
+      "options": [
+        "die deutsche Polizei",
+        "ein deutscher Hafen",
+        "eine deutsche Bürgerinitiative",
+        "die deutsche Armee"
+      ],
+      "options_trans": [
+        "the German police",
+        "a German port",
+        "a German citizen initiative",
+        "the German army"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 78,
+      "question": "Was bedeutet die Abkürzung SPD?",
+      "question_trans": "What does the abbreviation SPD mean?",
+      "options": [
+        "Sozialistische Partei Deutschlands",
+        "Sozialpolitische Partei Deutschlands",
+        "Sozialdemokratische Partei Deutschlands",
+        "Sozialgerechte Partei Deutschlands"
+      ],
+      "options_trans": [
+        "Socialist Party of Germany",
+        "Socialist Party of Germany",
+        "Social Democratic Party of Germany",
+        "Socially fair party of Germany"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 79,
+      "question": "Was bedeutet die Abkürzung FDP in Deutschland?",
+      "question_trans": "What does the abbreviation FDP mean in Germany?",
+      "options": [
+        "Friedliche Demonstrative Partei",
+        "Freie Deutschland Partei",
+        "Führende Demokratische Partei",
+        "Freie Demokratische Partei"
+      ],
+      "options_trans": [
+        "Peaceful Demonstrative Party",
+        "Free Germany Party",
+        "Leading Democratic Party",
+        "Free Democratic Party"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 80,
+      "question": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
+      "question_trans": "What court in Germany is responsible for the interpretation of the Basic Law?",
+      "options": [
+        "Oberlandesgericht",
+        "Amtsgericht",
+        "Bundesverfassungsgericht",
+        "Verwaltungsgericht"
+      ],
+      "options_trans": [
+        "Oberlandesgericht",
+        "Court of Justice",
+        "Federal Constitutional Court",
+        "Administrative Court"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 81,
+      "question": "Wer wählt die Bundeskanzlerin/den Bundeskanzler in Deutschland?",
+      "question_trans": "Who chooses the Chancellor in Germany?",
+      "options": [
+        "der Bundesrat",
+        "die Bundesversammlung",
+        "das Volk",
+        "der Bundestag"
+      ],
+      "options_trans": [
+        "the Federal Council",
+        "the Federal Assembly",
+        "the people",
+        "the Bundestag"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 82,
+      "question": "Wer leitet das deutsche Bundeskabinett?",
+      "question_trans": "Who heads the German federal cabinet?",
+      "options": [
+        "die Bundestagspräsidentin/der Bundestagspräsident",
+        "die Bundespräsidentin/der Bundespräsident",
+        "die Bundesratspräsidentin/der Bundesratspräsident",
+        "die Bundeskanzlerin/der Bundeskanzler"
+      ],
+      "options_trans": [
+        "the President of the Bundestag",
+        "the Federal President",
+        "the President of the Federal Council",
+        "the Federal Chancellor"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 83,
+      "question": "Wer wählt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?",
+      "question_trans": "Who chooses the German Chancellor?",
+      "options": [
+        "das Volk",
+        "die Bundesversammlung",
+        "der Bundestag",
+        "die Bundesregierung"
+      ],
+      "options_trans": [
+        "the people",
+        "the Federal Assembly",
+        "the Bundestag",
+        "the Federal Government"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 84,
+      "question": "Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident? Sie/Er …",
+      "question_trans": "What is the main task of the German Federal President? You/he..",
+      "options": [
+        "regiert das Land.",
+        "entwirft die Gesetze.",
+        "repräsentiert das Land.",
+        "überwacht die Einhaltung der Gesetze."
+      ],
+      "options_trans": [
+        "governs the country.",
+        "drafts the laws.",
+        "represents the country.",
+        "monitors compliance with the laws."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 85,
+      "question": "Wer bildet den deutschen Bundesrat?",
+      "question_trans": "Who forms the German Federal Council?",
+      "options": [
+        "die Abgeordneten des Bundestages",
+        "die Ministerinnen und Minister der Bundesregierung",
+        "die Regierungsvertreter der Bundesländer",
+        "die Parteimitglieder"
+      ],
+      "options_trans": [
+        "members of the Bundestag",
+        "minister of the Federal Government",
+        "the government representatives of the federal states",
+        "the party members"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 86,
+      "question": "Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten?",
+      "question_trans": "Who chooses the Federal President in Germany?",
+      "options": [
+        "die Bundesversammlung",
+        "der Bundesrat",
+        "das Bundesparlament",
+        "das Bundesverfassungsgericht"
+      ],
+      "options_trans": [
+        "the Federal Assembly",
+        "the Federal Council",
+        "the federal parliament",
+        "the Federal Constitutional Court"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 87,
+      "question": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+      "question_trans": "Who is the Head of State of the Federal Republic of Germany?",
+      "options": [
+        "die Bundeskanzlerin/der Bundeskanzler",
+        "die Bundespräsidentin/der Bundespräsident",
+        "die Bundesratspräsidentin/der Bundesratspräsident",
+        "die Bundestagspräsidentin/der Bundestagspräsident"
+      ],
+      "options_trans": [
+        "the Federal Chancellor",
+        "the Federal President",
+        "the President of the Federal Council",
+        "the President of the Bundestag"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 88,
+      "question": "Die parlamentarische Opposition im Deutschen Bundestag …",
+      "question_trans": "The parliamentary opposition in the German Bundestag ..",
+      "options": [
+        "kontrolliert die Regierung.",
+        "entscheidet, wer Bundesministerin/Bundesminister wird.",
+        "bestimmt, wer im Bundesrat sitzt.",
+        "schlägt die Regierungschefinnen/Regierungschefs der Länder vor."
+      ],
+      "options_trans": [
+        "controls the government.",
+        "decides who becomes Federal Minister/Federal Minister.",
+        "who sits in the Federal Council.",
+        "proposes the heads of government of the countries."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 89,
+      "question": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+      "question_trans": "What is the name of the Association of Members of a Party in Parliament in Germany?",
+      "options": [
+        "Verband",
+        "Ältestenrat",
+        "Fraktion",
+        "Opposition"
+      ],
+      "options_trans": [
+        "Association",
+        "Elderly Council",
+        "Group",
+        "Opposition"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 90,
+      "question": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …",
+      "question_trans": "The German federal states are involved in the federal legislation ..",
+      "options": [
+        "den Bundesrat.",
+        "die Bundesversammlung.",
+        "den Bundestag.",
+        "die Bundesregierung."
+      ],
+      "options_trans": [
+        "the Federal Council.",
+        "the Federal Assembly.",
+        "the Bundestag.",
+        "the Federal Government."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 91,
+      "question": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …",
+      "question_trans": "In Germany, a government change in a federal state can have an impact on federal policy. Regulating..",
+      "options": [
+        "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+        "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+        "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+        "leichter, wenn es sich um ein reiches Bundesland handelt."
+      ],
+      "options_trans": [
+        "more difficult when the majority in the Bundestag changes.",
+        "easier when new parties come to the Federal Council.",
+        "more difficult when the majority in the Federal Council is changed.",
+        "easier if it is a rich federal state."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 92,
+      "question": "Was bedeutet die Abkürzung CSU in Deutschland?",
+      "question_trans": "What does the abbreviation CSU mean in Germany?",
+      "options": [
+        "Christlich Sichere Union",
+        "Christlich Süddeutsche Union",
+        "Christlich Sozialer Unternehmerverband",
+        "Christlich Soziale Union"
+      ],
+      "options_trans": [
+        "Christian Secure Union",
+        "Christian Southern German Union",
+        "Christian Social Entrepreneurship Association",
+        "Christian Social Union"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 93,
+      "question": "Je mehr \"Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto …",
+      "question_trans": "The more \"second voice\" a party gets in a Bundestag election, the..",
+      "options": [
+        "weniger Erststimmen kann sie haben.",
+        "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+        "größer ist das Risiko, eine Koalition bilden zu müssen.",
+        "mehr Sitze erhält die Partei im Parlament."
+      ],
+      "options_trans": [
+        "they can have less initial votes.",
+        "more direct candidates of the party move into parliament.",
+        "greater is the risk of forming a coalition.",
+        "the party receives more seats in Parliament."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 94,
+      "question": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+      "question_trans": "From what age can you take part in the election to the German Bundestag in Germany?",
+      "options": [
+        "16",
+        "18",
+        "21",
+        "23"
+      ],
+      "options_trans": [
+        "16",
+        "18",
+        "21",
+        "23"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 95,
+      "question": "Was gilt für die meisten Kinder in Deutschland?",
+      "question_trans": "What applies to most children in Germany?",
+      "options": [
+        "Wahlpflicht",
+        "Schulpflicht",
+        "Schweigepflicht",
+        "Religionspflicht"
+      ],
+      "options_trans": [
+        "Duty to vote",
+        "Compulsory schooling",
+        "Liability",
+        "Religious duty"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 96,
+      "question": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+      "question_trans": "How can anyone who denies the Holocaust be punished?",
+      "options": [
+        "Kürzung sozialer Leistungen",
+        "bis zu 100 Sozialstunden",
+        "gar nicht, Holocaustleugnung ist erlaubt",
+        "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+      ],
+      "options_trans": [
+        "Reduction of social benefits",
+        "up to 100 social hours",
+        "not at all, Holocaust denial is allowed",
+        "with imprisonment up to five years or with fine"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 97,
+      "question": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+      "question_trans": "What do you pay automatically in Germany when you are fixed?",
+      "options": [
+        "Sozialversicherung",
+        "Sozialhilfe",
+        "Kindergeld",
+        "Wohngeld"
+      ],
+      "options_trans": [
+        "Social security",
+        "Social assistance",
+        "Child benefit",
+        "Benefits"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 98,
+      "question": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …",
+      "question_trans": "If Members of the German Bundestag change their group..",
+      "options": [
+        "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+        "kann die Regierung ihre Mehrheit verlieren.",
+        "muss die Bundespräsidentin/der Bundespräsident zuvor ihr/sein Einverständnis geben.",
+        "dürfen die Wählerinnen/Wähler dieser Abgeordneten noch einmal wählen."
+      ],
+      "options_trans": [
+        "they must no longer participate in Parliament's meetings.",
+        "the government can lose its majority.",
+        "the Federal President must give her/her consent beforehand.",
+        "the voters of these Members may choose again."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 99,
+      "question": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+      "question_trans": "Who pays social security in Germany?",
+      "options": [
+        "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
+        "nur Arbeitnehmerinnen/Arbeitnehmer",
+        "alle Staatsangehörigen",
+        "nur Arbeitgeberinnen/Arbeitgeber"
+      ],
+      "options_trans": [
+        "Employers/employers",
+        "only employees",
+        "all nationals",
+        "employers only"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 100,
+      "question": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
+      "question_trans": "What does not belong to statutory social security?",
+      "options": [
+        "die Lebensversicherung",
+        "die gesetzliche Rentenversicherung",
+        "die Arbeitslosenversicherung",
+        "die Pflegeversicherung"
+      ],
+      "options_trans": [
+        "life insurance",
+        "the statutory pension insurance",
+        "unemployment insurance",
+        "care insurance"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 101,
+      "question": "Gewerkschaften sind Interessenverbände der …",
+      "question_trans": "Trade unions are associations of interests ..",
+      "options": [
+        "Jugendlichen.",
+        "Arbeitnehmerinnen und Arbeitnehmer.",
+        "Rentnerinnen und Rentner.",
+        "Arbeitgeberinnen und Arbeitgeber."
+      ],
+      "options_trans": [
+        "Young people.",
+        "Workers.",
+        "Pensioners.",
+        "Employers."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 102,
+      "question": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …",
+      "question_trans": "What can be honoured in the Federal Republic of Germany if a particular achievement has been achieved in political, economic, cultural, intellectual or social fields? With the ..",
+      "options": [
+        "Bundesverdienstkreuz",
+        "Bundesadler",
+        "Vaterländischen Verdienstorden",
+        "Ehrentitel \"Held der Deutschen Demokratischen Republik\""
+      ],
+      "options_trans": [
+        "Federal Cross of Merit",
+        "Federal eagle",
+        "Occupational Orders",
+        "Honorary title \"Held of the German Democratic Republic\""
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 103,
+      "question": "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit …",
+      "question_trans": "What is referred to in Germany as \"Ampelkoalition\"? Cooperation ..",
+      "options": [
+        "der Bundestagsfraktionen von CDU und CSU",
+        "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+        "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+        "der Bundestagsfraktionen von CDU und SPD"
+      ],
+      "options_trans": [
+        "the parliamentary groups of CDU and CSU",
+        "by SPD, FDP and Alliance 90/The Greens in a Government",
+        "by CSU, The LINKE and Alliance 90/The Greens in a Government",
+        "the parliamentary groups of CDU and SPD"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 104,
+      "question": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+      "question_trans": "A woman in Germany loses her work. What can't be the reason for this dismissal?",
+      "options": [
+        "Die Frau ist lange krank und arbeitsunfähig.",
+        "Die Frau kam oft zu spät zur Arbeit.",
+        "Die Frau erledigt private Sachen während der Arbeitszeit.",
+        "Die Frau bekommt ein Kind und ihr Chef weiß das."
+      ],
+      "options_trans": [
+        "The woman is long sick and incapable of work.",
+        "The woman often came too late to work.",
+        "The woman does private things during working hours.",
+        "The woman gets a child and her boss knows that."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 105,
+      "question": "Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?",
+      "question_trans": "What is a task of electoral helpers in Germany?",
+      "options": [
+        "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+        "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+        "Sie geben Zwischenergebnisse an die Medien weiter.",
+        "Sie zählen die Stimmen nach dem Ende der Wahl."
+      ],
+      "options_trans": [
+        "They help old people to vote in the voting booth.",
+        "You're writing the election notifications before the election.",
+        "They pass interim results to the media.",
+        "They count the votes after the end of the election."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 106,
+      "question": "In Deutschland helfen ehrenamtliche Wahlhelferinnen und Wahlhelfer bei den Wahlen. Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern?",
+      "question_trans": "In Germany volunteers help in the elections. What is a task of electoral helpers?",
+      "options": [
+        "Sie helfen Kindern und alten Menschen beim Wählen.",
+        "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+        "Sie geben Zwischenergebnisse an Journalisten weiter.",
+        "Sie zählen die Stimmen nach dem Ende der Wahl."
+      ],
+      "options_trans": [
+        "They help children and old people choose.",
+        "You write cards and letters indicating the polling place.",
+        "They pass interim results to journalists.",
+        "They count the votes after the end of the election."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 107,
+      "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+      "question_trans": "How many years will the Bundestag be elected in Germany?",
+      "options": [
+        "2 Jahre",
+        "4 Jahre",
+        "6 Jahre",
+        "8 Jahre"
+      ],
+      "options_trans": [
+        "2 years",
+        "4 years",
+        "6 years",
+        "8 years"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 108,
+      "question": "Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der …",
+      "question_trans": "In the case of a Bundestag election in Germany, each person may choose the ..",
+      "options": [
+        "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+        "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+        "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+        "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
+      ],
+      "options_trans": [
+        "in the Federal Republic of Germany.",
+        "Is a citizen of the Federal Republic of Germany and is at least 18 years old.",
+        "for at least 3 years in the Federal Republic of Germany.",
+        "Citizens of the Federal Republic of Germany are at least 21 years old."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 109,
+      "question": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+      "question_trans": "How many times are there usually Bundestag elections in Germany?",
+      "options": [
+        "alle drei Jahre",
+        "alle vier Jahre",
+        "alle fünf Jahre",
+        "alle sechs Jahre"
+      ],
+      "options_trans": [
+        "all three years",
+        "all four years",
+        "every five years",
+        "every six years"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 110,
+      "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+      "question_trans": "How many years will the Bundestag be elected in Germany?",
+      "options": [
+        "2 Jahre",
+        "3 Jahre",
+        "4 Jahre",
+        "5 Jahre"
+      ],
+      "options_trans": [
+        "2 years",
+        "3 years",
+        "4 years",
+        "5 years"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 111,
+      "question": "Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?",
+      "question_trans": "What actions related to the State of Israel are prohibited in Germany?",
+      "options": [
+        "die Politik Israels öffentlich kritisieren",
+        "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
+        "eine Diskussion über die Politik Israels",
+        "der öffentliche Aufruf zur Vernichtung Israels"
+      ],
+      "options_trans": [
+        "publicly criticize Israel's policy",
+        "hanging an Israeli flag on the private property",
+        "a discussion on Israel's policy",
+        "the public call for the destruction of Israel"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 112,
+      "question": "Die Wahlen in Deutschland sind …",
+      "question_trans": "The elections in Germany are..",
+      "options": [
+        "speziell.",
+        "geheim.",
+        "berufsbezogen.",
+        "geschlechtsabhängig."
+      ],
+      "options_trans": [
+        "special.",
+        "secret.",
+        "professional.",
+        "gender-dependent."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 113,
+      "question": "Wahlen in Deutschland gewinnt die Partei, die …",
+      "question_trans": "Elections in Germany wins the party that..",
+      "options": [
+        "die meisten Stimmen bekommt.",
+        "die meisten Männer mehrheitlich gewählt haben.",
+        "die meisten Stimmen bei den Arbeiterinnen/Arbeitern bekommen hat.",
+        "die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten erhalten hat."
+      ],
+      "options_trans": [
+        "most voices get.",
+        "most men have chosen majority.",
+        "most of the voices have received from the workers.",
+        "most initial votes for their chancellor candidate have received their chancellor candidates."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 114,
+      "question": "An demokratischen Wahlen in Deutschland teilzunehmen ist …",
+      "question_trans": "To participate in democratic elections in Germany ..",
+      "options": [
+        "eine Pflicht.",
+        "ein Recht.",
+        "ein Zwang.",
+        "eine Last."
+      ],
+      "options_trans": [
+        "a duty.",
+        "a right.",
+        "a compulsion.",
+        "a load."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 115,
+      "question": "Was bedeutet \"aktives Wahlrecht\" in Deutschland?",
+      "question_trans": "What does \"active voting rights\" mean in Germany?",
+      "options": [
+        "Man kann gewählt werden.",
+        "Man muss wählen gehen.",
+        "Man kann wählen.",
+        "Man muss zur Auszählung der Stimmen gehen."
+      ],
+      "options_trans": [
+        "You can be chosen.",
+        "You have to go.",
+        "You can choose.",
+        "You have to go to counting the voices."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 116,
+      "question": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …",
+      "question_trans": "If you are allowed to vote in Germany for a Bundestag election, that means..",
+      "options": [
+        "aktive Wahlkampagne.",
+        "aktives Wahlverfahren.",
+        "aktiver Wahlkampf.",
+        "aktives Wahlrecht."
+      ],
+      "options_trans": [
+        "active campaign.",
+        "active electoral procedure.",
+        "active campaign.",
+        "active voting rights."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 117,
+      "question": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+      "question_trans": "How much percent of the second votes do parties have to get at least to be elected in the German Bundestag?",
+      "options": [
+        "3%",
+        "4%",
+        "5%",
+        "6%"
+      ],
+      "options_trans": [
+        "%",
+        "4%",
+        "5%",
+        "6%"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 118,
+      "question": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+      "question_trans": "Who can become a member of the 40 Jewish Makkabi sports clubs?",
+      "options": [
+        "nur Deutsche",
+        "nur Israelis",
+        "nur religiöse Menschen",
+        "alle Menschen"
+      ],
+      "options_trans": [
+        "only German",
+        "only Israelis",
+        "only religious people",
+        "all people"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 119,
+      "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+      "question_trans": "Elections in Germany are free. What does that mean?",
+      "options": [
+        "Alle verurteilten Straftäterinnen/Straftäter dürfen nicht wählen.",
+        "Wenn ich wählen gehen möchte, muss meine Arbeitgeberin/mein Arbeitgeber mir frei geben.",
+        "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+        "Ich kann frei entscheiden, wo ich wählen gehen möchte."
+      ],
+      "options_trans": [
+        "All convicted offenders must not choose.",
+        "If I want to choose, my employer must give me free.",
+        "Any person can decide without compulsion whether they want to choose and who they want to choose.",
+        "I can decide freely where to choose."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 120,
+      "question": "Das Wahlsystem in Deutschland ist ein …",
+      "question_trans": "The electoral system in Germany is a ..",
+      "options": [
+        "Zensuswahlrecht.",
+        "Dreiklassenwahlrecht.",
+        "Mehrheits- und Verhältniswahlrecht.",
+        "allgemeines Männerwahlrecht."
+      ],
+      "options_trans": [
+        "Census electoral law.",
+        "Three-class voting rights.",
+        "Majority and proportional voting rights.",
+        "general rule of men's choice."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 121,
+      "question": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …",
+      "question_trans": "A party wants to go to the German Bundestag. But it must have a minimum proportion of voters. That means..",
+      "options": [
+        "5%-Hürde.",
+        "Zulassungsgrenze.",
+        "Basiswert.",
+        "Richtlinie."
+      ],
+      "options_trans": [
+        "5% strength.",
+        "Admission limit.",
+        "Basic value.",
+        "Directive."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 122,
+      "question": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …",
+      "question_trans": "What is the principle of voting in Germany? Elections in Germany are..",
+      "options": [
+        "frei, gleich, geheim.",
+        "offen, sicher, frei.",
+        "geschlossen, gleich, sicher.",
+        "sicher, offen, freiwillig."
+      ],
+      "options_trans": [
+        "free, equal, secret.",
+        "open, safe, free.",
+        "closed, equal, safe.",
+        "safe, open, voluntary."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 123,
+      "question": "Was ist in Deutschland die \"5%-Hürde\"?",
+      "question_trans": "What is the \"5% strength\" in Germany?",
+      "options": [
+        "Abstimmungsregelung im Bundestag für kleine Parteien",
+        "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+        "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+        "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
+      ],
+      "options_trans": [
+        "Voting arrangements in the Bundestag for small parties",
+        "Presence control in the Bundestag for votes",
+        "Minimum proportion of votes to come to Parliament",
+        "Presence check in the Federal Council for Voting"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 124,
+      "question": "Die Bundestagswahl in Deutschland ist die Wahl …",
+      "question_trans": "The German election in Germany is the election ..",
+      "options": [
+        "der Bundeskanzlerin/des Bundeskanzlers.",
+        "der Parlamente der Länder.",
+        "des Parlaments für Deutschland.",
+        "der Bundespräsidentin/des Bundespräsidenten."
+      ],
+      "options_trans": [
+        "the Chancellor of the Federal Chancellor.",
+        "parliaments of the countries.",
+        "parliament for Germany.",
+        "the Federal President."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 125,
+      "question": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …",
+      "question_trans": "In a democracy is a function of regular elections, ..",
+      "options": [
+        "die Bürgerinnen und Bürger zu zwingen, ihre Stimme abzugeben.",
+        "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+        "im Land bestehende Gesetze beizubehalten.",
+        "den Armen mehr Macht zu geben."
+      ],
+      "options_trans": [
+        "to force citizens to vote.",
+        "to enable the government to change according to the will of the majority of voters.",
+        "to maintain existing laws in the country.",
+        "to give the poor more power."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 126,
+      "question": "Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?",
+      "question_trans": "What are the citizens of Germany entitled to vote?",
+      "options": [
+        "eine Wahlbenachrichtigung von der Gemeinde",
+        "eine Wahlerlaubnis von der Bundespräsidentin/von dem Bundespräsidenten",
+        "eine Benachrichtigung von der Bundesversammlung",
+        "eine Benachrichtigung vom Pfarramt"
+      ],
+      "options_trans": [
+        "an election notification from the municipality",
+        "a permit to vote by the Federal President",
+        "a notification from the Federal Assembly",
+        "a notification from the parish office"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 127,
+      "question": "Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …",
+      "question_trans": "Why is there the 5% burden in the Federal Republic of Germany's electoral law? There are them because..",
+      "options": [
+        "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+        "die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.",
+        "viele kleine Parteien die Regierungsbildung erschweren.",
+        "die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und Politiker zu bezahlen."
+      ],
+      "options_trans": [
+        "the programs of many small parties have many similarities.",
+        "the citizens can lose orientation in many small parties.",
+        "many small parties complicate government formation.",
+        "the small parties do not have so much money to pay politicians."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 128,
+      "question": "Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man …",
+      "question_trans": "Members of Parliament elected by citizens are called..",
+      "options": [
+        "Abgeordnete.",
+        "Kanzlerinnen/Kanzler.",
+        "Botschafterinnen/Botschafter.",
+        "Ministerpräsidentinnen/Ministerpräsidenten."
+      ],
+      "options_trans": [
+        "Members.",
+        "Chancellor.",
+        "Ambassadors.",
+        "Prime Minister."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 129,
+      "question": "Vom Volk gewählt wird in Deutschland …",
+      "question_trans": "Elected by the people in Germany ..",
+      "options": [
+        "die Bundeskanzlerin/der Bundeskanzler.",
+        "die Ministerpräsidentin/der Ministerpräsident eines Bundeslandes.",
+        "der Bundestag.",
+        "die Bundespräsidentin/der Bundespräsident."
+      ],
+      "options_trans": [
+        "the Chancellor of the Federal Chancellor.",
+        "the Prime Minister of a federal state.",
+        "the Bundestag.",
+        "the Federal President."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 130,
+      "question": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
+      "question_trans": "What ballot would be valid for a Bundestag election?",
+      "img": "130.png",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "options_trans": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 131,
+      "question": "In Deutschland ist eine Bürgermeisterin/ein Bürgermeister …",
+      "question_trans": "In Germany is a mayor..",
+      "options": [
+        "die Leiterin/der Leiter einer Schule.",
+        "die Chefin/der Chef einer Bank.",
+        "das Oberhaupt einer Gemeinde.",
+        "die/der Vorsitzende einer Partei."
+      ],
+      "options_trans": [
+        "the head of a school.",
+        "the chief of a bank.",
+        "the head of a community.",
+        "the chairman of a party."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 132,
+      "question": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+      "question_trans": "Many people in Germany are volunteering in their spare time. What does that mean?",
+      "options": [
+        "Sie arbeiten als Soldatinnen/Soldaten.",
+        "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+        "Sie arbeiten in der Bundesregierung.",
+        "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+      ],
+      "options_trans": [
+        "They work as soldiers.",
+        "They work voluntarily and unpaid in associations and associations.",
+        "They work in the federal government.",
+        "They work in a hospital and earn money."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 133,
+      "question": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+      "question_trans": "What is allowed in German Bundestag and Landtag elections?",
+      "options": [
+        "Der Ehemann wählt für seine Frau mit.",
+        "Man kann durch Briefwahl seine Stimme abgeben.",
+        "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+        "Kinder ab dem Alter von 14 Jahren dürfen wählen."
+      ],
+      "options_trans": [
+        "The husband chooses for his wife.",
+        "You can give your voice by lettering.",
+        "You can give your voice by phone on the election day.",
+        "Children aged 14 may choose."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 134,
+      "question": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+      "question_trans": "You want to get rid of the bus line you always drive to work with. What can you do to get the bus line?",
+      "options": [
+        "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+        "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+        "Ich wende mich an das Finanzamt, weil ich als Steuerzahlerin/Steuerzahler ein Recht auf die Buslinie habe.",
+        "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+      ],
+      "options_trans": [
+        "I participate in a citizens' initiative for the maintenance of the bus line or start an initiative myself.",
+        "I become a member of a sports club and train cycling.",
+        "I turn to the tax office because I have a right to the bus line as taxpayer/tax payer.",
+        "I'll write a letter to the Municipal Forest Office."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 135,
+      "question": "Wen vertreten die Gewerkschaften in Deutschland?",
+      "question_trans": "Who are the trade unions in Germany?",
+      "options": [
+        "große Unternehmen",
+        "kleine Unternehmen",
+        "Selbstständige",
+        "Arbeitnehmerinnen und Arbeitnehmer"
+      ],
+      "options_trans": [
+        "large enterprises",
+        "small businesses",
+        "Self-employed",
+        "Employees"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 136,
+      "question": "Sie gehen in Deutschland zum Arbeitsgericht bei …",
+      "question_trans": "You go to the Labour Court in Germany..",
+      "options": [
+        "falscher Nebenkostenabrechnung.",
+        "ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.",
+        "Problemen mit den Nachbarinnen/Nachbarn.",
+        "Schwierigkeiten nach einem Verkehrsunfall."
+      ],
+      "options_trans": [
+        "false cost accounting.",
+        "unjustified termination by your boss.",
+        "Problems with neighbors.",
+        "Difficulties after a traffic accident."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 137,
+      "question": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+      "question_trans": "What court is in Germany responsible for conflicts in the world of work?",
+      "options": [
+        "das Familiengericht",
+        "das Strafgericht",
+        "das Arbeitsgericht",
+        "das Amtsgericht"
+      ],
+      "options_trans": [
+        "the family court",
+        "the criminal court",
+        "the Labour Court",
+        "the District Court"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 138,
+      "question": "Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?",
+      "question_trans": "What can I do in Germany if my employer has wronged me?",
+      "options": [
+        "weiterarbeiten und freundlich zur Chefin/zum Chef sein",
+        "ein Mahnverfahren gegen die Arbeitgeberin/den Arbeitgeber führen",
+        "Kündigungsschutzklage erheben",
+        "die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen"
+      ],
+      "options_trans": [
+        "continue working and being friendly to the boss",
+        "a dunning procedure against employers",
+        "Collection of notices",
+        "show the employer to the police"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 139,
+      "question": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …",
+      "question_trans": "When is a trial in Germany? If someone..",
+      "options": [
+        "zu einer anderen Religion übertritt.",
+        "eine Straftat begangen hat und angeklagt wird.",
+        "eine andere Meinung als die der Regierung vertritt.",
+        "sein Auto falsch geparkt hat und es abgeschleppt wird."
+      ],
+      "options_trans": [
+        "to another religion.",
+        "has committed a crime and is accused.",
+        "a different opinion than that of the government.",
+        "his car parked wrong and it is towed."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 140,
+      "question": "Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er …",
+      "question_trans": "What does a Schöffin/Schöffin in Germany do? You/he..",
+      "options": [
+        "entscheidet mit Richterinnen/Richtern über Schuld und Strafe.",
+        "gibt Bürgerinnen/Bürgern rechtlichen Rat.",
+        "stellt Urkunden aus.",
+        "verteidigt die Angeklagte/den Angeklagten."
+      ],
+      "options_trans": [
+        "decides with judges on guilt and punishment.",
+        "gives citizens legal advice.",
+        "issue documents.",
+        "defends the defendant."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 141,
+      "question": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+      "question_trans": "Who advises people in Germany in legal matters and represents them in court?",
+      "options": [
+        "eine Rechtsanwältin/ein Rechtsanwalt",
+        "eine Richterin/ein Richter",
+        "eine Schöffin/ein Schöffe",
+        "eine Staatsanwältin/ein Staatsanwalt"
+      ],
+      "options_trans": [
+        "a lawyer",
+        "a judge",
+        "a spoon",
+        "a prosecutor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 142,
+      "question": "Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter …",
+      "question_trans": "What is the main task of a judge in Germany? A judge..",
+      "options": [
+        "vertritt Bürgerinnen und Bürger vor einem Gericht.",
+        "arbeitet an einem Gericht und spricht Urteile.",
+        "ändert Gesetze.",
+        "betreut Jugendliche vor Gericht."
+      ],
+      "options_trans": [
+        "represents citizens in court.",
+        "works on a court and speaks judgments.",
+        "changes laws.",
+        "supervises young people in court."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 143,
+      "question": "Eine Richterin/ein Richter in Deutschland gehört zur …",
+      "question_trans": "A judge in Germany belongs to ..",
+      "options": [
+        "Judikative.",
+        "Exekutive.",
+        "Operative.",
+        "Legislative."
+      ],
+      "options_trans": [
+        "Judicative.",
+        "Executive.",
+        "Operational.",
+        "Legislative."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 144,
+      "question": "Eine Richterin/ein Richter gehört in Deutschland zur …",
+      "question_trans": "A judge in Germany belongs to ..",
+      "options": [
+        "vollziehenden Gewalt.",
+        "rechtsprechenden Gewalt.",
+        "planenden Gewalt.",
+        "gesetzgebenden Gewalt."
+      ],
+      "options_trans": [
+        "violence.",
+        "right-wing violence.",
+        "planning violence.",
+        "legislative violence."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 145,
+      "question": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet eine Richterin/ein Richter? Für die …",
+      "question_trans": "In Germany the state power is divided. What state power does a judge work for? For ..",
+      "options": [
+        "Judikative",
+        "Exekutive",
+        "Presse",
+        "Legislative"
+      ],
+      "options_trans": [
+        "Judikative",
+        "Executive",
+        "Press release",
+        "Legislative"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 146,
+      "question": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+      "question_trans": "How do you call a trial before a court in Germany?",
+      "options": [
+        "Programm",
+        "Prozedur",
+        "Protokoll",
+        "Prozess"
+      ],
+      "options_trans": [
+        "Programme",
+        "Procedure",
+        "Protocol",
+        "Process"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 147,
+      "question": "Was ist die Arbeit einer Richterin/eines Richters in Deutschland?",
+      "question_trans": "What is the work of a judge in Germany?",
+      "options": [
+        "Deutschland regieren",
+        "Recht sprechen",
+        "Pläne erstellen",
+        "Gesetze erlassen"
+      ],
+      "options_trans": [
+        "Manage Germany",
+        "Legal Affairs",
+        "Create a plan",
+        "Legislation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 148,
+      "question": "Was ist eine Aufgabe der Polizei in Deutschland?",
+      "question_trans": "What is a task of the police in Germany?",
+      "options": [
+        "das Land zu verteidigen",
+        "die Bürgerinnen und Bürger abzuhören",
+        "die Gesetze zu beschließen",
+        "die Einhaltung von Gesetzen zu überwachen"
+      ],
+      "options_trans": [
+        "defending the country",
+        "to listen to the citizens",
+        "to decide the laws",
+        "to monitor compliance with laws"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 149,
+      "question": "Was ist ein Beispiel für antisemitisches Verhalten?",
+      "question_trans": "What is an example of anti-Semitic behavior?",
+      "options": [
+        "ein jüdisches Fest besuchen",
+        "die israelische Regierung kritisieren",
+        "den Holocaust leugnen",
+        "gegen Juden Fußball spielen"
+      ],
+      "options_trans": [
+        "visit a Jewish feast",
+        "criticize the Israeli government",
+        "deny the Holocaust",
+        "against Jews playing football"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 150,
+      "question": "Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist …",
+      "question_trans": "A court-law in Germany is ..",
+      "options": [
+        "die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.",
+        "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.",
+        "ein Mitglied eines Gemeinderats.",
+        "eine Person, die Jura studiert hat."
+      ],
+      "options_trans": [
+        "the Deputy Head of the City.",
+        "a volunteer judge.",
+        "a member of a municipal council.",
+        "a person who studied law."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 151,
+      "question": "Wer baute die Mauer in Berlin?",
+      "question_trans": "Who built the wall in Berlin?",
+      "options": [
+        "Großbritannien",
+        "die DDR",
+        "die Bundesrepublik Deutschland",
+        "die USA"
+      ],
+      "options_trans": [
+        "United Kingdom",
+        "the GDR",
+        "germany",
+        "uSA"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 152,
+      "question": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+      "question_trans": "When were the Nazis in power with Adolf Hitler in Germany?",
+      "options": [
+        "1918 bis 1923",
+        "1932 bis 1950",
+        "1933 bis 1945",
+        "1945 bis 1989"
+      ],
+      "options_trans": [
+        "1918 to 1923",
+        "1932 to 1950",
+        "1933 to 1945",
+        "1945 to 1989"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 153,
+      "question": "Was war am 8. Mai 1945?",
+      "question_trans": "What was on the 8th? May 1945?",
+      "options": [
+        "Tod Adolf Hitlers",
+        "Beginn des Berliner Mauerbaus",
+        "Wahl von Konrad Adenauer zum Bundeskanzler",
+        "Ende des Zweiten Weltkriegs in Europa"
+      ],
+      "options_trans": [
+        "Death of Adolf Hitler",
+        "Start of Berlin Wall Building",
+        "Choice of Konrad Adenauer as Chancellor",
+        "End of World War II in Europe"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 154,
+      "question": "Wann war der Zweite Weltkrieg zu Ende?",
+      "question_trans": "When was World War II over?",
+      "options": [
+        "1933",
+        "1945",
+        "1949",
+        "1961"
+      ],
+      "options_trans": [
+        "1933",
+        "1945",
+        "1949",
+        "1961"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 155,
+      "question": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+      "question_trans": "When were the Nazis in Germany in power?",
+      "options": [
+        "1888 bis 1918",
+        "1921 bis 1934",
+        "1933 bis 1945",
+        "1949 bis 1963"
+      ],
+      "options_trans": [
+        "1888 to 1918",
+        "1921 to 1934",
+        "1933 to 1945",
+        "1949 to 1963"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 156,
+      "question": "In welchem Jahr wurde Hitler Reichskanzler?",
+      "question_trans": "What year was Hitler Chancellor?",
+      "options": [
+        "1923",
+        "1927",
+        "1933",
+        "1936"
+      ],
+      "options_trans": [
+        "1923",
+        "1927",
+        "1933",
+        "1936"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 157,
+      "question": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …",
+      "question_trans": "The Nazis with Adolf Hitler built in Germany in 1933 ..",
+      "options": [
+        "eine Diktatur.",
+        "einen demokratischen Staat.",
+        "eine Monarchie.",
+        "ein Fürstentum."
+      ],
+      "options_trans": [
+        "a dictatorship.",
+        "a democratic state.",
+        "a monarchy.",
+        "a principality."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 158,
+      "question": "Das \"Dritte Reich\" war eine …",
+      "question_trans": "The Third Reich was a..",
+      "options": [
+        "Diktatur.",
+        "Demokratie.",
+        "Monarchie.",
+        "Räterepublik."
+      ],
+      "options_trans": [
+        "Dictatorship.",
+        "Democracy.",
+        "Monarchy.",
+        "Räterepublik."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 159,
+      "question": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+      "question_trans": "What did not exist in Germany during the period of National Socialism?",
+      "options": [
+        "freie Wahlen",
+        "Pressezensur",
+        "willkürliche Verhaftungen",
+        "Verfolgung von Juden"
+      ],
+      "options_trans": [
+        "free elections",
+        "Press review",
+        "arbitrary arrests",
+        "Persecution of Jews"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 160,
+      "question": "Welcher Krieg dauerte von 1939 bis 1945?",
+      "question_trans": "What war lasted from 1939 to 1945?",
+      "options": [
+        "der Erste Weltkrieg",
+        "der Zweite Weltkrieg",
+        "der Vietnamkrieg",
+        "der Golfkrieg"
+      ],
+      "options_trans": [
+        "the First World War",
+        "world War II",
+        "the Vietnam War",
+        "the Gulf War"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 161,
+      "question": "Was kennzeichnete den NS-Staat? Eine Politik …",
+      "question_trans": "What marked the NS state? A policy..",
+      "options": [
+        "des staatlichen Rassismus",
+        "der Meinungsfreiheit",
+        "der allgemeinen Religionsfreiheit",
+        "der Entwicklung der Demokratie"
+      ],
+      "options_trans": [
+        "state Racism",
+        "freedom of expression",
+        "the general freedom of religion",
+        "the development of democracy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 162,
+      "question": "Claus Schenk Graf von Stauffenberg wurde bekannt durch …",
+      "question_trans": "Claus Schenk Graf von Stauffenberg was known by ..",
+      "options": [
+        "eine Goldmedaille bei den Olympischen Spielen 1936.",
+        "den Bau des Reichstagsgebäudes.",
+        "den Aufbau der Wehrmacht.",
+        "das Attentat auf Hitler am 20. Juli 1944."
+      ],
+      "options_trans": [
+        "a gold medal at the 1936 Olympic Games.",
+        "the construction of the Reichstag building.",
+        "the construction of the Wehrmacht.",
+        "the assassination on Hitler on 20. July 1944."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 163,
+      "question": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+      "question_trans": "What year did the Nazis destroy synagogues and Jewish shops in Germany?",
+      "options": [
+        "1925",
+        "1930",
+        "1938",
+        "1945"
+      ],
+      "options_trans": [
+        "1925",
+        "1930",
+        "1938",
+        "1945"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 164,
+      "question": "Was passierte am 9. November 1938 in Deutschland?",
+      "question_trans": "What happened on 9. November 1938 in Germany?",
+      "options": [
+        "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+        "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+        "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+        "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
+      ],
+      "options_trans": [
+        "The Second World War begins with the attack on Poland.",
+        "The Nazis lose a choice and dissolve the Reichstag.",
+        "Jewish shops and synagogues are destroyed by Nazis and their followers.",
+        "Hitler becomes Reich President and forbids all parties."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 165,
+      "question": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+      "question_trans": "What was the first Chancellor of the Federal Republic of Germany?",
+      "options": [
+        "Konrad Adenauer",
+        "Kurt Georg Kiesinger",
+        "Helmut Schmidt",
+        "Willy Brandt"
+      ],
+      "options_trans": [
+        "Konrad Adenauer",
+        "Kurt Georg Kiesinger",
+        "Helmut Schmidt",
+        "Willy Brandt"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 166,
+      "question": "Bei welchen Demonstrationen in Deutschland riefen die Menschen \"Wir sind das Volk\"?",
+      "question_trans": "In what demonstrations in Germany people called \"We are the people\"?",
+      "options": [
+        "beim Arbeiteraufstand 1953 in der DDR",
+        "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+        "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
+        "bei den Montagsdemonstrationen 1989 in der DDR"
+      ],
+      "options_trans": [
+        "in 1953 in the GDR",
+        "at the 1968 demonstrations in the Federal Republic of Germany",
+        "in the anti-atom force demonstrations in 1985 in the Federal Republic of Germany",
+        "during the Monday demonstrations in 1989 in the GDR"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 167,
+      "question": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als \"Alliierte Besatzungsmächte\" bezeichnet?",
+      "question_trans": "What countries were called \"Allied occupation powers\" in Germany after World War II?",
+      "options": [
+        "Sowjetunion, Großbritannien, Polen, Schweden",
+        "Frankreich, Sowjetunion, Italien, Japan",
+        "USA, Sowjetunion, Spanien, Portugal",
+        "USA, Sowjetunion, Großbritannien, Frankreich"
+      ],
+      "options_trans": [
+        "United Kingdom, Poland, Sweden",
+        "France, Soviet Union, Italy, Japan",
+        "United States, Soviet Union, Spain, Portugal",
+        "United States, Soviet Union, United Kingdom, France"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 168,
+      "question": "Welches Land war keine \"Alliierte Besatzungsmacht\" in Deutschland?",
+      "question_trans": "Which country was not an Allied occupation power in Germany?",
+      "options": [
+        "USA",
+        "Sowjetunion",
+        "Frankreich",
+        "Japan"
+      ],
+      "options_trans": [
+        "USA",
+        "Soviet Union",
+        "France",
+        "Japan"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 169,
+      "question": "Wann wurde die Bundesrepublik Deutschland gegründet?",
+      "question_trans": "When was the Federal Republic of Germany founded?",
+      "options": [
+        "1939",
+        "1945",
+        "1949",
+        "1951"
+      ],
+      "options_trans": [
+        "1939",
+        "1945",
+        "1949",
+        "1951"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 170,
+      "question": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+      "question_trans": "What happened during the time of National Socialism in Germany?",
+      "options": [
+        "das Verbot von Parteien",
+        "das Recht zur freien Entfaltung der Persönlichkeit",
+        "Pressefreiheit",
+        "den Schutz der Menschenwürde"
+      ],
+      "options_trans": [
+        "the prohibition of parties",
+        "the right to free development of personality",
+        "Freedom of movement",
+        "protection of human dignity"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 171,
+      "question": "Soziale Marktwirtschaft bedeutet, die Wirtschaft …",
+      "question_trans": "Social market economy means economy ..",
+      "options": [
+        "steuert sich allein nach Angebot und Nachfrage.",
+        "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+        "richtet sich nach der Nachfrage im Ausland.",
+        "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+      ],
+      "options_trans": [
+        "depends solely on supply and demand.",
+        "is planned and controlled by the state, supply and demand are not taken into account.",
+        "depends on demand abroad.",
+        "depends on supply and demand, but the state ensures social compensation."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 172,
+      "question": "In welcher Besatzungszone wurde die DDR gegründet? In der …",
+      "question_trans": "In which occupation zone was the GDR founded? In the..",
+      "options": [
+        "amerikanischen Besatzungszone",
+        "französischen Besatzungszone",
+        "britischen Besatzungszone",
+        "sowjetischen Besatzungszone"
+      ],
+      "options_trans": [
+        "american occupation zone",
+        "french occupation zone",
+        "british occupation zone",
+        "soviet occupation zone"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 173,
+      "question": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied …",
+      "question_trans": "The Federal Republic of Germany is a founding member ..",
+      "options": [
+        "des Nordatlantikpakts (NATO).",
+        "der Vereinten Nationen (VN).",
+        "der Europäischen Union (EU).",
+        "des Warschauer Pakts."
+      ],
+      "options_trans": [
+        "of the North Atlantic Pact (NATO).",
+        "united Nations (VN).",
+        "european Union (EU).",
+        "of the Warsaw Pact."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 174,
+      "question": "Wann wurde die DDR gegründet?",
+      "question_trans": "When was the GDR founded?",
+      "options": [
+        "1947",
+        "1949",
+        "1953",
+        "1956"
+      ],
+      "options_trans": [
+        "1947",
+        "1949",
+        "1953",
+        "1956"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 175,
+      "question": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+      "question_trans": "How many occupation zones were there in Germany after World War II?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "options_trans": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 176,
+      "question": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+      "question_trans": "How were the occupation zones of Germany distributed after 1945?",
+      "img": "176.png",
+      "options": [
+        "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+        "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+        "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+        "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+      ],
+      "options_trans": [
+        "1=Great Britain, 2=Soviet Union, 3=France, 4=USA",
+        "1=Soviet Union, 2=Great Britain, 3=USA, 4=France",
+        "1=Great Britain, 2=Soviet Union, 3=USA, 4=France",
+        "1=Great Britain, 2=USA, 3=Soviet Union, 4=France"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 177,
+      "question": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+      "question_trans": "What German city was divided into four sectors after World War II?",
+      "options": [
+        "München",
+        "Berlin",
+        "Dresden",
+        "Frankfurt/Oder"
+      ],
+      "options_trans": [
+        "Munich",
+        "Berlin",
+        "Dresden",
+        "Frankfurt/Oder"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 178,
+      "question": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
+      "question_trans": "From June 1948 to May 1949, the citizens of West Berlin were supplied by an air bridge. Which circumstance was responsible for this?",
+      "options": [
+        "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+        "Die amerikanischen Soldatinnen und Soldaten hatten beim Landtransport Angst vor Überfällen.",
+        "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+        "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+      ],
+      "options_trans": [
+        "For France, a supply of the West Berlin population with the aircraft was cheaper.",
+        "The American soldiers were afraid of robberies during land transport.",
+        "For the UK, the supply via the air bridge was faster.",
+        "The Soviet Union interrupted all traffic in the country."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 179,
+      "question": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+      "question_trans": "How did World War II officially end in Europe?",
+      "options": [
+        "mit dem Tod Adolf Hitlers",
+        "durch die bedingungslose Kapitulation Deutschlands",
+        "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+        "durch eine Revolution in Deutschland"
+      ],
+      "options_trans": [
+        "with the death of Adolf Hitlers",
+        "by the unconditional surrender of Germany",
+        "with the withdrawal of the Germans from the occupied territories",
+        "by a revolution in Germany"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 180,
+      "question": "Der erste Bundeskanzler der Bundesrepublik Deutschland war …",
+      "question_trans": "The first German Chancellor was..",
+      "options": [
+        "Ludwig Erhard.",
+        "Willy Brandt.",
+        "Konrad Adenauer.",
+        "Gerhard Schröder."
+      ],
+      "options_trans": [
+        "Ludwig Erhard.",
+        "Willy Brandt.",
+        "Konrad Adenauer.",
+        "Gerhard Schröder."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 181,
+      "question": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
+      "question_trans": "What did Willy Brandt want to express with his kneefall in 1970 in the former Jewish ghetto in Warsaw?",
+      "img": "181.png",
+      "options": [
+        "Er hat sich den ehemaligen Alliierten unterworfen.",
+        "Er bat Polen und die polnischen Juden um Vergebung.",
+        "Er zeigte seine Demut vor dem Warschauer Pakt.",
+        "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
+      ],
+      "options_trans": [
+        "He was subject to the former Allies.",
+        "He asked Poland and the Polish Jews for forgiveness.",
+        "He showed his humility before the Warsaw Pact.",
+        "He spoke a prayer at the grave of the unknown soldier."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 182,
+      "question": "Wie heißt das jüdische Gebetshaus?",
+      "question_trans": "What is the name of the Jewish prayer house?",
+      "options": [
+        "Basilika",
+        "Moschee",
+        "Synagoge",
+        "Kirche"
+      ],
+      "options_trans": [
+        "Basil",
+        "Mosque",
+        "Synagogue",
+        "Church"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 183,
+      "question": "Wann war in der Bundesrepublik Deutschland das \"Wirtschaftswunder\"?",
+      "question_trans": "When was the economic miracle in the Federal Republic of Germany?",
+      "options": [
+        "40er Jahre",
+        "50er Jahre",
+        "70er Jahre",
+        "80er Jahre"
+      ],
+      "options_trans": [
+        "40 years",
+        "50 years",
+        "70 years",
+        "80 years"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 184,
+      "question": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
+      "question_trans": "On what legal basis was the state of Israel founded?",
+      "options": [
+        "eine Resolution der Vereinten Nationen",
+        "ein Beschluss des Zionistenkongresses",
+        "ein Vorschlag der Bundesregierung",
+        "ein Vorschlag der UdSSR"
+      ],
+      "options_trans": [
+        "a United Nations Resolution",
+        "a decision of the Zionist Congress",
+        "a proposal from the Federal Government",
+        "a proposal from the USSR"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 185,
+      "question": "Wofür stand der Ausdruck \"Eiserner Vorhang\"? Für die Abschottung …",
+      "question_trans": "What was the term \"iron curtain\"? For decontamination..",
+      "options": [
+        "des Warschauer Pakts gegen den Westen",
+        "Norddeutschlands gegen Süddeutschland",
+        "Nazi-Deutschlands gegen die Alliierten",
+        "Europas gegen die USA"
+      ],
+      "options_trans": [
+        "the Warsaw Pact against the West",
+        "North Germany against Southern Germany",
+        "Nazi Germany against the Allies",
+        "Europe against the USA"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 186,
+      "question": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+      "question_trans": "In 1953 there was a revolt in the GDR, which reminded a holiday in the Federal Republic of Germany for a long time. When was that?",
+      "options": [
+        "1. Mai",
+        "17. Juni",
+        "20. Juli",
+        "9. November"
+      ],
+      "options_trans": [
+        "1. May",
+        "17. June",
+        "20. July",
+        "9. November"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 187,
+      "question": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+      "question_trans": "What German state had a black-red-golden flag with hammer, circle and earring?",
+      "img": "187.png",
+      "options": [
+        "Preußen",
+        "Bundesrepublik Deutschland",
+        "\"Drittes Reich\"",
+        "DDR"
+      ],
+      "options_trans": [
+        "Prussia",
+        "Germany",
+        "\"Third Kingdom\"",
+        "GDR"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 188,
+      "question": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+      "question_trans": "What year was the Wall built in Berlin?",
+      "options": [
+        "1953",
+        "1956",
+        "1959",
+        "1961"
+      ],
+      "options_trans": [
+        "1953",
+        "1956",
+        "1959",
+        "1961"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 189,
+      "question": "Wann baute die DDR die Mauer in Berlin?",
+      "question_trans": "When did the GDR build the wall in Berlin?",
+      "options": [
+        "1919",
+        "1933",
+        "1961",
+        "1990"
+      ],
+      "options_trans": [
+        "1919",
+        "1933",
+        "1961",
+        "1990"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 190,
+      "question": "Was bedeutet die Abkürzung DDR?",
+      "question_trans": "What does the abbreviation GDR mean?",
+      "options": [
+        "Dritter Deutscher Rundfunk",
+        "Die Deutsche Republik",
+        "Dritte Deutsche Republik",
+        "Deutsche Demokratische Republik"
+      ],
+      "options_trans": [
+        "Third German Radio",
+        "The German Republic",
+        "Third German Republic",
+        "German Democratic Republic"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 191,
+      "question": "Wann wurde die Mauer in Berlin für alle geöffnet?",
+      "question_trans": "When was the Berlin Wall opened for everyone?",
+      "options": [
+        "1987",
+        "1989",
+        "1992",
+        "1995"
+      ],
+      "options_trans": [
+        "1987",
+        "1989",
+        "1992",
+        "1995"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 192,
+      "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "question_trans": "What German state of affairs today belonged to the territory of the GDR?",
+      "options": [
+        "Brandenburg",
+        "Bayern",
+        "Saarland",
+        "Hessen"
+      ],
+      "options_trans": [
+        "Brandenburg",
+        "Bavaria",
+        "Saarland",
+        "Eat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 193,
+      "question": "Von 1961 bis 1989 war Berlin …",
+      "question_trans": "From 1961 to 1989 Berlin was..",
+      "options": [
+        "ohne Bürgermeister.",
+        "ein eigener Staat.",
+        "durch eine Mauer geteilt.",
+        "nur mit dem Flugzeug erreichbar."
+      ],
+      "options_trans": [
+        "without mayor.",
+        "own state.",
+        "divided by a wall.",
+        "only accessible by plane."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 194,
+      "question": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …",
+      "question_trans": "On October 3rd, Germany celebrates the German Day ..",
+      "options": [
+        "Einheit.",
+        "Nation.",
+        "Bundesländer.",
+        "Städte."
+      ],
+      "options_trans": [
+        "Unit.",
+        "Nation.",
+        "Länder.",
+        "Cities."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 195,
+      "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "question_trans": "What German state of affairs today belonged to the territory of the GDR?",
+      "options": [
+        "Hessen",
+        "Sachsen-Anhalt",
+        "Nordrhein-Westfalen",
+        "Saarland"
+      ],
+      "options_trans": [
+        "Eat",
+        "Saxony-Anhalt",
+        "North Rhine-Westphalia",
+        "Saarland"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 196,
+      "question": "Warum nennt man die Zeit im Herbst 1989 in der DDR \"Die Wende\"? In dieser Zeit veränderte sich die DDR politisch …",
+      "question_trans": "Why do you call the time in autumn 1989 in the GDR \"The Turn\"? During this time the GDR changed politically ..",
+      "options": [
+        "von einer Diktatur zur Demokratie.",
+        "von einer liberalen Marktwirtschaft zum Sozialismus.",
+        "von einer Monarchie zur Sozialdemokratie.",
+        "von einem religiösen Staat zu einem kommunistischen Staat."
+      ],
+      "options_trans": [
+        "from a dictatorship to democracy.",
+        "from a liberal market economy to socialism.",
+        "from a monarchy to social democracy.",
+        "from a religious state to a communist state."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 197,
+      "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "question_trans": "What German state of affairs today belonged to the territory of the GDR?",
+      "options": [
+        "Thüringen",
+        "Hessen",
+        "Bayern",
+        "Bremen"
+      ],
+      "options_trans": [
+        "Thuringia",
+        "Eat",
+        "Bavaria",
+        "Bremen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 198,
+      "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "question_trans": "What German state of affairs today belonged to the territory of the GDR?",
+      "options": [
+        "Bayern",
+        "Niedersachsen",
+        "Sachsen",
+        "Baden-Württemberg"
+      ],
+      "options_trans": [
+        "Bavaria",
+        "Lower Saxony",
+        "Saxony",
+        "Baden-Württemberg"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 199,
+      "question": "Mit der Abkürzung \"Stasi\" meinte man in der DDR …",
+      "question_trans": "With the abbreviation \"Stasi\" you mean in the GDR..",
+      "options": [
+        "das Parlament.",
+        "das Ministerium für Staatssicherheit.",
+        "eine regierende Partei.",
+        "das Ministerium für Volksbildung."
+      ],
+      "options_trans": [
+        "parliament.",
+        "the Ministry of State Security.",
+        "a ruling party.",
+        "the Ministry of Education."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 200,
+      "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "question_trans": "What German state of affairs today belonged to the territory of the GDR?",
+      "options": [
+        "Hessen",
+        "Schleswig-Holstein",
+        "Mecklenburg-Vorpommern",
+        "Saarland"
+      ],
+      "options_trans": [
+        "Eat",
+        "Schleswig-Holstein",
+        "Mecklenburg-Vorpommern",
+        "Saarland"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 201,
+      "question": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?",
+      "question_trans": "Which of the following lists contains only federal states belonging to the territory of the former GDR?",
+      "options": [
+        "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
+        "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+        "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
+        "Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg"
+      ],
+      "options_trans": [
+        "Lower Saxony, North Rhine-Westphalia, Hesse, Schleswig-Holstein, Brandenburg",
+        "Mecklenburg-Vorpommern, Brandenburg, Saxony, Saxony-Anhalt, Thuringia",
+        "Bavaria, Baden-Württemberg, Rhineland-Palatinate, Thuringia, Saxony",
+        "Saxony, Thuringia, Hesse, Lower Saxony, Brandenburg"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 202,
+      "question": "Zu wem gehörte die DDR im \"Kalten Krieg\"?",
+      "question_trans": "Who was the GDR in the \"Cold War\"?",
+      "options": [
+        "zu den Westmächten",
+        "zum Warschauer Pakt",
+        "zur NATO",
+        "zu den blockfreien Staaten"
+      ],
+      "options_trans": [
+        "to the Western powers",
+        "to the Warsaw Pact",
+        "to NATO",
+        "to block-free states"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 203,
+      "question": "Wie hieß das Wirtschaftssystem der DDR?",
+      "question_trans": "What was the name of the GDR economic system?",
+      "options": [
+        "Marktwirtschaft",
+        "Planwirtschaft",
+        "Angebot und Nachfrage",
+        "Kapitalismus"
+      ],
+      "options_trans": [
+        "Market economy",
+        "Planned economy",
+        "Supply and demand",
+        "Capital"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 204,
+      "question": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
+      "question_trans": "How did the Federal Republic of Germany and the GDR become a state?",
+      "options": [
+        "Die Bundesrepublik hat die DDR besetzt.",
+        "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+        "Die westlichen Bundesländer sind der DDR beigetreten.",
+        "Die DDR hat die Bundesrepublik Deutschland besetzt."
+      ],
+      "options_trans": [
+        "The Federal Republic has occupied the GDR.",
+        "The five eastern Länder have joined the Federal Republic of Germany.",
+        "The western Länder joined the GDR.",
+        "The GDR has occupied the Federal Republic of Germany."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 205,
+      "question": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …",
+      "question_trans": "With the accession of the GDR to the Federal Republic of Germany, the new Länder now belong to ..",
+      "options": [
+        "zur Europäischen Union.",
+        "zum Warschauer Pakt.",
+        "zur OPEC.",
+        "zur Europäischen Verteidigungsgemeinschaft."
+      ],
+      "options_trans": [
+        "on the European Union.",
+        "to the Warsaw Pact.",
+        "to OPEC.",
+        "on the European Defence Community."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 206,
+      "question": "Woran erinnern die sogenannten 'Stolpersteine' in Deutschland?",
+      "question_trans": "What do the so-called 'Stolpersteine' remember in Germany?",
+      "options": [
+        "an berühmte deutsche Politikerinnen und Politiker",
+        "an die Opfer des Nationalsozialismus",
+        "an Verkehrstote",
+        "an bekannte jüdische Musiker"
+      ],
+      "options_trans": [
+        "to famous German politicians",
+        "to the victims of National Socialism",
+        "traffic dead",
+        "to famous Jewish musicians"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 207,
+      "question": "In welchem Militärbündnis war die DDR Mitglied?",
+      "question_trans": "In which military alliance was the GDR member?",
+      "options": [
+        "in der NATO",
+        "im Rheinbund",
+        "im Warschauer Pakt",
+        "im Europabündnis"
+      ],
+      "options_trans": [
+        "in NATO",
+        "in the Rheinbund",
+        "in the Warsaw Pact",
+        "in the European Covenant"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 208,
+      "question": "Was war die \"Stasi\"?",
+      "question_trans": "What was the \"Stasi\"?",
+      "options": [
+        "der Geheimdienst im \"Dritten Reich\"",
+        "eine berühmte deutsche Gedenkstätte",
+        "der Geheimdienst der DDR",
+        "ein deutscher Sportverein während des Zweiten Weltkrieges"
+      ],
+      "options_trans": [
+        "the secret service in the \"Third Reich\"",
+        "a famous German memorial",
+        "the secret service of the GDR",
+        "a German sports club during World War II"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 209,
+      "question": "Welches war das Wappen der Deutschen Demokratischen Republik?",
+      "question_trans": "What was the coat of arms of the German Democratic Republic?",
+      "img": "209.png",
+      "options": [
+        "Bild 1",
+        "Bild 2",
+        "Bild 3",
+        "Bild 4"
+      ],
+      "options_trans": [
+        "Figure 1",
+        "Figure 2",
+        "Figure 3",
+        "Figure 4"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 210,
+      "question": "Was ereignete sich am 17. Juni 1953 in der DDR?",
+      "question_trans": "What happened on 17. June 1953 in the GDR?",
+      "options": [
+        "der feierliche Beitritt zum Warschauer Pakt",
+        "landesweite Streiks und ein Volksaufstand",
+        "der 1. SED-Parteitag",
+        "der erste Besuch Fidel Castros"
+      ],
+      "options_trans": [
+        "the solemn accession to the Warsaw Pact",
+        "national strikes and a popular uprising",
+        "the 1st SED Party Day",
+        "the first visit Fidel Castros"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 211,
+      "question": "Welcher Politiker steht für die \"Ostverträge\"?",
+      "question_trans": "Which politician stands for the \"East Contracts\"?",
+      "options": [
+        "Helmut Kohl",
+        "Willy Brandt",
+        "Michail Gorbatschow",
+        "Ludwig Erhard"
+      ],
+      "options_trans": [
+        "Helmut Kohl",
+        "Willy Brandt",
+        "Mikhail Gorbachev",
+        "Ludwig Erhard"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 212,
+      "question": "Wie heißt Deutschland mit vollem Namen?",
+      "question_trans": "What's the name of Germany?",
+      "options": [
+        "Bundesstaat Deutschland",
+        "Bundesländer Deutschland",
+        "Bundesrepublik Deutschland",
+        "Bundesbezirk Deutschland"
+      ],
+      "options_trans": [
+        "Federal Republic of Germany",
+        "Germany Germany",
+        "Germany",
+        "Federal Republic of Germany"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 213,
+      "question": "Wie viele Einwohner hat Deutschland?",
+      "question_trans": "How many inhabitants does Germany have?",
+      "options": [
+        "70 Millionen",
+        "78 Millionen",
+        "84 Millionen",
+        "90 Millionen"
+      ],
+      "options_trans": [
+        "70 million",
+        "78 million",
+        "84 million",
+        "90 million"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 214,
+      "question": "Welche Farben hat die deutsche Flagge?",
+      "question_trans": "What colours does the German flag have?",
+      "options": [
+        "schwarz-rot-gold",
+        "rot-weiß-schwarz",
+        "schwarz-rot-grün",
+        "schwarz-gelb-rot"
+      ],
+      "options_trans": [
+        "black-red gold",
+        "red-white black",
+        "black-red green",
+        "black yellow red"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 215,
+      "question": "Wer wird als \"Kanzler der Deutschen Einheit\" bezeichnet?",
+      "question_trans": "Who is called the Chancellor of the German Unity?",
+      "options": [
+        "Gerhard Schröder",
+        "Helmut Kohl",
+        "Konrad Adenauer",
+        "Helmut Schmidt"
+      ],
+      "options_trans": [
+        "Gerhard Schröder",
+        "Helmut Kohl",
+        "Konrad Adenauer",
+        "Helmut Schmidt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 216,
+      "question": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?",
+      "question_trans": "What symbol can be seen in the Chamber of the German Bundestag?",
+      "options": [
+        "der Bundesadler",
+        "die Fahne der Stadt Berlin",
+        "der Reichsadler",
+        "die Reichskrone"
+      ],
+      "options_trans": [
+        "the federal eagle",
+        "the flag of the city of Berlin",
+        "the empire settlers",
+        "the crown of the kingdom"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 217,
+      "question": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
+      "question_trans": "In what period did the German Democratic Republic (DDR) exist?",
+      "options": [
+        "1919 bis 1927",
+        "1933 bis 1945",
+        "1945 bis 1961",
+        "1949 bis 1990"
+      ],
+      "options_trans": [
+        "1919 to 1927",
+        "1933 to 1945",
+        "1945 to 1961",
+        "1949 to 1990"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 218,
+      "question": "Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
+      "question_trans": "How many federal states joined the Federal Republic of Germany in 1990?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "options_trans": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 219,
+      "question": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit …",
+      "question_trans": "The Federal Republic of Germany has the limits of today..",
+      "options": [
+        "1933",
+        "1949",
+        "1971",
+        "1990"
+      ],
+      "options_trans": [
+        "1933",
+        "1949",
+        "1971",
+        "1990"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 220,
+      "question": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
+      "question_trans": "27. January is an official commemorative day in Germany. What does this day remember?",
+      "options": [
+        "an das Ende des Zweiten Weltkrieges",
+        "an die Verabschiedung des Grundgesetzes",
+        "an die Wiedervereinigung Deutschlands",
+        "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)"
+      ],
+      "options_trans": [
+        "to the end of World War II",
+        "to the adoption of the Basic Law",
+        "to the reunification of Germany",
+        "to the victims of National Socialism (Day of the Extermination Camp Auschwitz)"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 221,
+      "question": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
+      "question_trans": "Germany is a member of the Schengen Agreement. What does that mean?",
+      "options": [
+        "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+        "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.",
+        "Deutsche können ohne Passkontrolle in jedes Land reisen.",
+        "Deutsche können in jedem Land mit dem Euro bezahlen."
+      ],
+      "options_trans": [
+        "Germans can travel to many countries of Europe without passport control.",
+        "All people can enter Germany without personal control.",
+        "Germans can travel to any country without passport control.",
+        "Germans can pay with the euro in any country."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 222,
+      "question": "Welches Land ist ein Nachbarland von Deutschland?",
+      "question_trans": "Which country is a neighbouring country of Germany?",
+      "options": [
+        "Ungarn",
+        "Portugal",
+        "Spanien",
+        "Schweiz"
+      ],
+      "options_trans": [
+        "Hungary",
+        "Portugal",
+        "Spain",
+        "Switzerland"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 223,
+      "question": "Welches Land ist ein Nachbarland von Deutschland?",
+      "question_trans": "Which country is a neighbouring country of Germany?",
+      "options": [
+        "Rumänien",
+        "Bulgarien",
+        "Polen",
+        "Griechenland"
+      ],
+      "options_trans": [
+        "Romania",
+        "Bulgaria",
+        "Poland",
+        "Greece"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 224,
+      "question": "Was bedeutet die Abkürzung EU?",
+      "question_trans": "What does the EU abbreviation mean?",
+      "options": [
+        "Europäische Unternehmen",
+        "Europäische Union",
+        "Einheitliche Union",
+        "Euro Union"
+      ],
+      "options_trans": [
+        "European companies",
+        "European Union",
+        "Single Union",
+        "Euro Union"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 225,
+      "question": "In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?",
+      "question_trans": "What other country is there a large German-speaking population?",
+      "options": [
+        "Tschechien",
+        "Norwegen",
+        "Spanien",
+        "Österreich"
+      ],
+      "options_trans": [
+        "Czech Republic",
+        "Norway",
+        "Spain",
+        "Austria"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 226,
+      "question": "Welche ist die Flagge der Europäischen Union?",
+      "question_trans": "What is the flag of the European Union?",
+      "img": "226.png",
+      "options": [
+        "Bild 1",
+        "Bild 2",
+        "Bild 3",
+        "Bild 4"
+      ],
+      "options_trans": [
+        "Figure 1",
+        "Figure 2",
+        "Figure 3",
+        "Figure 4"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 227,
+      "question": "Welches Land ist ein Nachbarland von Deutschland?",
+      "question_trans": "Which country is a neighbouring country of Germany?",
+      "options": [
+        "Finnland",
+        "Dänemark",
+        "Norwegen",
+        "Schweden"
+      ],
+      "options_trans": [
+        "Finland",
+        "Denmark",
+        "Norway",
+        "Sweden"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 228,
+      "question": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
+      "question_trans": "How is the accession of the GDR to the Federal Republic of Germany generally mentioned in 1990?",
+      "options": [
+        "NATO-Osterweiterung",
+        "EU-Osterweiterung",
+        "Deutsche Wiedervereinigung",
+        "Europäische Gemeinschaft"
+      ],
+      "options_trans": [
+        "NATO eastward enlargement",
+        "EU eastward enlargement",
+        "German reunification",
+        "European Community"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 229,
+      "question": "Welches Land ist ein Nachbarland von Deutschland?",
+      "question_trans": "Which country is a neighbouring country of Germany?",
+      "options": [
+        "Spanien",
+        "Bulgarien",
+        "Norwegen",
+        "Luxemburg"
+      ],
+      "options_trans": [
+        "Spain",
+        "Bulgaria",
+        "Norway",
+        "Luxembourg"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 230,
+      "question": "Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …",
+      "question_trans": "The European Parliament is regularly elected, namely all ..",
+      "options": [
+        "5 Jahre.",
+        "6 Jahre.",
+        "7 Jahre.",
+        "8 Jahre."
+      ],
+      "options_trans": [
+        "Five years.",
+        "Six years.",
+        "Seven years.",
+        "8 years."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 231,
+      "question": "Was bedeutet der Begriff \"europäische Integration\"?",
+      "question_trans": "What is the term \"European integration\"?",
+      "options": [
+        "Damit sind amerikanische Einwanderinnen und Einwanderer in Europa gemeint.",
+        "Der Begriff meint den Einwanderungsstopp nach Europa.",
+        "Damit sind europäische Auswanderinnen und Auswanderer in den USA gemeint.",
+        "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU."
+      ],
+      "options_trans": [
+        "This means American immigrants in Europe.",
+        "The term means a stop to immigration to Europe.",
+        "This means European emigrants in the USA.",
+        "The term refers to the merger of European states to the EU."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 232,
+      "question": "Wer wird bei der Europawahl gewählt?",
+      "question_trans": "Who is elected at the European elections?",
+      "options": [
+        "die Europäische Kommission",
+        "die Länder, die in die EU eintreten dürfen",
+        "die Abgeordneten des Europäischen Parlaments",
+        "die europäische Verfassung"
+      ],
+      "options_trans": [
+        "the European Commission",
+        "the countries that may enter the EU",
+        "members of the European Parliament",
+        "the European Constitution"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 233,
+      "question": "Welches Land ist ein Nachbarland von Deutschland?",
+      "question_trans": "Which country is a neighbouring country of Germany?",
+      "options": [
+        "Tschechien",
+        "Bulgarien",
+        "Griechenland",
+        "Portugal"
+      ],
+      "options_trans": [
+        "Czech Republic",
+        "Bulgaria",
+        "Greece",
+        "Portugal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 234,
+      "question": "Wo ist ein Sitz des Europäischen Parlaments?",
+      "question_trans": "Where is the seat of the European Parliament?",
+      "options": [
+        "London",
+        "Paris",
+        "Berlin",
+        "Straßburg"
+      ],
+      "options_trans": [
+        "London",
+        "Paris",
+        "Berlin",
+        "Strasbourg"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 235,
+      "question": "Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?",
+      "question_trans": "In Verdun, French President François Mitterrand and then German Chancellor Helmut Kohl commemorate the dead of both world wars. What is the objective of the European Union at this meeting?",
+      "img": "235.png",
+      "options": [
+        "Freundschaft zwischen England und Deutschland",
+        "Reisefreiheit in alle Länder der EU",
+        "Frieden und Sicherheit in den Ländern der EU",
+        "einheitliche Feiertage in den Ländern der EU"
+      ],
+      "options_trans": [
+        "Friendship between England and Germany",
+        "Freedom of travel in all EU countries",
+        "Peace and security in EU countries",
+        "unified holidays in EU countries"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 236,
+      "question": "Wie viele Mitgliedstaaten hat die EU heute?",
+      "question_trans": "How many Member States have the EU today?",
+      "options": [
+        "21",
+        "23",
+        "25",
+        "27"
+      ],
+      "options_trans": [
+        "21",
+        "23",
+        "25",
+        "27"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 237,
+      "question": "2007 wurde das 50-jährige Jubiläum der \"Römischen Verträge\" gefeiert. Was war der Inhalt der Verträge?",
+      "question_trans": "The 50th anniversary of the \"Roman Treaties\" was celebrated in 2007. What was the content of the contracts?",
+      "options": [
+        "Beitritt Deutschlands zur NATO",
+        "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+        "Verpflichtung Deutschlands zu Reparationsleistungen",
+        "Festlegung der Oder-Neiße-Linie als Ostgrenze"
+      ],
+      "options_trans": [
+        "Accession of Germany to NATO",
+        "Foundation of the European Economic Community (EEC)",
+        "Germany's obligation to repair services",
+        "Defining the Oder-Neiße line as an east boundary"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 238,
+      "question": "An welchen Orten arbeitet das Europäische Parlament?",
+      "question_trans": "What places does the European Parliament work?",
+      "options": [
+        "Paris, London und Den Haag",
+        "Straßburg, Luxemburg und Brüssel",
+        "Rom, Bern und Wien",
+        "Bonn, Zürich und Mailand"
+      ],
+      "options_trans": [
+        "Paris, London and The Hague",
+        "Strasbourg, Luxembourg and Brussels",
+        "Rome, Bern and Vienna",
+        "Bonn, Zurich and Milan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 239,
+      "question": "Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?",
+      "question_trans": "What agreements did the Federal Republic of Germany have concluded with other countries to the European Economic Community?",
+      "options": [
+        "durch die \"Hamburger Verträge\"",
+        "durch die \"Römischen Verträge\"",
+        "durch die \"Pariser Verträge\"",
+        "durch die \"Londoner Verträge\""
+      ],
+      "options_trans": [
+        "through the \"Hamburger Treaties\"",
+        "through the \"Roman Treaties\"",
+        "through the \"Paris Treaties\"",
+        "through the \"London Treaties\""
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 240,
+      "question": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+      "question_trans": "Since when do you pay in Germany with the euro in cash?",
+      "options": [
+        "1995",
+        "1998",
+        "2002",
+        "2005"
+      ],
+      "options_trans": [
+        "1995",
+        "1998",
+        "2002",
+        "2005"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 241,
+      "question": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+      "question_trans": "Mrs. Seger gets a child. What does she have to do to get parental allowance?",
+      "options": [
+        "Sie muss an ihre Krankenkasse schreiben.",
+        "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+        "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+        "Sie muss das Arbeitsamt um Erlaubnis bitten."
+      ],
+      "options_trans": [
+        "She has to write to her health insurance.",
+        "She must submit an application to the parental leave office.",
+        "She doesn't have to do anything because she automatically gets parental money.",
+        "She must ask the employment office for permission."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 242,
+      "question": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+      "question_trans": "Who decides if a child goes to kindergarten in Germany?",
+      "options": [
+        "der Staat",
+        "die Bundesländer",
+        "die Eltern/die Erziehungsberechtigten",
+        "die Schulen"
+      ],
+      "options_trans": [
+        "the State",
+        "the federal states",
+        "the parents/children",
+        "schools"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 243,
+      "question": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
+      "question_trans": "Maik and Sybille want to hold a demonstration on the street with friends at their German residence. What do they have to do before?",
+      "options": [
+        "Sie müssen die Demonstration anmelden.",
+        "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
+        "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
+        "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen."
+      ],
+      "options_trans": [
+        "You must register the demonstration.",
+        "You don't have to do anything. You can demonstrate everywhere in Germany at any time.",
+        "You cannot do anything, because demonstrations are generally prohibited in Germany.",
+        "Maik and Sybille must establish a new club because only clubs can demonstrate."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 244,
+      "question": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
+      "question_trans": "What school degree do you normally need to start studying at a university in Germany?",
+      "options": [
+        "das Abitur",
+        "ein Diplom",
+        "die Prokura",
+        "eine Gesellenprüfung"
+      ],
+      "options_trans": [
+        "the Abitur",
+        "a diploma",
+        "the procura",
+        "a Gesellenprüfung"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 245,
+      "question": "Wer darf in Deutschland nicht als Paar zusammenleben?",
+      "question_trans": "Who can't live together in Germany as a couple?",
+      "options": [
+        "Hans (20 Jahre) und Marie (19 Jahre)",
+        "Tom (20 Jahre) und Klaus (45 Jahre)",
+        "Sofie (35 Jahre) und Lisa (40 Jahre)",
+        "Anne (13 Jahre) und Tim (25 Jahre)"
+      ],
+      "options_trans": [
+        "Hans (20 years) and Marie (19 years)",
+        "Tom (20 years) and Klaus (45 years)",
+        "Sofie (35 years) and Lisa (40 years)",
+        "Anne (13 years) and Tim (25 years)"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 246,
+      "question": "Ab welchem Alter ist man in Deutschland volljährig?",
+      "question_trans": "From what age do you live in Germany?",
+      "options": [
+        "16",
+        "18",
+        "19",
+        "21"
+      ],
+      "options_trans": [
+        "16",
+        "18",
+        "19",
+        "21"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 247,
+      "question": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
+      "question_trans": "A woman is pregnant. She is particularly protected by the law shortly before and after the birth of her child. What is this protection?",
+      "options": [
+        "Elternzeit",
+        "Mutterschutz",
+        "Geburtsvorbereitung",
+        "Wochenbett"
+      ],
+      "options_trans": [
+        "Parental leave",
+        "Maternity protection",
+        "Preparing birth",
+        "Weekly bed"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 248,
+      "question": "Die Erziehung der Kinder ist in Deutschland ist vor allem Aufgabe …",
+      "question_trans": "The education of children in Germany is primarily a task ..",
+      "options": [
+        "des Staates.",
+        "der Eltern.",
+        "der Großeltern.",
+        "der Schulen."
+      ],
+      "options_trans": [
+        "of the state.",
+        "the parents.",
+        "the grandparents.",
+        "schools."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 249,
+      "question": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
+      "question_trans": "Who is mainly responsible for child education in Germany?",
+      "options": [
+        "der Staat",
+        "die Eltern",
+        "die Verwandten",
+        "die Schulen"
+      ],
+      "options_trans": [
+        "the State",
+        "the parents",
+        "the relatives",
+        "schools"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 250,
+      "question": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …",
+      "question_trans": "In Germany you have the best chances of a well-paid job if you ..",
+      "options": [
+        "katholisch ist.",
+        "gut ausgebildet ist.",
+        "eine Frau ist.",
+        "Mitglied einer Partei ist."
+      ],
+      "options_trans": [
+        "catholic.",
+        "is well designed.",
+        "is a woman.",
+        "Member of a party."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 251,
+      "question": "Wenn man in Deutschland ein Kind schlägt, …",
+      "question_trans": "If you beat a child in Germany..",
+      "options": [
+        "geht das niemanden etwas an.",
+        "geht das nur die Familie etwas an.",
+        "kann man dafür nicht bestraft werden.",
+        "kann man dafür bestraft werden."
+      ],
+      "options_trans": [
+        "does not concern anyone.",
+        "only the family is doing something.",
+        "cannot be punished for this.",
+        "can be punished for this."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 252,
+      "question": "In Deutschland …",
+      "question_trans": "In Germany ..",
+      "options": [
+        "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.",
+        "kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.",
+        "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+        "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+      ],
+      "options_trans": [
+        "at the same time one may only be married to a partner.",
+        "you can have several spouses at the same time.",
+        "you can't get married once you've been married.",
+        "a woman must not marry again if her husband died."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 253,
+      "question": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+      "question_trans": "Where do you need to register when you move in Germany?",
+      "options": [
+        "beim Einwohnermeldeamt",
+        "beim Standesamt",
+        "beim Ordnungsamt",
+        "beim Gewerbeamt"
+      ],
+      "options_trans": [
+        "inhabitant registration office",
+        "at the registry office",
+        "at the Order Office",
+        "at the trade office"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 254,
+      "question": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das \"Trennungsjahr\" einhalten. Was bedeutet das?",
+      "question_trans": "In Germany, couples may be divorced. Most of the time, they have to keep the \"Trennungsjahr\". What does that mean?",
+      "options": [
+        "Der Scheidungsprozess dauert ein Jahr.",
+        "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+        "Das Besuchsrecht für die Kinder gilt ein Jahr.",
+        "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
+      ],
+      "options_trans": [
+        "The divorce process takes one year.",
+        "The spouses are married one year, then divorce is possible.",
+        "The right to visit the children is one year.",
+        "The spouses live their own lives at least one year apart. Then divorce is possible."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 255,
+      "question": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …",
+      "question_trans": "Parents in Germany may receive help from the..",
+      "options": [
+        "Ordnungsamt.",
+        "Schulamt.",
+        "Jugendamt.",
+        "Gesundheitsamt."
+      ],
+      "options_trans": [
+        "Order Office.",
+        "School office.",
+        "Youth Office.",
+        "Health office."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 256,
+      "question": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+      "question_trans": "A couple wants to open a restaurant in Germany. What does it take?",
+      "options": [
+        "eine Erlaubnis der Polizei",
+        "eine Genehmigung einer Partei",
+        "eine Genehmigung des Einwohnermeldeamts",
+        "eine Gaststättenerlaubnis von der zuständigen Behörde"
+      ],
+      "options_trans": [
+        "a police permit",
+        "an approval of a party",
+        "an approval of the inhabitant registration office",
+        "a restaurant permit from the competent authority"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 257,
+      "question": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …",
+      "question_trans": "An adult woman wants to retrieve the Abitur in Germany. She can..",
+      "options": [
+        "einer Hochschule.",
+        "einem Abendgymnasium.",
+        "einer Hauptschule.",
+        "einer Privatuniversität."
+      ],
+      "options_trans": [
+        "a college.",
+        "an evening gymnasium.",
+        "a primary school.",
+        "a private university."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 258,
+      "question": "Was darf das Jugendamt in Deutschland?",
+      "question_trans": "What is the Youth Office in Germany?",
+      "options": [
+        "Es entscheidet, welche Schule das Kind besucht.",
+        "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+        "Es bezahlt das Kindergeld an die Eltern.",
+        "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+      ],
+      "options_trans": [
+        "It decides which school the child visits.",
+        "It can take a child who is beaten or must starve out of the family.",
+        "It pays the child's money to the parents.",
+        "It controls whether the child visits a kindergarten."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 259,
+      "question": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …",
+      "question_trans": "The professional information center BIZ at the Federal Agency for Labour in Germany helps with..",
+      "options": [
+        "Rentenberechnung.",
+        "Lehrstellensuche.",
+        "Steuererklärung.",
+        "Krankenversicherung."
+      ],
+      "options_trans": [
+        "Pension calculation.",
+        "Search for teaching places.",
+        "Excise declaration.",
+        "Health insurance."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 260,
+      "question": "In Deutschland hat ein Kind in der Schule …",
+      "question_trans": "In Germany, a child at school..",
+      "options": [
+        "Recht auf unbegrenzte Freizeit.",
+        "Wahlfreiheit für alle Fächer.",
+        "Anspruch auf Schulgeld.",
+        "Anwesenheitspflicht."
+      ],
+      "options_trans": [
+        "Right to unlimited leisure.",
+        "Freedom of choice for all subjects.",
+        "Entitlement to school allowance.",
+        "Compulsory attendance."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 261,
+      "question": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …",
+      "question_trans": "A man wants to retrieve his Abitur at 30 years in Germany. Where can he do that? To ..",
+      "options": [
+        "einer Hochschule.",
+        "einem Abendgymnasium.",
+        "einer Hauptschule.",
+        "einer Privatuniversität."
+      ],
+      "options_trans": [
+        "a college.",
+        "an evening gymnasium.",
+        "a primary school.",
+        "a private university."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 262,
+      "question": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+      "question_trans": "What does the principle of equal treatment in Germany mean?",
+      "options": [
+        "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+        "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+        "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+        "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
+      ],
+      "options_trans": [
+        "No one can be disadvantaged, for example, because of a disability.",
+        "Other persons may be disadvantaged if there are sufficient personal reasons for this.",
+        "No one is allowed to sue people if they were disadvantaged.",
+        "It is for all law to donate disadvantaged groups annually."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 263,
+      "question": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …",
+      "question_trans": "In Germany, young people from 14 years old are criminal. This means that young people who are 14 years and older and violate criminal laws, ..",
+      "options": [
+        "werden bestraft.",
+        "werden wie Erwachsene behandelt.",
+        "teilen die Strafe mit ihren Eltern.",
+        "werden nicht bestraft."
+      ],
+      "options_trans": [
+        "are punished.",
+        "are treated like adults.",
+        "share the punishment with their parents.",
+        "are not punished."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 264,
+      "question": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
+      "question_trans": "To what festival do people wear colorful costumes and masks in Germany?",
+      "options": [
+        "am Rosenmontag",
+        "am Maifeiertag",
+        "beim Oktoberfest",
+        "an Pfingsten"
+      ],
+      "options_trans": [
+        "on the Rose Monday",
+        "on May Day",
+        "at the Oktoberfest",
+        "at Pentecost"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 265,
+      "question": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
+      "question_trans": "Where do you have to go first in Germany if you want to marry?",
+      "options": [
+        "zum Einwohnermeldeamt",
+        "zum Ordnungsamt",
+        "zur Agentur für Arbeit",
+        "zum Standesamt"
+      ],
+      "options_trans": [
+        "inhabitant registration office",
+        "to the Order Office",
+        "to the Agency for Work",
+        "to the State Office"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 266,
+      "question": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+      "question_trans": "When does the legal night rest begin in Germany?",
+      "options": [
+        "wenn die Sonne untergeht",
+        "wenn die Nachbarn schlafen gehen",
+        "um 0 Uhr, Mitternacht",
+        "um 22 Uhr"
+      ],
+      "options_trans": [
+        "when the sun goes down",
+        "when neighbors go to sleep",
+        "at 0 o'clock, midnight",
+        "at 22 o'clock"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 267,
+      "question": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+      "question_trans": "A young woman in Germany, 22 years old, lives with her boyfriend. The wife's parents don't find that good because they don't like the friend. What can parents do?",
+      "options": [
+        "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+        "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+        "Sie können zur Polizei gehen und die Tochter anzeigen.",
+        "Sie suchen einen anderen Mann für die Tochter."
+      ],
+      "options_trans": [
+        "You must respect the decision of the full-year daughter.",
+        "You have the right to return the daughter to the parental apartment.",
+        "You can go to the police and show the daughter.",
+        "They're looking for another man for the daughter."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 268,
+      "question": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+      "question_trans": "A young woman wants to make the driver's license. She is afraid of the exam because her mother tongue is not German. What's right?",
+      "options": [
+        "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+        "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+        "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
+        "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl."
+      ],
+      "options_trans": [
+        "She has to live in Germany for at least ten years before she can make her license.",
+        "If she can't get German, she can't have a license.",
+        "She has to make the driver's license in the country where you speak her language.",
+        "She might be able to do the theory exam in her mother tongue. There are more than ten languages to choose from."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 269,
+      "question": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …",
+      "question_trans": "In Germany, children from the age of three years up to the schooling of erstein have a right to ..",
+      "options": [
+        "monatliches Taschengeld.",
+        "einen Platz in einem Sportverein.",
+        "einen Kindergartenplatz.",
+        "einen Ferienpass."
+      ],
+      "options_trans": [
+        "monthly pocket money.",
+        "a place in a sports club.",
+        "a kindergarten place.",
+        "a holiday pass."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 270,
+      "question": "Die Volkshochschule in Deutschland ist eine Einrichtung …",
+      "question_trans": "The Volkshochschule in Germany is an institution ..",
+      "options": [
+        "für den Religionsunterricht.",
+        "nur für Jugendliche.",
+        "zur Weiterbildung.",
+        "nur für Rentnerinnen und Rentner."
+      ],
+      "options_trans": [
+        "for religious education.",
+        "only for young people.",
+        "for further training.",
+        "only for pensioners."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 271,
+      "question": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+      "question_trans": "What is a custom in Germany for Christmas?",
+      "options": [
+        "bunte Eier verstecken",
+        "einen Tannenbaum schmücken",
+        "sich mit Masken und Kostümen verkleiden",
+        "Kürbisse vor die Tür stellen"
+      ],
+      "options_trans": [
+        "hide colorful eggs",
+        "decorate a pine tree",
+        "dress up with masks and costumes",
+        "Imagine pumpkins"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 272,
+      "question": "Welche Lebensform ist in Deutschland nicht erlaubt?",
+      "question_trans": "What kind of life is not allowed in Germany?",
+      "options": [
+        "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+        "Zwei Frauen leben zusammen.",
+        "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+        "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+      ],
+      "options_trans": [
+        "Man and woman are divorced and live with new partners.",
+        "Two women live together.",
+        "A single father lives with his two children.",
+        "A man is married to two women at the same time."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 273,
+      "question": "Bei Erziehungsproblemen gehen Sie in Deutschland …",
+      "question_trans": "In the case of educational problems, go to Germany ..",
+      "options": [
+        "zur Ärztin/zum Arzt.",
+        "zum Gesundheitsamt.",
+        "zum Einwohnermeldeamt.",
+        "zum Jugendamt."
+      ],
+      "options_trans": [
+        "to the doctor.",
+        "to the health office.",
+        "to the population registration office.",
+        "to the youth office."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 274,
+      "question": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+      "question_trans": "In Germany you have deliberately opened a letter addressed to another person. What did you not consider?",
+      "options": [
+        "das Schweigerecht",
+        "das Briefgeheimnis",
+        "die Schweigepflicht",
+        "die Meinungsfreiheit"
+      ],
+      "options_trans": [
+        "the right to silence",
+        "the secret of the letter",
+        "the obligation to remain silent",
+        "freedom of expression"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 275,
+      "question": "Was braucht man in Deutschland für eine Ehescheidung?",
+      "question_trans": "What do you need for a divorce in Germany?",
+      "options": [
+        "die Einwilligung der Eltern",
+        "ein Attest einer Ärztin/eines Arztes",
+        "die Einwilligung der Kinder",
+        "die Unterstützung einer Anwältin/eines Anwalts"
+      ],
+      "options_trans": [
+        "the consent of the parents",
+        "an attest of a doctor",
+        "the consent of the children",
+        "support of a lawyer"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 276,
+      "question": "Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?",
+      "question_trans": "What should you do if you are ill treated by your contact person in a German authority?",
+      "options": [
+        "Ich kann nichts tun.",
+        "Ich muss mir diese Behandlung gefallen lassen.",
+        "Ich drohe der Person.",
+        "Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren."
+      ],
+      "options_trans": [
+        "I can't do anything.",
+        "I have to let this treatment please me.",
+        "I threaten the person.",
+        "I can complain to the Head of State or Government."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 277,
+      "question": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …",
+      "question_trans": "A woman who has a two-year-old child acquires a job in Germany. What is an example of discrimination? She just doesn't get the job because she..",
+      "options": [
+        "kein Englisch spricht.",
+        "zu hohe Gehaltsvorstellungen hat.",
+        "keine Erfahrungen in diesem Beruf hat.",
+        "Mutter ist."
+      ],
+      "options_trans": [
+        "does not speak English.",
+        "has too high salary expectations.",
+        "has no experience in this profession.",
+        "Mother is."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 278,
+      "question": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er …",
+      "question_trans": "A man in a wheelchair has applied to a place as a bookkeeper. What is an example of discrimination? He doesn't get the job because he..",
+      "options": [
+        "im Rollstuhl sitzt.",
+        "keine Erfahrung hat.",
+        "zu hohe Gehaltsvorstellungen hat.",
+        "kein Englisch spricht."
+      ],
+      "options_trans": [
+        "sitting in a wheelchair.",
+        "has no experience.",
+        "has too high salary expectations.",
+        "does not speak English."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 279,
+      "question": "In den meisten Mietshäusern in Deutschland gibt es eine \"Hausordnung\". Was steht in einer solchen \"Hausordnung\"? Sie nennt …",
+      "question_trans": "In most of the rental houses in Germany there is a \"home order\". What's in such a \"home order\"? She calls..",
+      "options": [
+        "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+        "alle Mieterinnen und Mieter im Haus.",
+        "Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.",
+        "die Adresse des nächsten Ordnungsamtes."
+      ],
+      "options_trans": [
+        "Rules for the use of public transport.",
+        "all tenants in the house.",
+        "Rules to which all residents must adhere.",
+        "the address of the next order."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 280,
+      "question": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …",
+      "question_trans": "If you want to defend yourself against a wrong tax decision in Germany, you must..",
+      "options": [
+        "nichts machen.",
+        "den Bescheid wegwerfen.",
+        "Einspruch einlegen.",
+        "warten, bis ein anderer Bescheid kommt."
+      ],
+      "options_trans": [
+        "don't do anything.",
+        "throw away the call.",
+        "Objection.",
+        "wait till another man comes in."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 281,
+      "question": "Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf …",
+      "question_trans": "Two friends want to enter a public swimming pool in Germany. Both have a dark skin color and are therefore not let in. What right is being violated in this situation? Right to ..",
+      "options": [
+        "Meinungsfreiheit",
+        "Gleichbehandlung",
+        "Versammlungsfreiheit",
+        "Freizügigkeit"
+      ],
+      "options_trans": [
+        "Freedom of expression",
+        "Equal treatment",
+        "Freedom of assembly",
+        "Freedom of movement"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 282,
+      "question": "Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?",
+      "question_trans": "What do German citizens need to take over if they are asked to do so?",
+      "options": [
+        "Vereinstrainerin/Vereinstrainer",
+        "Wahlhelferin/Wahlhelfer",
+        "Bibliotheksaufsicht",
+        "Lehrerin/Lehrer"
+      ],
+      "options_trans": [
+        "Vereinstrainerin/Vereinstrainer",
+        "Electoral assistant",
+        "Library supervision",
+        "Teacher/teacher"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 283,
+      "question": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
+      "question_trans": "What do you do if you get a wrong bill from a German authority?",
+      "options": [
+        "Ich lasse die Rechnung liegen.",
+        "Ich lege Widerspruch bei der Behörde ein.",
+        "Ich schicke die Rechnung an die Behörde zurück.",
+        "Ich gehe mit der Rechnung zum Finanzamt."
+      ],
+      "options_trans": [
+        "I'll leave the bill.",
+        "I object to the authority.",
+        "I'll send the bill back to the authority.",
+        "I'm going to the tax office with the bill."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 284,
+      "question": "Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?",
+      "question_trans": "What needs to be done changes very quickly in the future. What can you do?",
+      "options": [
+        "Es ist egal, was man lernt.",
+        "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+        "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+        "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
+      ],
+      "options_trans": [
+        "It doesn't matter what you learn.",
+        "Adults must continue to learn after training.",
+        "Children learn everything important in the profession at school. After school, you don't have to learn.",
+        "Everyone has to stop working early because everything changes."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 285,
+      "question": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+      "question_trans": "Ms. Frost works as a permanent employee in an office. What doesn't she have to pay for her salary?",
+      "options": [
+        "Lohnsteuer",
+        "Beiträge zur Arbeitslosenversicherung",
+        "Beiträge zur Renten- und Krankenversicherung",
+        "Umsatzsteuer"
+      ],
+      "options_trans": [
+        "Benefit tax",
+        "Contributions to unemployment insurance",
+        "Contributions to pension and health insurance",
+        "Value added tax"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 286,
+      "question": "Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?",
+      "question_trans": "What organization in a company helps workers with problems with the employer?",
+      "options": [
+        "der Betriebsrat",
+        "die Betriebsprüferin/der Betriebsprüfer",
+        "die Betriebsgruppe",
+        "das Betriebsmanagement"
+      ],
+      "options_trans": [
+        "the works council",
+        "the auditor",
+        "the operating group",
+        "the operational management"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 287,
+      "question": "Sie möchten bei einer Firma in Deutschland ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
+      "question_trans": "They want to end their employment relationship with a company in Germany. What do you need to consider?",
+      "options": [
+        "die Gehaltszahlungen",
+        "die Arbeitszeit",
+        "die Kündigungsfrist",
+        "die Versicherungspflicht"
+      ],
+      "options_trans": [
+        "pay payments",
+        "working hours",
+        "the notice period",
+        "the insurance obligation"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 288,
+      "question": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
+      "question_trans": "What is the reason for Germany's special responsibility for Israel?",
+      "options": [
+        "aus der Mitgliedschaft in der Europäischen Union (EU)",
+        "aus den nationalsozialistischen Verbrechen gegen Juden",
+        "aus dem Grundgesetz der Bundesrepublik Deutschland",
+        "aus der christlichen Tradition"
+      ],
+      "options_trans": [
+        "from membership in the European Union (EU)",
+        "from the Nazi crimes against Jews",
+        "from the Basic Law of the Federal Republic of Germany",
+        "from the Christian tradition"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 289,
+      "question": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …",
+      "question_trans": "A man with dark skin colour is applying for a job as a waiter in a restaurant in Germany. What is an example of discrimination? He doesn't get the job because..",
+      "options": [
+        "seine Deutschkenntnisse zu gering sind.",
+        "er zu hohe Gehaltsvorstellungen hat.",
+        "er eine dunkle Haut hat.",
+        "er keine Erfahrungen im Beruf hat."
+      ],
+      "options_trans": [
+        "his knowledge of German is too low.",
+        "he has too high salary expectations.",
+        "he has a dark skin.",
+        "he has no experience in the profession."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 290,
+      "question": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
+      "question_trans": "They bought a TV in Germany. At home you pack the TV, but it doesn't work. The TV's broken. What can you do?",
+      "options": [
+        "eine Anzeige schreiben",
+        "den Fernseher reklamieren",
+        "das Gerät ungefragt austauschen",
+        "die Garantie verlängern"
+      ],
+      "options_trans": [
+        "write an ad",
+        "advertising the TV",
+        "exchange the device unquestioned",
+        "extend the guarantee"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 291,
+      "question": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …",
+      "question_trans": "Why do you have to write in Germany when you sign a tax declaration, whether you belong to a church or not? Because..",
+      "options": [
+        "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+        "das für die Statistik in Deutschland wichtig ist.",
+        "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+        "die Kirche für die Steuererklärung verantwortlich ist."
+      ],
+      "options_trans": [
+        "there is a church tax linked to income and wage tax.",
+        "which is important for statistics in Germany.",
+        "you have to pay more taxes if you don't belong to a church.",
+        "the church is responsible for the tax return."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 292,
+      "question": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
+      "question_trans": "People in Germany live according to the principle of religious tolerance. What does that mean?",
+      "options": [
+        "Es dürfen keine Moscheen gebaut werden.",
+        "Alle Menschen glauben an Gott.",
+        "Jeder kann glauben, was er möchte.",
+        "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+      ],
+      "options_trans": [
+        "No mosques may be built.",
+        "All people believe in God.",
+        "Everyone can believe what he wants.",
+        "The state decides what God believes in people."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 293,
+      "question": "Was ist in Deutschland ein Brauch zu Ostern?",
+      "question_trans": "What is a custom in Germany for Easter?",
+      "options": [
+        "Kürbisse vor die Tür stellen",
+        "einen Tannenbaum schmücken",
+        "Eier bemalen",
+        "Raketen in die Luft schießen"
+      ],
+      "options_trans": [
+        "Imagine pumpkins",
+        "decorate a pine tree",
+        "Paint eggs",
+        "Shoot missiles in the air"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 294,
+      "question": "Pfingsten ist ein …",
+      "question_trans": "Pentecost is a..",
+      "options": [
+        "christlicher Feiertag.",
+        "deutscher Gedenktag.",
+        "internationaler Trauertag.",
+        "bayerischer Brauch."
+      ],
+      "options_trans": [
+        "christian holiday.",
+        "german commemorative day.",
+        "international wedding day.",
+        "bavarian custom."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 295,
+      "question": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
+      "question_trans": "What religion has shaped European and German culture?",
+      "options": [
+        "der Hinduismus",
+        "das Christentum",
+        "der Buddhismus",
+        "der Islam"
+      ],
+      "options_trans": [
+        "hinduism",
+        "christianity",
+        "buddhism",
+        "islam"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 296,
+      "question": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten …",
+      "question_trans": "In Germany, the last four weeks before Christmas..",
+      "options": [
+        "den Buß- und Bettag.",
+        "das Erntedankfest.",
+        "die Adventszeit.",
+        "Allerheiligen."
+      ],
+      "options_trans": [
+        "the penitence and beggar.",
+        "the Thanksgiving Festival.",
+        "the Advent season.",
+        "All Saints."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 297,
+      "question": "Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland gekommen?",
+      "question_trans": "From what country did most migrants come to Germany?",
+      "options": [
+        "Italien",
+        "Polen",
+        "Marokko",
+        "Türkei"
+      ],
+      "options_trans": [
+        "Italy",
+        "Poland",
+        "Morocco",
+        "Turkey"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 298,
+      "question": "In der DDR lebten vor allem Migrantinnen und Migranten aus …",
+      "question_trans": "In the GDR, migrants lived mainly..",
+      "options": [
+        "Vietnam, Polen, Mosambik.",
+        "Frankreich, Rumänien, Somalia.",
+        "Chile, Ungarn, Simbabwe.",
+        "Nordkorea, Mexiko, Ägypten."
+      ],
+      "options_trans": [
+        "Vietnam, Poland, Mozambique.",
+        "France, Romania, Somalia.",
+        "Chile, Hungary, Zimbabwe.",
+        "North Korea, Mexico, Egypt."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 299,
+      "question": "Ausländische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …",
+      "question_trans": "Foreign workers recruited by the Federal Republic of Germany in the 1950s and 60s were called ..",
+      "options": [
+        "Schwarzarbeiterinnen/Schwarzarbeiter.",
+        "Gastarbeiterinnen/Gastarbeiter.",
+        "Zeitarbeiterinnen/Zeitarbeiter.",
+        "Schichtarbeiterinnen/Schichtarbeiter."
+      ],
+      "options_trans": [
+        "Black workers/black workers.",
+        "Guest workers.",
+        "Time workers.",
+        "Shift workers."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 300,
+      "question": "Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter in die Bundesrepublik Deutschland?",
+      "question_trans": "From which country did the first guest workers come to the Federal Republic of Germany?",
+      "options": [
+        "Italien",
+        "Spanien",
+        "Portugal",
+        "Türkei"
+      ],
+      "options_trans": [
+        "Italy",
+        "Spain",
+        "Portugal",
+        "Turkey"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 321,
+      "question": "Welches Wappen gehört zum Bundesland Berlin?",
+      "question_trans": "Which coat of arms belongs to the federal state of Berlin?",
+      "img": "321.png",
+      "options": [
+        "Bild 1",
+        "Bild 2",
+        "Bild 3",
+        "Bild 4"
+      ],
+      "options_trans": [
+        "Figure 1",
+        "Figure 2",
+        "Figure 3",
+        "Figure 4"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 322,
+      "question": "Welches ist ein Bezirk von Berlin?",
+      "question_trans": "Which is a district of Berlin?",
+      "options": [
+        "Altona",
+        "Prignitz",
+        "Pankow",
+        "Mecklenburgische Seenplatte"
+      ],
+      "options_trans": [
+        "Altona",
+        "Prignitz",
+        "Pankow",
+        "Mecklenburg Lake District"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 323,
+      "question": "Für wie viele Jahre wird das Landesparlament in Berlin gewählt?",
+      "question_trans": "How many years will the Land Parliament be elected in Berlin?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "options_trans": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 324,
+      "question": "Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der Bezirksverordnetenversammlung) wählen?",
+      "question_trans": "From what age can you choose in Berlin in local elections (choice of the district council)?",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "options_trans": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 325,
+      "question": "Welche Farben hat die Landesflagge von Berlin?",
+      "question_trans": "What colours does the flag of Berlin have?",
+      "options": [
+        "blau-weiß-rot",
+        "weiß-rot",
+        "grün-weiß-rot",
+        "schwarz-gold"
+      ],
+      "options_trans": [
+        "blue-white red",
+        "white red",
+        "green-white red",
+        "black-gold"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 326,
+      "question": "Wo können Sie sich in Berlin über politische Themen informieren?",
+      "question_trans": "Where can you inform yourself about political issues in Berlin?",
+      "options": [
+        "beim Ordnungsamt der Gemeinde",
+        "bei den Kirchen",
+        "bei der Verbraucherzentrale",
+        "bei der Landeszentrale für politische Bildung"
+      ],
+      "options_trans": [
+        "at the municipal office",
+        "in the Churches",
+        "at the consumer centre",
+        "at the national headquarters for political education"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 327,
+      "question": "Welches Bundesland ist ein Stadtstaat?",
+      "question_trans": "What state is a city state?",
+      "options": [
+        "Berlin",
+        "Saarland",
+        "Brandenburg",
+        "Hessen"
+      ],
+      "options_trans": [
+        "Berlin",
+        "Saarland",
+        "Brandenburg",
+        "Eat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 328,
+      "question": "Welches Bundesland ist Berlin?",
+      "question_trans": "Which country is Berlin?",
+      "img": "328.png",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "options_trans": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 329,
+      "question": "Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Berlin?",
+      "question_trans": "What is the name of the Head of Government of the City State of Berlin?",
+      "options": [
+        "Ministerpräsidentin/Ministerpräsident",
+        "Oberbürgermeisterin/Oberbürgermeister",
+        "Präsidentin/Präsident des Senates",
+        "Regierende Bürgermeisterin/Regierender Bürgermeister"
+      ],
+      "options_trans": [
+        "Prime Minister",
+        "Mayor / Mayor",
+        "President/President of the Senate",
+        "Regulating Mayor/Register Mayor"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 330,
+      "question": "Welche Senatorin/welchen Senator hat Berlin nicht?",
+      "question_trans": "Which senator does not have Berlin?",
+      "options": [
+        "Finanzsenatorin/Finanzsenator",
+        "Innensenatorin/Innensenator",
+        "Senatorin/Senator für Außenbeziehungen",
+        "Justizsenatorin/Justizsenator"
+      ],
+      "options_trans": [
+        "Financial senator",
+        "Interior senator",
+        "Senator for External Relations",
+        "Justice Senator"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

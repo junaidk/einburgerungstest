@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive Quiz Application</title>
+    <title>Einbürgerungstest</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -245,7 +245,7 @@
     </style>
 </head>
 <body>
-    <h1>Interactive Quiz Application</h1>
+    <h1>Einbürgerungstest</h1>
     
     <div class="controls-container">
         <button id="randomizeBtn">Randomize Questions</button>
@@ -397,6 +397,14 @@
                 
                 questionContainer.appendChild(questionElement);
                 
+                if (question.img) {
+                    // Create question image
+                    const questionImage = document.createElement('img');
+                    questionImage.src = "imgs/" + question.img;
+                    questionImage.style.width = "100%";
+                    questionContainer.appendChild(questionImage);
+                }
+
                 // Create translation toggle
                 const translationToggle = document.createElement('button');
                 translationToggle.classList.add('translation-toggle');
@@ -434,29 +442,29 @@
                     optionItem.appendChild(optionTranslation);
                     
                     // Check if this question was already answered
-                    if (answeredQuestions[i] !== undefined) {
-                        if (answeredQuestions[i] === optionIndex) {
-                            optionItem.classList.add('selected');
+                    // if (answeredQuestions[i] !== undefined) {
+                    //     if (answeredQuestions[i] === optionIndex) {
+                    //         optionItem.classList.add('selected');
                             
-                            // Add correct/incorrect classes
-                            if (optionIndex === question.correctAnswer) {
-                                optionItem.classList.add('correct');
-                            } else {
-                                optionItem.classList.add('incorrect');
+                    //         // Add correct/incorrect classes
+                    //         if (optionIndex === question.correctAnswer) {
+                    //             optionItem.classList.add('correct');
+                    //         } else {
+                    //             optionItem.classList.add('incorrect');
                                 
-                                // Highlight the correct answer
-                                const correctOption = optionsList.querySelector(`[data-option-index="${question.correctAnswer}"]`);
-                                if (correctOption) {
-                                    correctOption.classList.add('correct');
-                                }
-                            }
-                        } else if (optionIndex === question.correctAnswer) {
-                            optionItem.classList.add('correct');
-                        }
-                    } else {
+                    //             // Highlight the correct answer
+                    //             const correctOption = optionsList.querySelector(`[data-option-index="${question.correctAnswer}"]`);
+                    //             if (correctOption) {
+                    //                 correctOption.classList.add('correct');
+                    //             }
+                    //         }
+                    //     } else if (optionIndex === question.correctAnswer) {
+                    //         optionItem.classList.add('correct');
+                    //     }
+                    // } else {
                         // Add click event only for unanswered questions
-                        optionItem.addEventListener('click', selectOption);
-                    }
+                    optionItem.addEventListener('click', selectOption);
+                    //}
                     
                     optionsList.appendChild(optionItem);
                 });
@@ -480,7 +488,7 @@
             optionItem.classList.add('selected');
             
             // Check if answer is correct
-            if (optionIndex === question.correctAnswer) {
+            if (optionIndex === question.correctAnswer-1) {
                 optionItem.classList.add('correct');
                 score++;
                 scoreElement.textContent = score;
@@ -489,7 +497,7 @@
                 
                 // Highlight the correct answer
                 const optionsList = optionItem.parentElement;
-                const correctOption = optionsList.querySelector(`[data-option-index="${question.correctAnswer}"]`);
+                const correctOption = optionsList.querySelector(`[data-option-index="${question.correctAnswer-1}"]`);
                 if (correctOption) {
                     correctOption.classList.add('correct');
                 }
@@ -593,7 +601,7 @@
             
             static async loadQuestions() {
                 try {
-                    const response = await fetch('questions-translated.json');
+                    const response = await fetch('dataset.json');
                     if (!response.ok) {
                         throw new Error(`HTTP error! status: ${response.status}`);
                     }
@@ -604,7 +612,7 @@
                     quizContainer.innerHTML = `
                         <div class="error">
                             <h2>Error loading questions</h2>
-                            <p>Please make sure questions-translated.json is in the same directory as this HTML file.</p>
+                            <p>Please make sure dataset.json is in the same directory as this HTML file.</p>
                             <p>Error details: ${error.message}</p>
                         </div>
                     `;
