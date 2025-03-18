@@ -89,7 +89,7 @@
         "The voter must not be influenced or forced to vote for a certain vote and must not have any disadvantages by the election.",
         "All eligible persons must choose."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 6,
@@ -233,7 +233,7 @@
         "all parties that were able to achieve the 5% guarantee at the last election.",
         "all MEPs who do not belong to the government party/governmental parties."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
       "id": 14,
@@ -414,7 +414,7 @@
         "independent with its own company.",
         "a company or authority."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
       "id": 24,
@@ -450,7 +450,7 @@
         "Mecklenburg-Vorpommern",
         "Saxony-Anhalt"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 26,
