@@ -1027,7 +1027,7 @@
         "a former Federal Chancellor",
         "a Member of the strongest group"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
       "id": 58,
@@ -1234,13 +1234,13 @@
       "options": [
         "Stadträte",
         "Landräte",
-        "Gemeinden",
+        "Gemeinden und Kommuniten",
         "Bezirksämter"
       ],
       "options_trans": [
         "City councils",
         "Councils",
-        "Communities",
+        "Communities and Municipalities",
         "District offices"
       ],
       "correctAnswer": 3
@@ -1279,7 +1279,7 @@
         "at Bellevue Castle, the seat of the Federal President/President to receive state guests.",
         "in Berlin, because there are the Federal Chancellery and the Bundestag."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
       "id": 72,
@@ -1477,7 +1477,7 @@
         "the President of the Federal Council",
         "the Federal Chancellor"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
       "id": 83,
@@ -1675,7 +1675,7 @@
         "greater is the risk of forming a coalition.",
         "the party receives more seats in Parliament."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
       "id": 94,
@@ -1765,7 +1765,7 @@
         "the Federal President must give her/her consent beforehand.",
         "the voters of these Members may choose again."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 99,
@@ -1801,7 +1801,7 @@
         "unemployment insurance",
         "care insurance"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 101,
@@ -1837,7 +1837,7 @@
         "Occupational Orders",
         "Honorary title \"Held of the German Democratic Republic\""
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 103,
