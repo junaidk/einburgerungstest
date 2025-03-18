@@ -1,0 +1,557 @@
+{
+  "title": "Gesamtfragenkatalog zum Test 'Leben in Deutschland' und zum 'Einbürgerungstest' (Teil 3)",
+  "date": "24.06.2024",
+  "description": "Collection of questions and answers for the German citizenship and integration test (Questions 101-150)",
+  "questions": [
+    {
+      "id": 101,
+      "question": "Gewerkschaften sind Interessenverbände der …",
+      "options": [
+        "Jugendlichen.",
+        "Arbeitnehmerinnen und Arbeitnehmer.",
+        "Rentnerinnen und Rentner.",
+        "Arbeitgeberinnen und Arbeitgeber."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 102,
+      "question": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …",
+      "options": [
+        "Bundesverdienstkreuz",
+        "Bundesadler",
+        "Vaterländischen Verdienstorden",
+        "Ehrentitel \"Held der Deutschen Demokratischen Republik\""
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 103,
+      "question": "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit …",
+      "options": [
+        "der Bundestagsfraktionen von CDU und CSU",
+        "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+        "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+        "der Bundestagsfraktionen von CDU und SPD"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 104,
+      "question": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+      "options": [
+        "Die Frau ist lange krank und arbeitsunfähig.",
+        "Die Frau kam oft zu spät zur Arbeit.",
+        "Die Frau erledigt private Sachen während der Arbeitszeit.",
+        "Die Frau bekommt ein Kind und ihr Chef weiß das."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 105,
+      "question": "Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?",
+      "options": [
+        "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+        "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+        "Sie geben Zwischenergebnisse an die Medien weiter.",
+        "Sie zählen die Stimmen nach dem Ende der Wahl."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 106,
+      "question": "In Deutschland helfen ehrenamtliche Wahlhelferinnen und Wahlhelfer bei den Wahlen. Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern?",
+      "options": [
+        "Sie helfen Kindern und alten Menschen beim Wählen.",
+        "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+        "Sie geben Zwischenergebnisse an Journalisten weiter.",
+        "Sie zählen die Stimmen nach dem Ende der Wahl."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 107,
+      "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+      "options": [
+        "2 Jahre",
+        "4 Jahre",
+        "6 Jahre",
+        "8 Jahre"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 108,
+      "question": "Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der …",
+      "options": [
+        "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+        "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+        "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+        "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 109,
+      "question": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+      "options": [
+        "alle drei Jahre",
+        "alle vier Jahre",
+        "alle fünf Jahre",
+        "alle sechs Jahre"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 110,
+      "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+      "options": [
+        "2 Jahre",
+        "3 Jahre",
+        "4 Jahre",
+        "5 Jahre"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 111,
+      "question": "Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?",
+      "options": [
+        "die Politik Israels öffentlich kritisieren",
+        "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
+        "eine Diskussion über die Politik Israels",
+        "der öffentliche Aufruf zur Vernichtung Israels"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 112,
+      "question": "Die Wahlen in Deutschland sind …",
+      "options": [
+        "speziell.",
+        "geheim.",
+        "berufsbezogen.",
+        "geschlechtsabhängig."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 113,
+      "question": "Wahlen in Deutschland gewinnt die Partei, die …",
+      "options": [
+        "die meisten Stimmen bekommt.",
+        "die meisten Männer mehrheitlich gewählt haben.",
+        "die meisten Stimmen bei den Arbeiterinnen/Arbeitern bekommen hat.",
+        "die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten erhalten hat."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 114,
+      "question": "An demokratischen Wahlen in Deutschland teilzunehmen ist …",
+      "options": [
+        "eine Pflicht.",
+        "ein Recht.",
+        "ein Zwang.",
+        "eine Last."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 115,
+      "question": "Was bedeutet \"aktives Wahlrecht\" in Deutschland?",
+      "options": [
+        "Man kann gewählt werden.",
+        "Man muss wählen gehen.",
+        "Man kann wählen.",
+        "Man muss zur Auszählung der Stimmen gehen."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 116,
+      "question": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …",
+      "options": [
+        "aktive Wahlkampagne.",
+        "aktives Wahlverfahren.",
+        "aktiver Wahlkampf.",
+        "aktives Wahlrecht."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 117,
+      "question": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+      "options": [
+        "3%",
+        "4%",
+        "5%",
+        "6%"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 118,
+      "question": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+      "options": [
+        "nur Deutsche",
+        "nur Israelis",
+        "nur religiöse Menschen",
+        "alle Menschen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 119,
+      "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+      "options": [
+        "Alle verurteilten Straftäterinnen/Straftäter dürfen nicht wählen.",
+        "Wenn ich wählen gehen möchte, muss meine Arbeitgeberin/mein Arbeitgeber mir frei geben.",
+        "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+        "Ich kann frei entscheiden, wo ich wählen gehen möchte."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 120,
+      "question": "Das Wahlsystem in Deutschland ist ein …",
+      "options": [
+        "Zensuswahlrecht.",
+        "Dreiklassenwahlrecht.",
+        "Mehrheits- und Verhältniswahlrecht.",
+        "allgemeines Männerwahlrecht."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 121,
+      "question": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …",
+      "options": [
+        "5%-Hürde.",
+        "Zulassungsgrenze.",
+        "Basiswert.",
+        "Richtlinie."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 122,
+      "question": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …",
+      "options": [
+        "frei, gleich, geheim.",
+        "offen, sicher, frei.",
+        "geschlossen, gleich, sicher.",
+        "sicher, offen, freiwillig."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 123,
+      "question": "Was ist in Deutschland die \"5%-Hürde\"?",
+      "options": [
+        "Abstimmungsregelung im Bundestag für kleine Parteien",
+        "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+        "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+        "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 124,
+      "question": "Die Bundestagswahl in Deutschland ist die Wahl …",
+      "options": [
+        "der Bundeskanzlerin/des Bundeskanzlers.",
+        "der Parlamente der Länder.",
+        "des Parlaments für Deutschland.",
+        "der Bundespräsidentin/des Bundespräsidenten."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 125,
+      "question": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …",
+      "options": [
+        "die Bürgerinnen und Bürger zu zwingen, ihre Stimme abzugeben.",
+        "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+        "im Land bestehende Gesetze beizubehalten.",
+        "den Armen mehr Macht zu geben."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 126,
+      "question": "Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?",
+      "options": [
+        "eine Wahlbenachrichtigung von der Gemeinde",
+        "eine Wahlerlaubnis von der Bundespräsidentin/von dem Bundespräsidenten",
+        "eine Benachrichtigung von der Bundesversammlung",
+        "eine Benachrichtigung vom Pfarramt"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 127,
+      "question": "Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …",
+      "options": [
+        "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+        "die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.",
+        "viele kleine Parteien die Regierungsbildung erschweren.",
+        "die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und Politiker zu bezahlen."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 128,
+      "question": "Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man …",
+      "options": [
+        "Abgeordnete.",
+        "Kanzlerinnen/Kanzler.",
+        "Botschafterinnen/Botschafter.",
+        "Ministerpräsidentinnen/Ministerpräsidenten."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 129,
+      "question": "Vom Volk gewählt wird in Deutschland …",
+      "options": [
+        "die Bundeskanzlerin/der Bundeskanzler.",
+        "die Ministerpräsidentin/der Ministerpräsident eines Bundeslandes.",
+        "der Bundestag.",
+        "die Bundespräsidentin/der Bundespräsident."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 130,
+      "question": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 131,
+      "question": "In Deutschland ist eine Bürgermeisterin/ein Bürgermeister …",
+      "options": [
+        "die Leiterin/der Leiter einer Schule.",
+        "die Chefin/der Chef einer Bank.",
+        "das Oberhaupt einer Gemeinde.",
+        "die/der Vorsitzende einer Partei."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 132,
+      "question": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+      "options": [
+        "Sie arbeiten als Soldatinnen/Soldaten.",
+        "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+        "Sie arbeiten in der Bundesregierung.",
+        "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 133,
+      "question": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+      "options": [
+        "Der Ehemann wählt für seine Frau mit.",
+        "Man kann durch Briefwahl seine Stimme abgeben.",
+        "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+        "Kinder ab dem Alter von 14 Jahren dürfen wählen."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 134,
+      "question": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+      "options": [
+        "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+        "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+        "Ich wende mich an das Finanzamt, weil ich als Steuerzahlerin/Steuerzahler ein Recht auf die Buslinie habe.",
+        "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 135,
+      "question": "Wen vertreten die Gewerkschaften in Deutschland?",
+      "options": [
+        "große Unternehmen",
+        "kleine Unternehmen",
+        "Selbstständige",
+        "Arbeitnehmerinnen und Arbeitnehmer"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 136,
+      "question": "Sie gehen in Deutschland zum Arbeitsgericht bei …",
+      "options": [
+        "falscher Nebenkostenabrechnung.",
+        "ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.",
+        "Problemen mit den Nachbarinnen/Nachbarn.",
+        "Schwierigkeiten nach einem Verkehrsunfall."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 137,
+      "question": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+      "options": [
+        "das Familiengericht",
+        "das Strafgericht",
+        "das Arbeitsgericht",
+        "das Amtsgericht"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 138,
+      "question": "Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?",
+      "options": [
+        "weiterarbeiten und freundlich zur Chefin/zum Chef sein",
+        "ein Mahnverfahren gegen die Arbeitgeberin/den Arbeitgeber führen",
+        "Kündigungsschutzklage erheben",
+        "die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 139,
+      "question": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …",
+      "options": [
+        "zu einer anderen Religion übertritt.",
+        "eine Straftat begangen hat und angeklagt wird.",
+        "eine andere Meinung als die der Regierung vertritt.",
+        "sein Auto falsch geparkt hat und es abgeschleppt wird."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 140,
+      "question": "Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er …",
+      "options": [
+        "entscheidet mit Richterinnen/Richtern über Schuld und Strafe.",
+        "gibt Bürgerinnen/Bürgern rechtlichen Rat.",
+        "stellt Urkunden aus.",
+        "verteidigt die Angeklagte/den Angeklagten."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 141,
+      "question": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+      "options": [
+        "eine Rechtsanwältin/ein Rechtsanwalt",
+        "eine Richterin/ein Richter",
+        "eine Schöffin/ein Schöffe",
+        "eine Staatsanwältin/ein Staatsanwalt"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 142,
+      "question": "Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter …",
+      "options": [
+        "vertritt Bürgerinnen und Bürger vor einem Gericht.",
+        "arbeitet an einem Gericht und spricht Urteile.",
+        "ändert Gesetze.",
+        "betreut Jugendliche vor Gericht."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 143,
+      "question": "Eine Richterin/ein Richter in Deutschland gehört zur …",
+      "options": [
+        "Judikative.",
+        "Exekutive.",
+        "Operative.",
+        "Legislative."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 144,
+      "question": "Eine Richterin/ein Richter gehört in Deutschland zur …",
+      "options": [
+        "vollziehenden Gewalt.",
+        "rechtsprechenden Gewalt.",
+        "planenden Gewalt.",
+        "gesetzgebenden Gewalt."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 145,
+      "question": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet eine Richterin/ein Richter? Für die …",
+      "options": [
+        "Judikative",
+        "Exekutive",
+        "Presse",
+        "Legislative"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 146,
+      "question": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+      "options": [
+        "Programm",
+        "Prozedur",
+        "Protokoll",
+        "Prozess"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 147,
+      "question": "Was ist die Arbeit einer Richterin/eines Richters in Deutschland?",
+      "options": [
+        "Deutschland regieren",
+        "Recht sprechen",
+        "Pläne erstellen",
+        "Gesetze erlassen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 148,
+      "question": "Was ist eine Aufgabe der Polizei in Deutschland?",
+      "options": [
+        "das Land zu verteidigen",
+        "die Bürgerinnen und Bürger abzuhören",
+        "die Gesetze zu beschließen",
+        "die Einhaltung von Gesetzen zu überwachen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 149,
+      "question": "Was ist ein Beispiel für antisemitisches Verhalten?",
+      "options": [
+        "ein jüdisches Fest besuchen",
+        "die israelische Regierung kritisieren",
+        "den Holocaust leugnen",
+        "gegen Juden Fußball spielen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 150,
+      "question": "Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist …",
+      "options": [
+        "die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.",
+        "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.",
+        "ein Mitglied eines Gemeinderats.",
+        "eine Person, die Jura studiert hat."
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

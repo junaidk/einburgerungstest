@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Quiz Application</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        
+        .error {
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px 0;
+            color: #721c24;
+        }
+        
+        .quiz-container {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .quiz-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        
+        .score-container {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        
+        .question-container {
+            margin-bottom: 30px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 20px;
+        }
+        
+        .question {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .translation {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 15px;
+            font-style: italic;
+            visibility: hidden;
+        }
+
+
+        .options {
+            list-style-type: none;
+            padding: 0;
+        }
+        
+        .option {
+            padding: 10px 15px;
+            margin-bottom: 10px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .option:hover {
+            background-color: #eaeaea;
+        }
+        
+        .option-translation {
+            color: #666;
+            font-style: italic;
+            display: flex;
+            visibility: hidden;
+        }
+        
+        .visible {
+            visibility: visible;
+        }
+
+        .selected {
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
+        }
+        
+        .correct {
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
+        }
+        
+        .incorrect {
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+        }
+        
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        
+        button {
+            padding: 8px 16px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        
+        button:hover {
+            background-color: #0069d9;
+        }
+        
+        button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        
+        .translation-toggle {
+            margin-bottom: 10px;
+        }
+        
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+        
+        #paginationContainer {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            max-width: 100%;
+        }
+        
+        .page-item {
+            margin: 4px;
+            padding: 5px 10px;
+            border-radius: 3px;
+            cursor: pointer;
+            background-color: #f0f0f0;
+            min-width: 30px;
+            text-align: center;
+        }
+        
+        .page-item.active {
+            background-color: #007bff;
+            color: white;
+        }
+        
+        @media (max-width: 576px) {
+            .pagination {
+                flex-direction: column;
+                gap: 10px;
+            }
+            
+            #paginationContainer {
+                order: 2;
+                margin: 10px 0;
+            }
+            
+            .page-item {
+                padding: 8px 12px;
+            }
+        }
+        
+        .navigation {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 20px;
+            gap: 15px;
+        }
+        
+        @media (max-width: 768px) {
+            .navigation {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .jump-container {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+        
+        .controls-container {
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: flex-end;
+        }
+        
+        .jump-container {
+            display: flex;
+            align-items: center;
+        }
+        
+        #jumpToQuestion {
+            width: 50px;
+            padding: 5px;
+            margin: 0 10px;
+        }
+        
+        .file-input {
+            margin-bottom: 20px;
+        }
+        
+        #fileInput {
+            display: none;
+        }
+        
+        .file-label {
+            padding: 8px 16px;
+            background-color: #28a745;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h1>Interactive Quiz Application</h1>
+    
+    <div class="controls-container">
+        <button id="randomizeBtn">Randomize Questions</button>
+    </div>
+    
+    <div id="quizContainer" class="quiz-container">
+        <div class="quiz-header">
+            <h2>Quiz</h2>
+            <div class="score-container">
+                Score: <span id="score">0</span> / <span id="totalQuestions">0</span>
+            </div>
+        </div>
+        
+        <div id="questionsContainer"></div>
+        
+        <div class="navigation">
+            <div class="pagination">
+                <button id="prevBtn" disabled>Previous</button>
+                <div id="paginationContainer"></div>
+                <button id="nextBtn" disabled>Next</button>
+            </div>
+            
+            <div class="jump-container">
+                <label for="jumpToQuestion">Jump to question:</label>
+                <input type="number" id="jumpToQuestion" min="1">
+                <button id="jumpBtn">Go</button>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let questions = [];
+        let currentPage = 1;
+        let questionsPerPage = 10;
+        let score = 0;
+        let answeredQuestions = {};
+        
+        // DOM elements
+        const quizContainer = document.getElementById('quizContainer');
+        const questionsContainer = document.getElementById('questionsContainer');
+        const scoreElement = document.getElementById('score');
+        const totalQuestionsElement = document.getElementById('totalQuestions');
+        const prevBtn = document.getElementById('prevBtn');
+        const nextBtn = document.getElementById('nextBtn');
+        const paginationContainer = document.getElementById('paginationContainer');
+        const jumpToQuestion = document.getElementById('jumpToQuestion');
+        const jumpBtn = document.getElementById('jumpBtn');
+        const randomizeBtn = document.getElementById('randomizeBtn');
+        
+        // Event listeners
+        prevBtn.addEventListener('click', goToPreviousPage);
+        nextBtn.addEventListener('click', goToNextPage);
+        jumpBtn.addEventListener('click', jumpToQuestionNumber);
+        randomizeBtn.addEventListener('click', randomizeQuestions);
+        
+        // Randomize questions
+        function randomizeQuestions() {
+            if (questions.length > 0) {
+                // Create a copy of questions and shuffle it
+                const shuffled = [...questions];
+                for (let i = shuffled.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+                }
+                
+                // Update questions array with shuffled array
+                questions = shuffled;
+                
+                // Reset state and redisplay
+                currentPage = 1;
+                score = 0;
+                answeredQuestions = {};
+                scoreElement.textContent = score;
+                
+                // Update UI
+                createPagination();
+                displayQuestions();
+                updateButtonStates();
+            }
+        }
+        
+        // Initialize quiz
+        function initializeQuiz() {
+            // Reset quiz state
+            currentPage = 1;
+            score = 0;
+            answeredQuestions = {};
+            
+            // Update UI
+            quizContainer.style.display = 'block';
+            totalQuestionsElement.textContent = questions.length;
+            scoreElement.textContent = score;
+            
+            // Create pagination
+            createPagination();
+            
+            // Display questions
+            displayQuestions();
+            
+            // Update button states
+            updateButtonStates();
+        }
+        
+        // Create pagination
+        function createPagination() {
+            paginationContainer.innerHTML = '';
+            
+            const totalPages = Math.ceil(questions.length / questionsPerPage);
+            
+            for (let i = 1; i <= totalPages; i++) {
+                const pageItem = document.createElement('span');
+                pageItem.classList.add('page-item');
+                pageItem.textContent = i;
+                
+                if (i === currentPage) {
+                    pageItem.classList.add('active');
+                }
+                
+                pageItem.addEventListener('click', () => {
+                    currentPage = i;
+                    displayQuestions();
+                    updatePagination();
+                    updateButtonStates();
+                });
+                
+                paginationContainer.appendChild(pageItem);
+            }
+        }
+        
+        // Display questions for current page
+        function displayQuestions() {
+            questionsContainer.innerHTML = '';
+            
+            const startIndex = (currentPage - 1) * questionsPerPage;
+            const endIndex = Math.min(startIndex + questionsPerPage, questions.length);
+            
+            for (let i = startIndex; i < endIndex; i++) {
+                const question = questions[i];
+                
+                // Create question container
+                const questionContainer = document.createElement('div');
+                questionContainer.classList.add('question-container');
+                
+                // Create question number and text
+                const questionElement = document.createElement('div');
+                questionElement.classList.add('question');
+                //questionElement.textContent = `${i + 1}. ${question.question}`;
+                questionElement.textContent = `${question.id}. ${question.question}`;
+                
+                questionContainer.appendChild(questionElement);
+                
+                // Create translation toggle
+                const translationToggle = document.createElement('button');
+                translationToggle.classList.add('translation-toggle');
+                translationToggle.textContent = 'Show Translation';
+                translationToggle.dataset.questionId = i;
+                translationToggle.addEventListener('click', toggleTranslation);
+                questionContainer.appendChild(translationToggle);
+                
+                // Create question translation
+                const translationElement = document.createElement('div');
+                translationElement.classList.add('translation');
+                translationElement.id = `translation-${i}`;
+                translationElement.textContent = question.question_trans;
+                questionContainer.appendChild(translationElement);
+                
+                // Create options
+                const optionsList = document.createElement('ul');
+                optionsList.classList.add('options');
+                
+                question.options.forEach((option, optionIndex) => {
+                    const optionItem = document.createElement('li');
+                    optionItem.classList.add('option');
+                    optionItem.dataset.questionIndex = i;
+                    optionItem.dataset.optionIndex = optionIndex;
+                    
+                    // Create option text container
+                    const optionText = document.createElement('span');
+                    optionText.textContent = option;
+                    optionItem.appendChild(optionText);
+                    
+                    // Create option translation container
+                    const optionTranslation = document.createElement('span');
+                    optionTranslation.classList.add('option-translation');
+                    optionTranslation.textContent = question.options_trans[optionIndex];
+                    optionItem.appendChild(optionTranslation);
+                    
+                    // Check if this question was already answered
+                    if (answeredQuestions[i] !== undefined) {
+                        if (answeredQuestions[i] === optionIndex) {
+                            optionItem.classList.add('selected');
+                            
+                            // Add correct/incorrect classes
+                            if (optionIndex === question.correctAnswer) {
+                                optionItem.classList.add('correct');
+                            } else {
+                                optionItem.classList.add('incorrect');
+                                
+                                // Highlight the correct answer
+                                const correctOption = optionsList.querySelector(`[data-option-index="${question.correctAnswer}"]`);
+                                if (correctOption) {
+                                    correctOption.classList.add('correct');
+                                }
+                            }
+                        } else if (optionIndex === question.correctAnswer) {
+                            optionItem.classList.add('correct');
+                        }
+                    } else {
+                        // Add click event only for unanswered questions
+                        optionItem.addEventListener('click', selectOption);
+                    }
+                    
+                    optionsList.appendChild(optionItem);
+                });
+                
+                questionContainer.appendChild(optionsList);
+                questionsContainer.appendChild(questionContainer);
+            }
+        }
+        
+        // Select an option
+        function selectOption(event) {
+            const optionItem = event.currentTarget;
+            const questionIndex = parseInt(optionItem.dataset.questionIndex);
+            const optionIndex = parseInt(optionItem.dataset.optionIndex);
+            const question = questions[questionIndex];
+            
+            // Mark question as answered
+            answeredQuestions[questionIndex] = optionIndex;
+            
+            // Add selected class
+            optionItem.classList.add('selected');
+            
+            // Check if answer is correct
+            if (optionIndex === question.correctAnswer) {
+                optionItem.classList.add('correct');
+                score++;
+                scoreElement.textContent = score;
+            } else {
+                optionItem.classList.add('incorrect');
+                
+                // Highlight the correct answer
+                const optionsList = optionItem.parentElement;
+                const correctOption = optionsList.querySelector(`[data-option-index="${question.correctAnswer}"]`);
+                if (correctOption) {
+                    correctOption.classList.add('correct');
+                }
+            }
+            
+            // Disable click events for all options in this question
+            const allOptions = optionItem.parentElement.querySelectorAll('.option');
+            allOptions.forEach(option => {
+                option.removeEventListener('click', selectOption);
+            });
+        }
+        
+        // Toggle translation
+        function toggleTranslation(event) {
+            const button = event.currentTarget;
+            const questionId = button.dataset.questionId;
+            const translationElement = document.getElementById(`translation-${questionId}`);
+            const optionTranslations = document.querySelectorAll(`.option[data-question-index="${questionId}"] .option-translation`);
+            
+            if (translationElement.classList.contains('visible')) {
+                translationElement.classList.remove('visible');
+                optionTranslations.forEach(trans => trans.classList.remove('visible'));
+                button.textContent = 'Show Translation';
+            } else {
+                translationElement.classList.add('visible');
+                optionTranslations.forEach(trans => trans.classList.add('visible'));
+                button.textContent = 'Hide Translation';
+            }
+        }
+        
+        // Go to previous page
+        function goToPreviousPage() {
+            if (currentPage > 1) {
+                currentPage--;
+                displayQuestions();
+                updatePagination();
+                updateButtonStates();
+            }
+        }
+        
+        // Go to next page
+        function goToNextPage() {
+            const totalPages = Math.ceil(questions.length / questionsPerPage);
+            if (currentPage < totalPages) {
+                currentPage++;
+                displayQuestions();
+                updatePagination();
+                updateButtonStates();
+            }
+        }
+        
+        // Jump to specific question
+        function jumpToQuestionNumber() {
+            const questionNumber = parseInt(jumpToQuestion.value);
+            if (questionNumber && questionNumber > 0 && questionNumber <= questions.length) {
+                const pageNumber = Math.ceil(questionNumber / questionsPerPage);
+                currentPage = pageNumber;
+                
+                displayQuestions();
+                updatePagination();
+                updateButtonStates();
+                
+                // Scroll to the specific question
+                const index = questionNumber - 1;
+                const questionContainers = document.querySelectorAll('.question-container');
+                const containerIndex = index % questionsPerPage;
+                
+                if (questionContainers[containerIndex]) {
+                    questionContainers[containerIndex].scrollIntoView({ behavior: 'smooth' });
+                }
+            } else {
+                alert(`Please enter a valid question number between 1 and ${questions.length}.`);
+            }
+        }
+        
+        // Update pagination
+        function updatePagination() {
+            const pageItems = paginationContainer.querySelectorAll('.page-item');
+            pageItems.forEach((item, index) => {
+                if (index + 1 === currentPage) {
+                    item.classList.add('active');
+                } else {
+                    item.classList.remove('active');
+                }
+            });
+        }
+        
+        // Update button states
+        function updateButtonStates() {
+            const totalPages = Math.ceil(questions.length / questionsPerPage);
+            
+            prevBtn.disabled = currentPage === 1;
+            nextBtn.disabled = currentPage === totalPages;
+        }
+        
+        // Quiz class to handle loading questions from JSON file
+        class Quiz {
+            constructor(data) {
+                this.questions = data.questions || [];
+            }
+            
+            static async loadQuestions() {
+                try {
+                    const response = await fetch('questions-translated.json');
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    const data = await response.json();
+                    return data;
+                } catch (error) {
+                    console.error('Error loading questions:', error);
+                    quizContainer.innerHTML = `
+                        <div class="error">
+                            <h2>Error loading questions</h2>
+                            <p>Please make sure questions-translated.json is in the same directory as this HTML file.</p>
+                            <p>Error details: ${error.message}</p>
+                        </div>
+                    `;
+                    return { questions: [] };
+                }
+            }
+        }
+        
+        // Load the quiz data on page load
+        document.addEventListener('DOMContentLoaded', async function() {
+            const data = await Quiz.loadQuestions();
+            questions = data.questions || [];
+            if (questions.length > 0) {
+                initializeQuiz();
+            } else if (questions.length === 0 && !document.querySelector('.error')) {
+                quizContainer.innerHTML = `
+                    <div class="error">
+                        <h2>No questions found</h2>
+                        <p>The JSON file was loaded but no questions were found.</p>
+                    </div>
+                `;
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,557 @@
+{
+  "title": "Gesamtfragenkatalog zum Test 'Leben in Deutschland' und zum 'Einbürgerungstest' (Teil 6)",
+  "date": "24.06.2024",
+  "description": "Collection of questions and answers for the German citizenship and integration test (Questions 251-300)",
+  "questions": [
+    {
+      "id": 251,
+      "question": "Wenn man in Deutschland ein Kind schlägt, …",
+      "options": [
+        "geht das niemanden etwas an.",
+        "geht das nur die Familie etwas an.",
+        "kann man dafür nicht bestraft werden.",
+        "kann man dafür bestraft werden."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 252,
+      "question": "In Deutschland …",
+      "options": [
+        "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.",
+        "kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.",
+        "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+        "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 253,
+      "question": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+      "options": [
+        "beim Einwohnermeldeamt",
+        "beim Standesamt",
+        "beim Ordnungsamt",
+        "beim Gewerbeamt"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 254,
+      "question": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das \"Trennungsjahr\" einhalten. Was bedeutet das?",
+      "options": [
+        "Der Scheidungsprozess dauert ein Jahr.",
+        "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+        "Das Besuchsrecht für die Kinder gilt ein Jahr.",
+        "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 255,
+      "question": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …",
+      "options": [
+        "Ordnungsamt.",
+        "Schulamt.",
+        "Jugendamt.",
+        "Gesundheitsamt."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 256,
+      "question": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+      "options": [
+        "eine Erlaubnis der Polizei",
+        "eine Genehmigung einer Partei",
+        "eine Genehmigung des Einwohnermeldeamts",
+        "eine Gaststättenerlaubnis von der zuständigen Behörde"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 257,
+      "question": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …",
+      "options": [
+        "einer Hochschule.",
+        "einem Abendgymnasium.",
+        "einer Hauptschule.",
+        "einer Privatuniversität."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 258,
+      "question": "Was darf das Jugendamt in Deutschland?",
+      "options": [
+        "Es entscheidet, welche Schule das Kind besucht.",
+        "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+        "Es bezahlt das Kindergeld an die Eltern.",
+        "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 259,
+      "question": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …",
+      "options": [
+        "Rentenberechnung.",
+        "Lehrstellensuche.",
+        "Steuererklärung.",
+        "Krankenversicherung."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 260,
+      "question": "In Deutschland hat ein Kind in der Schule …",
+      "options": [
+        "Recht auf unbegrenzte Freizeit.",
+        "Wahlfreiheit für alle Fächer.",
+        "Anspruch auf Schulgeld.",
+        "Anwesenheitspflicht."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 261,
+      "question": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …",
+      "options": [
+        "einer Hochschule.",
+        "einem Abendgymnasium.",
+        "einer Hauptschule.",
+        "einer Privatuniversität."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 262,
+      "question": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+      "options": [
+        "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+        "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+        "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+        "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 263,
+      "question": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …",
+      "options": [
+        "werden bestraft.",
+        "werden wie Erwachsene behandelt.",
+        "teilen die Strafe mit ihren Eltern.",
+        "werden nicht bestraft."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 264,
+      "question": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
+      "options": [
+        "am Rosenmontag",
+        "am Maifeiertag",
+        "beim Oktoberfest",
+        "an Pfingsten"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 265,
+      "question": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
+      "options": [
+        "zum Einwohnermeldeamt",
+        "zum Ordnungsamt",
+        "zur Agentur für Arbeit",
+        "zum Standesamt"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 266,
+      "question": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+      "options": [
+        "wenn die Sonne untergeht",
+        "wenn die Nachbarn schlafen gehen",
+        "um 0 Uhr, Mitternacht",
+        "um 22 Uhr"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 267,
+      "question": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+      "options": [
+        "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+        "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+        "Sie können zur Polizei gehen und die Tochter anzeigen.",
+        "Sie suchen einen anderen Mann für die Tochter."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 268,
+      "question": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+      "options": [
+        "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+        "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+        "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
+        "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 269,
+      "question": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …",
+      "options": [
+        "monatliches Taschengeld.",
+        "einen Platz in einem Sportverein.",
+        "einen Kindergartenplatz.",
+        "einen Ferienpass."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 270,
+      "question": "Die Volkshochschule in Deutschland ist eine Einrichtung …",
+      "options": [
+        "für den Religionsunterricht.",
+        "nur für Jugendliche.",
+        "zur Weiterbildung.",
+        "nur für Rentnerinnen und Rentner."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 271,
+      "question": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+      "options": [
+        "bunte Eier verstecken",
+        "einen Tannenbaum schmücken",
+        "sich mit Masken und Kostümen verkleiden",
+        "Kürbisse vor die Tür stellen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 272,
+      "question": "Welche Lebensform ist in Deutschland nicht erlaubt?",
+      "options": [
+        "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+        "Zwei Frauen leben zusammen.",
+        "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+        "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 273,
+      "question": "Bei Erziehungsproblemen gehen Sie in Deutschland …",
+      "options": [
+        "zur Ärztin/zum Arzt.",
+        "zum Gesundheitsamt.",
+        "zum Einwohnermeldeamt.",
+        "zum Jugendamt."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 274,
+      "question": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+      "options": [
+        "das Schweigerecht",
+        "das Briefgeheimnis",
+        "die Schweigepflicht",
+        "die Meinungsfreiheit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 275,
+      "question": "Was braucht man in Deutschland für eine Ehescheidung?",
+      "options": [
+        "die Einwilligung der Eltern",
+        "ein Attest einer Ärztin/eines Arztes",
+        "die Einwilligung der Kinder",
+        "die Unterstützung einer Anwältin/eines Anwalts"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 276,
+      "question": "Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?",
+      "options": [
+        "Ich kann nichts tun.",
+        "Ich muss mir diese Behandlung gefallen lassen.",
+        "Ich drohe der Person.",
+        "Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 277,
+      "question": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …",
+      "options": [
+        "kein Englisch spricht.",
+        "zu hohe Gehaltsvorstellungen hat.",
+        "keine Erfahrungen in diesem Beruf hat.",
+        "Mutter ist."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 278,
+      "question": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er …",
+      "options": [
+        "im Rollstuhl sitzt.",
+        "keine Erfahrung hat.",
+        "zu hohe Gehaltsvorstellungen hat.",
+        "kein Englisch spricht."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 279,
+      "question": "In den meisten Mietshäusern in Deutschland gibt es eine \"Hausordnung\". Was steht in einer solchen \"Hausordnung\"? Sie nennt …",
+      "options": [
+        "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+        "alle Mieterinnen und Mieter im Haus.",
+        "Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.",
+        "die Adresse des nächsten Ordnungsamtes."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 280,
+      "question": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …",
+      "options": [
+        "nichts machen.",
+        "den Bescheid wegwerfen.",
+        "Einspruch einlegen.",
+        "warten, bis ein anderer Bescheid kommt."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 281,
+      "question": "Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf …",
+      "options": [
+        "Meinungsfreiheit",
+        "Gleichbehandlung",
+        "Versammlungsfreiheit",
+        "Freizügigkeit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 282,
+      "question": "Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?",
+      "options": [
+        "Vereinstrainerin/Vereinstrainer",
+        "Wahlhelferin/Wahlhelfer",
+        "Bibliotheksaufsicht",
+        "Lehrerin/Lehrer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 283,
+      "question": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
+      "options": [
+        "Ich lasse die Rechnung liegen.",
+        "Ich lege Widerspruch bei der Behörde ein.",
+        "Ich schicke die Rechnung an die Behörde zurück.",
+        "Ich gehe mit der Rechnung zum Finanzamt."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 284,
+      "question": "Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?",
+      "options": [
+        "Es ist egal, was man lernt.",
+        "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+        "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+        "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 285,
+      "question": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+      "options": [
+        "Lohnsteuer",
+        "Beiträge zur Arbeitslosenversicherung",
+        "Beiträge zur Renten- und Krankenversicherung",
+        "Umsatzsteuer"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 286,
+      "question": "Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?",
+      "options": [
+        "der Betriebsrat",
+        "die Betriebsprüferin/der Betriebsprüfer",
+        "die Betriebsgruppe",
+        "das Betriebsmanagement"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 287,
+      "question": "Sie möchten bei einer Firma in Deutschland ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
+      "options": [
+        "die Gehaltszahlungen",
+        "die Arbeitszeit",
+        "die Kündigungsfrist",
+        "die Versicherungspflicht"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 288,
+      "question": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
+      "options": [
+        "aus der Mitgliedschaft in der Europäischen Union (EU)",
+        "aus den nationalsozialistischen Verbrechen gegen Juden",
+        "aus dem Grundgesetz der Bundesrepublik Deutschland",
+        "aus der christlichen Tradition"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 289,
+      "question": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …",
+      "options": [
+        "seine Deutschkenntnisse zu gering sind.",
+        "er zu hohe Gehaltsvorstellungen hat.",
+        "er eine dunkle Haut hat.",
+        "er keine Erfahrungen im Beruf hat."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 290,
+      "question": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
+      "options": [
+        "eine Anzeige schreiben",
+        "den Fernseher reklamieren",
+        "das Gerät ungefragt austauschen",
+        "die Garantie verlängern"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 291,
+      "question": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …",
+      "options": [
+        "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+        "das für die Statistik in Deutschland wichtig ist.",
+        "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+        "die Kirche für die Steuererklärung verantwortlich ist."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 292,
+      "question": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
+      "options": [
+        "Es dürfen keine Moscheen gebaut werden.",
+        "Alle Menschen glauben an Gott.",
+        "Jeder kann glauben, was er möchte.",
+        "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 293,
+      "question": "Was ist in Deutschland ein Brauch zu Ostern?",
+      "options": [
+        "Kürbisse vor die Tür stellen",
+        "einen Tannenbaum schmücken",
+        "Eier bemalen",
+        "Raketen in die Luft schießen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 294,
+      "question": "Pfingsten ist ein …",
+      "options": [
+        "christlicher Feiertag.",
+        "deutscher Gedenktag.",
+        "internationaler Trauertag.",
+        "bayerischer Brauch."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 295,
+      "question": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
+      "options": [
+        "der Hinduismus",
+        "das Christentum",
+        "der Buddhismus",
+        "der Islam"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 296,
+      "question": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten …",
+      "options": [
+        "den Buß- und Bettag.",
+        "das Erntedankfest.",
+        "die Adventszeit.",
+        "Allerheiligen."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 297,
+      "question": "Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland gekommen?",
+      "options": [
+        "Italien",
+        "Polen",
+        "Marokko",
+        "Türkei"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 298,
+      "question": "In der DDR lebten vor allem Migrantinnen und Migranten aus …",
+      "options": [
+        "Vietnam, Polen, Mosambik.",
+        "Frankreich, Rumänien, Somalia.",
+        "Chile, Ungarn, Simbabwe.",
+        "Nordkorea, Mexiko, Ägypten."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 299,
+      "question": "Ausländische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …",
+      "options": [
+        "Schwarzarbeiterinnen/Schwarzarbeiter.",
+        "Gastarbeiterinnen/Gastarbeiter.",
+        "Zeitarbeiterinnen/Zeitarbeiter.",
+        "Schichtarbeiterinnen/Schichtarbeiter."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 300,
+      "question": "Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter in die Bundesrepublik Deutschland?",
+      "options": [
+        "Italien",
+        "Spanien",
+        "Portugal",
+        "Türkei"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

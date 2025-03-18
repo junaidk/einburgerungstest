@@ -1,0 +1,557 @@
+{
+  "title": "Gesamtfragenkatalog zum Test 'Leben in Deutschland' und zum 'Einbürgerungstest' (Teil 4)",
+  "date": "24.06.2024",
+  "description": "Collection of questions and answers for the German citizenship and integration test (Questions 151-200)",
+  "questions": [
+    {
+      "id": 151,
+      "question": "Wer baute die Mauer in Berlin?",
+      "options": [
+        "Großbritannien",
+        "die DDR",
+        "die Bundesrepublik Deutschland",
+        "die USA"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 152,
+      "question": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+      "options": [
+        "1918 bis 1923",
+        "1932 bis 1950",
+        "1933 bis 1945",
+        "1945 bis 1989"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 153,
+      "question": "Was war am 8. Mai 1945?",
+      "options": [
+        "Tod Adolf Hitlers",
+        "Beginn des Berliner Mauerbaus",
+        "Wahl von Konrad Adenauer zum Bundeskanzler",
+        "Ende des Zweiten Weltkriegs in Europa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 154,
+      "question": "Wann war der Zweite Weltkrieg zu Ende?",
+      "options": [
+        "1933",
+        "1945",
+        "1949",
+        "1961"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 155,
+      "question": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+      "options": [
+        "1888 bis 1918",
+        "1921 bis 1934",
+        "1933 bis 1945",
+        "1949 bis 1963"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 156,
+      "question": "In welchem Jahr wurde Hitler Reichskanzler?",
+      "options": [
+        "1923",
+        "1927",
+        "1933",
+        "1936"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 157,
+      "question": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …",
+      "options": [
+        "eine Diktatur.",
+        "einen demokratischen Staat.",
+        "eine Monarchie.",
+        "ein Fürstentum."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 158,
+      "question": "Das \"Dritte Reich\" war eine …",
+      "options": [
+        "Diktatur.",
+        "Demokratie.",
+        "Monarchie.",
+        "Räterepublik."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 159,
+      "question": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+      "options": [
+        "freie Wahlen",
+        "Pressezensur",
+        "willkürliche Verhaftungen",
+        "Verfolgung von Juden"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 160,
+      "question": "Welcher Krieg dauerte von 1939 bis 1945?",
+      "options": [
+        "der Erste Weltkrieg",
+        "der Zweite Weltkrieg",
+        "der Vietnamkrieg",
+        "der Golfkrieg"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 161,
+      "question": "Was kennzeichnete den NS-Staat? Eine Politik …",
+      "options": [
+        "des staatlichen Rassismus",
+        "der Meinungsfreiheit",
+        "der allgemeinen Religionsfreiheit",
+        "der Entwicklung der Demokratie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 162,
+      "question": "Claus Schenk Graf von Stauffenberg wurde bekannt durch …",
+      "options": [
+        "eine Goldmedaille bei den Olympischen Spielen 1936.",
+        "den Bau des Reichstagsgebäudes.",
+        "den Aufbau der Wehrmacht.",
+        "das Attentat auf Hitler am 20. Juli 1944."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 163,
+      "question": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+      "options": [
+        "1925",
+        "1930",
+        "1938",
+        "1945"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 164,
+      "question": "Was passierte am 9. November 1938 in Deutschland?",
+      "options": [
+        "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+        "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+        "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+        "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 165,
+      "question": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+      "options": [
+        "Konrad Adenauer",
+        "Kurt Georg Kiesinger",
+        "Helmut Schmidt",
+        "Willy Brandt"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 166,
+      "question": "Bei welchen Demonstrationen in Deutschland riefen die Menschen \"Wir sind das Volk\"?",
+      "options": [
+        "beim Arbeiteraufstand 1953 in der DDR",
+        "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+        "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
+        "bei den Montagsdemonstrationen 1989 in der DDR"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 167,
+      "question": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als \"Alliierte Besatzungsmächte\" bezeichnet?",
+      "options": [
+        "Sowjetunion, Großbritannien, Polen, Schweden",
+        "Frankreich, Sowjetunion, Italien, Japan",
+        "USA, Sowjetunion, Spanien, Portugal",
+        "USA, Sowjetunion, Großbritannien, Frankreich"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 168,
+      "question": "Welches Land war keine \"Alliierte Besatzungsmacht\" in Deutschland?",
+      "options": [
+        "USA",
+        "Sowjetunion",
+        "Frankreich",
+        "Japan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 169,
+      "question": "Wann wurde die Bundesrepublik Deutschland gegründet?",
+      "options": [
+        "1939",
+        "1945",
+        "1949",
+        "1951"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 170,
+      "question": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+      "options": [
+        "das Verbot von Parteien",
+        "das Recht zur freien Entfaltung der Persönlichkeit",
+        "Pressefreiheit",
+        "den Schutz der Menschenwürde"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 171,
+      "question": "Soziale Marktwirtschaft bedeutet, die Wirtschaft …",
+      "options": [
+        "steuert sich allein nach Angebot und Nachfrage.",
+        "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+        "richtet sich nach der Nachfrage im Ausland.",
+        "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 172,
+      "question": "In welcher Besatzungszone wurde die DDR gegründet? In der …",
+      "options": [
+        "amerikanischen Besatzungszone",
+        "französischen Besatzungszone",
+        "britischen Besatzungszone",
+        "sowjetischen Besatzungszone"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 173,
+      "question": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied …",
+      "options": [
+        "des Nordatlantikpakts (NATO).",
+        "der Vereinten Nationen (VN).",
+        "der Europäischen Union (EU).",
+        "des Warschauer Pakts."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 174,
+      "question": "Wann wurde die DDR gegründet?",
+      "options": [
+        "1947",
+        "1949",
+        "1953",
+        "1956"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 175,
+      "question": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 176,
+      "question": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+      "options": [
+        "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+        "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+        "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+        "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 177,
+      "question": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+      "options": [
+        "München",
+        "Berlin",
+        "Dresden",
+        "Frankfurt/Oder"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 178,
+      "question": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
+      "options": [
+        "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+        "Die amerikanischen Soldatinnen und Soldaten hatten beim Landtransport Angst vor Überfällen.",
+        "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+        "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 179,
+      "question": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+      "options": [
+        "mit dem Tod Adolf Hitlers",
+        "durch die bedingungslose Kapitulation Deutschlands",
+        "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+        "durch eine Revolution in Deutschland"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 180,
+      "question": "Der erste Bundeskanzler der Bundesrepublik Deutschland war …",
+      "options": [
+        "Ludwig Erhard.",
+        "Willy Brandt.",
+        "Konrad Adenauer.",
+        "Gerhard Schröder."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 181,
+      "question": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
+      "options": [
+        "Er hat sich den ehemaligen Alliierten unterworfen.",
+        "Er bat Polen und die polnischen Juden um Vergebung.",
+        "Er zeigte seine Demut vor dem Warschauer Pakt.",
+        "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 182,
+      "question": "Wie heißt das jüdische Gebetshaus?",
+      "options": [
+        "Basilika",
+        "Moschee",
+        "Synagoge",
+        "Kirche"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 183,
+      "question": "Wann war in der Bundesrepublik Deutschland das \"Wirtschaftswunder\"?",
+      "options": [
+        "40er Jahre",
+        "50er Jahre",
+        "70er Jahre",
+        "80er Jahre"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 184,
+      "question": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
+      "options": [
+        "eine Resolution der Vereinten Nationen",
+        "ein Beschluss des Zionistenkongresses",
+        "ein Vorschlag der Bundesregierung",
+        "ein Vorschlag der UdSSR"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 185,
+      "question": "Wofür stand der Ausdruck \"Eiserner Vorhang\"? Für die Abschottung …",
+      "options": [
+        "des Warschauer Pakts gegen den Westen",
+        "Norddeutschlands gegen Süddeutschland",
+        "Nazi-Deutschlands gegen die Alliierten",
+        "Europas gegen die USA"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 186,
+      "question": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+      "options": [
+        "1. Mai",
+        "17. Juni",
+        "20. Juli",
+        "9. November"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 187,
+      "question": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+      "options": [
+        "Preußen",
+        "Bundesrepublik Deutschland",
+        "\"Drittes Reich\"",
+        "DDR"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 188,
+      "question": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+      "options": [
+        "1953",
+        "1956",
+        "1959",
+        "1961"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 189,
+      "question": "Wann baute die DDR die Mauer in Berlin?",
+      "options": [
+        "1919",
+        "1933",
+        "1961",
+        "1990"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 190,
+      "question": "Was bedeutet die Abkürzung DDR?",
+      "options": [
+        "Dritter Deutscher Rundfunk",
+        "Die Deutsche Republik",
+        "Dritte Deutsche Republik",
+        "Deutsche Demokratische Republik"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 191,
+      "question": "Wann wurde die Mauer in Berlin für alle geöffnet?",
+      "options": [
+        "1987",
+        "1989",
+        "1992",
+        "1995"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 192,
+      "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "options": [
+        "Brandenburg",
+        "Bayern",
+        "Saarland",
+        "Hessen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 193,
+      "question": "Von 1961 bis 1989 war Berlin …",
+      "options": [
+        "ohne Bürgermeister.",
+        "ein eigener Staat.",
+        "durch eine Mauer geteilt.",
+        "nur mit dem Flugzeug erreichbar."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 194,
+      "question": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …",
+      "options": [
+        "Einheit.",
+        "Nation.",
+        "Bundesländer.",
+        "Städte."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 195,
+      "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "options": [
+        "Hessen",
+        "Sachsen-Anhalt",
+        "Nordrhein-Westfalen",
+        "Saarland"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 196,
+      "question": "Warum nennt man die Zeit im Herbst 1989 in der DDR \"Die Wende\"? In dieser Zeit veränderte sich die DDR politisch …",
+      "options": [
+        "von einer Diktatur zur Demokratie.",
+        "von einer liberalen Marktwirtschaft zum Sozialismus.",
+        "von einer Monarchie zur Sozialdemokratie.",
+        "von einem religiösen Staat zu einem kommunistischen Staat."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 197,
+      "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "options": [
+        "Thüringen",
+        "Hessen",
+        "Bayern",
+        "Bremen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 198,
+      "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "options": [
+        "Bayern",
+        "Niedersachsen",
+        "Sachsen",
+        "Baden-Württemberg"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 199,
+      "question": "Mit der Abkürzung \"Stasi\" meinte man in der DDR …",
+      "options": [
+        "das Parlament.",
+        "das Ministerium für Staatssicherheit.",
+        "eine regierende Partei.",
+        "das Ministerium für Volksbildung."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 200,
+      "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "options": [
+        "Hessen",
+        "Schleswig-Holstein",
+        "Mecklenburg-Vorpommern",
+        "Saarland"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}
