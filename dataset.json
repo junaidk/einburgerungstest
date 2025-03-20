@@ -2716,9 +2716,9 @@
       ],
       "options_trans": [
         "United Kingdom",
-        "the GDR",
+        "the DDR",
         "germany",
-        "uSA"
+        "USA"
       ],
       "correctAnswer": 3
     },
@@ -2990,7 +2990,7 @@
         "in the anti-atom force demonstrations in 1985 in the Federal Republic of Germany",
         "during the Monday demonstrations in 1989 in the GDR"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
       "id": 167,
@@ -3062,7 +3062,7 @@
         "Freedom of movement",
         "protection of human dignity"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": 171,
@@ -3369,9 +3369,9 @@
         "Prussia",
         "Germany",
         "\"Third Kingdom\"",
-        "GDR"
+        "DDR"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
       "id": 188,
@@ -3510,7 +3510,7 @@
         "Saarland"
       ],
       "options_trans": [
-        "Eat",
+        "Hessen",
         "Saxony-Anhalt",
         "North Rhine-Westphalia",
         "Saarland"
@@ -3547,7 +3547,7 @@
       ],
       "options_trans": [
         "Thuringia",
-        "Eat",
+        "Hessen",
         "Bavaria",
         "Bremen"
       ],
@@ -3746,7 +3746,7 @@
       "options_trans": [
         "the secret service in the \"Third Reich\"",
         "a famous German memorial",
-        "the secret service of the GDR",
+        "the secret service of the DDR",
         "a German sports club during World War II"
       ],
       "correctAnswer": 3
@@ -3831,13 +3831,13 @@
       "options": [
         "70 Millionen",
         "78 Millionen",
-        "84 Millionen",
+        "80 Millionen",
         "90 Millionen"
       ],
       "options_trans": [
         "70 million",
         "78 million",
-        "84 million",
+        "80 million",
         "90 million"
       ],
       "correctAnswer": 3
@@ -3894,7 +3894,7 @@
         "the empire settlers",
         "the crown of the kingdom"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 217,
@@ -3912,7 +3912,7 @@
         "1945 to 1961",
         "1949 to 1990"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
       "id": 218,
@@ -4075,7 +4075,7 @@
         "Figure 3",
         "Figure 4"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": 227,
@@ -4111,7 +4111,7 @@
         "German reunification",
         "European Community"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 3
     },
     {
       "id": 229,
@@ -4183,7 +4183,7 @@
         "members of the European Parliament",
         "the European Constitution"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 3
     },
     {
       "id": 233,
@@ -4346,7 +4346,7 @@
         "She doesn't have to do anything because she automatically gets parental money.",
         "She must ask the employment office for permission."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 242,
@@ -4382,7 +4382,7 @@
         "You cannot do anything, because demonstrations are generally prohibited in Germany.",
         "Maik and Sybille must establish a new club because only clubs can demonstrate."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 244,
@@ -4454,7 +4454,7 @@
         "Preparing birth",
         "Weekly bed"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 248,
@@ -4570,9 +4570,9 @@
       "question_trans": "In Germany, couples may be divorced. Most of the time, they have to keep the \"Trennungsjahr\". What does that mean?",
       "options": [
         "Der Scheidungsprozess dauert ein Jahr.",
-        "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+        "Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
         "Das Besuchsrecht für die Kinder gilt ein Jahr.",
-        "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
+        "Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
       ],
       "options_trans": [
         "The divorce process takes one year.",
@@ -4796,7 +4796,7 @@
         "at 0 o'clock, midnight",
         "at 22 o'clock"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
       "id": 267,
@@ -4832,7 +4832,7 @@
         "She has to make the driver's license in the country where you speak her language.",
         "She might be able to do the theory exam in her mother tongue. There are more than ten languages to choose from."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
       "id": 269,
@@ -4850,7 +4850,7 @@
         "a kindergarten place.",
         "a holiday pass."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": 270,
@@ -5084,7 +5084,7 @@
         "Library supervision",
         "Teacher/teacher"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 283,
@@ -5120,7 +5120,7 @@
         "Children learn everything important in the profession at school. After school, you don't have to learn.",
         "Everyone has to stop working early because everything changes."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 285,
@@ -5138,7 +5138,7 @@
         "Contributions to pension and health insurance",
         "Value added tax"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
       "id": 286,
@@ -5246,7 +5246,7 @@
         "you have to pay more taxes if you don't belong to a church.",
         "the church is responsible for the tax return."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": 292,
@@ -5359,7 +5359,7 @@
     {
       "id": 298,
       "question": "In der DDR lebten vor allem Migrantinnen und Migranten aus …",
-      "question_trans": "In the GDR, migrants lived mainly..",
+      "question_trans": "In the DDR, migrants lived mainly..",
       "options": [
         "Vietnam, Polen, Mosambik.",
         "Frankreich, Rumänien, Somalia.",
