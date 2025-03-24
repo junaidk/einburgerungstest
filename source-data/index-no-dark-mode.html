@@ -1,81 +1,35 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="light">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Einbürgerungstest</title>
     <style>
-        :root {
-            /* Light theme variables */
-            --background-color: #f5f5f5;
-            --text-color: #333;
-            --card-background: white;
-            --card-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            --border-color: #eee;
-            --option-background: #f9f9f9;
-            --option-hover: #eaeaea;
-            --button-color: #007bff;
-            --button-hover: #0069d9;
-            --pagination-background: #f0f0f0;
-            --selected-background: #d4edda;
-            --selected-border: #c3e6cb;
-            --incorrect-background: #f8d7da;
-            --incorrect-border: #f5c6cb;
-            --error-background: #f8d7da;
-            --error-border: #f5c6cb;
-            --error-text: #721c24;
-            --translation-color: #666;
-        }
-
-        [data-theme="dark"] {
-            /* Dark theme variables */
-            --background-color: #1a1a1a;
-            --text-color: #e0e0e0;
-            --card-background: #2d2d2d;
-            --card-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
-            --border-color: #444;
-            --option-background: #3d3d3d;
-            --option-hover: #4a4a4a;
-            --button-color: #0066cc;
-            --button-hover: #0055aa;
-            --pagination-background: #3d3d3d;
-            --selected-background: #264d36;
-            --selected-border: #2c6a42;
-            --incorrect-background: #562c2c;
-            --incorrect-border: #6b3838;
-            --error-background: #562c2c;
-            --error-border: #6b3838;
-            --error-text: #ffb0b0;
-            --translation-color: #aaa;
-        }
-        
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
-            color: var(--text-color);
+            color: #333;
             max-width: 1000px;
             margin: 0 auto;
             padding: 20px;
-            background-color: var(--background-color);
-            transition: background-color 0.3s, color 0.3s;
+            background-color: #f5f5f5;
         }
         
         .error {
-            background-color: var(--error-background);
-            border: 1px solid var(--error-border);
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
             border-radius: 5px;
             padding: 20px;
             margin: 20px 0;
-            color: var(--error-text);
+            color: #721c24;
         }
         
         .quiz-container {
-            background-color: var(--card-background);
+            background-color: white;
             border-radius: 10px;
-            box-shadow: var(--card-shadow);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             padding: 20px;
             margin-bottom: 20px;
-            transition: background-color 0.3s, box-shadow 0.3s;
         }
         
         .quiz-header {
@@ -83,7 +37,7 @@
             justify-content: space-between;
             align-items: center;
             margin-bottom: 20px;
-            border-bottom: 1px solid var(--border-color);
+            border-bottom: 1px solid #eee;
             padding-bottom: 10px;
         }
         
@@ -94,7 +48,7 @@
         
         .question-container {
             margin-bottom: 30px;
-            border-bottom: 1px solid var(--border-color);
+            border-bottom: 1px solid #eee;
             padding-bottom: 20px;
         }
         
@@ -106,12 +60,12 @@
         
         .translation {
             font-size: 16px;
-            color: var(--translation-color);
+            color: #666;
             margin-bottom: 15px;
             font-style: italic;
             visibility: hidden;
-            transition: color 0.3s;
         }
+
 
         .options {
             list-style-type: none;
@@ -121,7 +75,7 @@
         .option {
             padding: 10px 15px;
             margin-bottom: 10px;
-            background-color: var(--option-background);
+            background-color: #f9f9f9;
             border-radius: 5px;
             cursor: pointer;
             transition: background-color 0.3s;
@@ -130,15 +84,14 @@
         }
         
         .option:hover {
-            background-color: var(--option-hover);
+            background-color: #eaeaea;
         }
         
         .option-translation {
-            color: var(--translation-color);
+            color: #666;
             font-style: italic;
             display: flex;
             visibility: hidden;
-            transition: color 0.3s;
         }
         
         .visible {
@@ -146,18 +99,18 @@
         }
 
         .selected {
-            background-color: var(--selected-background);
-            border: 1px solid var(--selected-border);
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
         }
         
         .correct {
-            background-color: var(--selected-background);
-            border: 1px solid var(--selected-border);
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
         }
         
         .incorrect {
-            background-color: var(--incorrect-background);
-            border: 1px solid var(--incorrect-border);
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
         }
         
         .controls {
@@ -168,7 +121,7 @@
         
         button {
             padding: 8px 16px;
-            background-color: var(--button-color);
+            background-color: #007bff;
             color: white;
             border: none;
             border-radius: 4px;
@@ -177,7 +130,7 @@
         }
         
         button:hover {
-            background-color: var(--button-hover);
+            background-color: #0069d9;
         }
         
         button:disabled {
@@ -209,14 +162,13 @@
             padding: 5px 10px;
             border-radius: 3px;
             cursor: pointer;
-            background-color: var(--pagination-background);
+            background-color: #f0f0f0;
             min-width: 30px;
             text-align: center;
-            transition: background-color 0.3s;
         }
         
         .page-item.active {
-            background-color: var(--button-color);
+            background-color: #007bff;
             color: white;
         }
         
@@ -260,8 +212,7 @@
         .controls-container {
             margin-bottom: 20px;
             display: flex;
-            justify-content: space-between;
-            align-items: center;
+            justify-content: flex-end;
         }
         
         .jump-container {
@@ -273,10 +224,6 @@
             width: 50px;
             padding: 5px;
             margin: 0 10px;
-            background-color: var(--card-background);
-            color: var(--text-color);
-            border: 1px solid var(--border-color);
-            transition: background-color 0.3s, color 0.3s, border 0.3s;
         }
         
         .file-input {
@@ -295,62 +242,6 @@
             cursor: pointer;
             display: inline-block;
         }
-        
-        /* Theme Toggle Switch */
-        .theme-switch-wrapper {
-            display: flex;
-            align-items: center;
-        }
-        
-        .theme-switch {
-            display: inline-block;
-            position: relative;
-            width: 60px;
-            height: 34px;
-        }
-        
-        .theme-switch input {
-            opacity: 0;
-            width: 0;
-            height: 0;
-        }
-        
-        .slider {
-            position: absolute;
-            cursor: pointer;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background-color: #ccc;
-            transition: .4s;
-            border-radius: 34px;
-        }
-        
-        .slider:before {
-            position: absolute;
-            content: "";
-            height: 26px;
-            width: 26px;
-            left: 4px;
-            bottom: 4px;
-            background-color: white;
-            transition: .4s;
-            border-radius: 50%;
-        }
-        
-        input:checked + .slider {
-            background-color: var(--button-color);
-        }
-        
-        input:checked + .slider:before {
-            transform: translateX(26px);
-        }
-        
-        .theme-icon {
-            margin-left: 10px;
-            font-size: 1.2rem;
-        }
     </style>
 </head>
 <body>
@@ -358,15 +249,6 @@
     
     <div class="controls-container">
         <button id="randomizeBtn">Randomize Questions</button>
-        
-        <div class="theme-switch-wrapper">
-            <span class="theme-icon">☀️</span>
-            <label class="theme-switch">
-                <input type="checkbox" id="themeToggle">
-                <span class="slider"></span>
-            </label>
-            <span class="theme-icon">🌙</span>
-        </div>
     </div>
     
     <div id="quizContainer" class="quiz-container">
@@ -412,31 +294,12 @@
         const jumpToQuestion = document.getElementById('jumpToQuestion');
         const jumpBtn = document.getElementById('jumpBtn');
         const randomizeBtn = document.getElementById('randomizeBtn');
-        const themeToggle = document.getElementById('themeToggle');
         
         // Event listeners
         prevBtn.addEventListener('click', goToPreviousPage);
         nextBtn.addEventListener('click', goToNextPage);
         jumpBtn.addEventListener('click', jumpToQuestionNumber);
         randomizeBtn.addEventListener('click', randomizeQuestions);
-        themeToggle.addEventListener('change', toggleTheme);
-        
-        // Check for saved theme preference
-        if (localStorage.getItem('theme') === 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark');
-            themeToggle.checked = true;
-        }
-        
-        // Toggle theme function
-        function toggleTheme(e) {
-            if (e.target.checked) {
-                document.documentElement.setAttribute('data-theme', 'dark');
-                localStorage.setItem('theme', 'dark');
-            } else {
-                document.documentElement.setAttribute('data-theme', 'light');
-                localStorage.setItem('theme', 'light');
-            }
-        }
         
         // Randomize questions
         function randomizeQuestions() {
@@ -529,6 +392,7 @@
                 // Create question number and text
                 const questionElement = document.createElement('div');
                 questionElement.classList.add('question');
+                //questionElement.textContent = `${i + 1}. ${question.question}`;
                 questionElement.textContent = `${question.id}. ${question.question}`;
                 
                 questionContainer.appendChild(questionElement);
@@ -577,7 +441,30 @@
                     optionTranslation.textContent = question.options_trans[optionIndex];
                     optionItem.appendChild(optionTranslation);
                     
+                    // Check if this question was already answered
+                    // if (answeredQuestions[i] !== undefined) {
+                    //     if (answeredQuestions[i] === optionIndex) {
+                    //         optionItem.classList.add('selected');
+                            
+                    //         // Add correct/incorrect classes
+                    //         if (optionIndex === question.correctAnswer) {
+                    //             optionItem.classList.add('correct');
+                    //         } else {
+                    //             optionItem.classList.add('incorrect');
+                                
+                    //             // Highlight the correct answer
+                    //             const correctOption = optionsList.querySelector(`[data-option-index="${question.correctAnswer}"]`);
+                    //             if (correctOption) {
+                    //                 correctOption.classList.add('correct');
+                    //             }
+                    //         }
+                    //     } else if (optionIndex === question.correctAnswer) {
+                    //         optionItem.classList.add('correct');
+                    //     }
+                    // } else {
+                        // Add click event only for unanswered questions
                     optionItem.addEventListener('click', selectOption);
+                    //}
                     
                     optionsList.appendChild(optionItem);
                 });
