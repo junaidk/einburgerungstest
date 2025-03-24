@@ -563,7 +563,7 @@
     {
       "id": 32,
       "question": "Was ist keine staatliche Gewalt in Deutschland?",
-      "question_trans": "What is no state violence in Germany?",
+      "question_trans": "What is no state power in Germany?",
       "options": [
         "Gesetzgebung",
         "Regierung",
@@ -923,7 +923,7 @@
     {
       "id": 52,
       "question": "Was bedeutet \"Volkssouveränität\"? Alle Staatsgewalt geht vom ...",
-      "question_trans": "What does \"people sovereignty\" mean? All state violence goes from...",
+      "question_trans": "What does \"people sovereignty\" mean? All state power goes from...",
       "options": [
         "Volke aus.",
         "Bundestag aus.",
@@ -931,7 +931,7 @@
         "Bundesverfassungsgericht aus."
       ],
       "options_trans": [
-        "People out.",
+        "From People.",
         "Parliament.",
         "prussian king.",
         "Federal Constitutional Court."
@@ -959,7 +959,7 @@
     {
       "id": 54,
       "question": "Was ist keine staatliche Gewalt in Deutschland?",
-      "question_trans": "What is no state violence in Germany?",
+      "question_trans": "What is no state authority in Germany?",
       "options": [
         "Legislative",
         "Judikative",
@@ -2589,10 +2589,10 @@
         "gesetzgebenden Gewalt."
       ],
       "options_trans": [
-        "violence.",
-        "right-wing violence.",
-        "planning violence.",
-        "legislative violence."
+        "executive power.",
+        "judicial power.",
+        "planning power.",
+        "legislative power."
       ],
       "correctAnswer": 2
     },
