@@ -1131,7 +1131,7 @@
       ],
       "options_trans": [
         "the police",
-        "the dishes",
+        "the courts",
         "the tax office",
         "ministers"
       ],
@@ -1151,7 +1151,7 @@
         "four occupation zones.",
         "an East state and a West state.",
         "16 cantons.",
-        "Covenant, countries and municipalities."
+        "Federal, state and local authorities."
       ],
       "correctAnswer": 4
     },
@@ -1662,7 +1662,7 @@
     {
       "id": 93,
       "question": "Je mehr \"Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto …",
-      "question_trans": "The more \"second voice\" a party gets in a Bundestag election, the..",
+      "question_trans": "The more \"second votes\" a party gets in a Bundestag election, the..",
       "options": [
         "weniger Erststimmen kann sie haben.",
         "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
@@ -1670,7 +1670,7 @@
         "mehr Sitze erhält die Partei im Parlament."
       ],
       "options_trans": [
-        "they can have less initial votes.",
+        "fewer first votes she can have.",
         "more direct candidates of the party move into parliament.",
         "greater is the risk of forming a coalition.",
         "the party receives more seats in Parliament."
