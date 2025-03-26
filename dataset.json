@@ -2256,7 +2256,7 @@
     {
       "id": 126,
       "question": "Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?",
-      "question_trans": "What are the citizens of Germany entitled to vote?",
+      "question_trans": "What do eligible voters in Germany get before an election??",
       "options": [
         "eine Wahlbenachrichtigung von der Gemeinde",
         "eine Wahlerlaubnis von der Bundespräsidentin/von dem Bundespräsidenten",
@@ -2401,7 +2401,7 @@
     {
       "id": 134,
       "question": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
-      "question_trans": "You want to get rid of the bus line you always drive to work with. What can you do to get the bus line?",
+      "question_trans": "They want to abolish the bus route that you always take to work. What can you do to keep the bus route?",
       "options": [
         "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
         "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
@@ -2483,7 +2483,7 @@
       "options_trans": [
         "continue working and being friendly to the boss",
         "a dunning procedure against employers",
-        "Collection of notices",
+        "filing an action for unfair dismissal",
         "show the employer to the police"
       ],
       "correctAnswer": 3
@@ -2509,7 +2509,7 @@
     {
       "id": 140,
       "question": "Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er …",
-      "question_trans": "What does a Schöffin/Schöffin in Germany do? You/he..",
+      "question_trans": "What does a lay assessor (judge) do in Germany? She/He..",
       "options": [
         "entscheidet mit Richterinnen/Richtern über Schuld und Strafe.",
         "gibt Bürgerinnen/Bürgern rechtlichen Rat.",
@@ -2537,7 +2537,7 @@
       "options_trans": [
         "a lawyer",
         "a judge",
-        "a spoon",
+        "one lay assessor",
         "a prosecutor"
       ],
       "correctAnswer": 1
@@ -2689,7 +2689,7 @@
     {
       "id": 150,
       "question": "Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist …",
-      "question_trans": "A court-law in Germany is ..",
+      "question_trans": "A court juror in Germany is ..",
       "options": [
         "die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.",
         "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.",
@@ -2720,7 +2720,7 @@
         "germany",
         "USA"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": 152,
@@ -3252,7 +3252,7 @@
       "img": "181.png",
       "options": [
         "Er hat sich den ehemaligen Alliierten unterworfen.",
-        "Er bat Polen und die polnischen Juden um Vergebung.",
+        "Er hat Polen und die polnischen Juden um Vergebung.",
         "Er zeigte seine Demut vor dem Warschauer Pakt.",
         "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
       ],
@@ -3321,7 +3321,7 @@
     {
       "id": 185,
       "question": "Wofür stand der Ausdruck \"Eiserner Vorhang\"? Für die Abschottung …",
-      "question_trans": "What was the term \"iron curtain\"? For decontamination..",
+      "question_trans": "What was the term \"iron curtain\"? For sealing of..",
       "options": [
         "des Warschauer Pakts gegen den Westen",
         "Norddeutschlands gegen Süddeutschland",
@@ -3502,7 +3502,7 @@
     {
       "id": 195,
       "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
-      "question_trans": "What German state of affairs today belonged to the territory of the GDR?",
+      "question_trans": "What German state today belonged to the territory of the GDR?",
       "options": [
         "Hessen",
         "Sachsen-Anhalt",
