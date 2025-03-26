@@ -414,6 +414,9 @@
         const randomizeBtn = document.getElementById('randomizeBtn');
         const themeToggle = document.getElementById('themeToggle');
         
+        // Get saved page from localStorage (if exists)
+        const savedPage = localStorage.getItem('currentPage');
+        
         // Event listeners
         prevBtn.addEventListener('click', goToPreviousPage);
         nextBtn.addEventListener('click', goToNextPage);
@@ -457,6 +460,9 @@
                 answeredQuestions = {};
                 scoreElement.textContent = score;
                 
+                // Update saved page in localStorage
+                localStorage.setItem('currentPage', 1);
+                
                 // Update UI
                 createPagination();
                 displayQuestions();
@@ -466,8 +472,8 @@
         
         // Initialize quiz
         function initializeQuiz() {
-            // Reset quiz state
-            currentPage = 1;
+            // Reset quiz state but use saved page if available
+            currentPage = savedPage ? parseInt(savedPage) : 1;
             score = 0;
             answeredQuestions = {};
             
@@ -515,6 +521,7 @@
         // Display questions for current page
         function displayQuestions() {
             questionsContainer.innerHTML = '';
+            localStorage.setItem('currentPage', currentPage);
             
             const startIndex = (currentPage - 1) * questionsPerPage;
             const endIndex = Math.min(startIndex + questionsPerPage, questions.length);
@@ -740,6 +747,18 @@
             questions = data.questions || [];
             if (questions.length > 0) {
                 initializeQuiz();
+                
+                // Make sure the saved page is valid (not greater than the total number of pages)
+                const totalPages = Math.ceil(questions.length / questionsPerPage);
+                if (currentPage > totalPages) {
+                    currentPage = totalPages;
+                    localStorage.setItem('currentPage', currentPage);
+                }
+                
+                // Load the saved page
+                displayQuestions();
+                updatePagination();
+                updateButtonStates();
             } else if (questions.length === 0 && !document.querySelector('.error')) {
                 quizContainer.innerHTML = `
                     <div class="error">
