@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Einbürgerungstest</title>
+    <title>Test Your Knowledge</title>
     <style>
         :root {
             /* Light theme variables */
@@ -160,12 +160,6 @@
             border: 1px solid var(--incorrect-border);
         }
         
-        .controls {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
-        }
-        
         button {
             padding: 8px 16px;
             background-color: var(--button-color);
@@ -187,74 +181,6 @@
         
         .translation-toggle {
             margin-bottom: 10px;
-        }
-        
-        .pagination {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-wrap: wrap;
-            margin-top: 20px;
-        }
-        
-        #paginationContainer {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            max-width: 100%;
-        }
-        
-        .page-item {
-            margin: 4px;
-            padding: 5px 10px;
-            border-radius: 3px;
-            cursor: pointer;
-            background-color: var(--pagination-background);
-            min-width: 30px;
-            text-align: center;
-            transition: background-color 0.3s;
-        }
-        
-        .page-item.active {
-            background-color: var(--button-color);
-            color: white;
-        }
-        
-        @media (max-width: 576px) {
-            .pagination {
-                flex-direction: column;
-                gap: 10px;
-            }
-            
-            #paginationContainer {
-                order: 2;
-                margin: 10px 0;
-            }
-            
-            .page-item {
-                padding: 8px 12px;
-            }
-        }
-        
-        .navigation {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            align-items: center;
-            margin-top: 20px;
-            gap: 15px;
-        }
-        
-        @media (max-width: 768px) {
-            .navigation {
-                flex-direction: column;
-                align-items: stretch;
-            }
-            
-            .jump-container {
-                width: 100%;
-                justify-content: center;
-            }
         }
         
         .controls-container {
@@ -286,38 +212,6 @@
         
         .nav-link:hover {
             background-color: var(--button-hover);
-        }
-        
-        .jump-container {
-            display: flex;
-            align-items: center;
-        }
-        
-        #jumpToQuestion {
-            width: 50px;
-            padding: 5px;
-            margin: 0 10px;
-            background-color: var(--card-background);
-            color: var(--text-color);
-            border: 1px solid var(--border-color);
-            transition: background-color 0.3s, color 0.3s, border 0.3s;
-        }
-        
-        .file-input {
-            margin-bottom: 20px;
-        }
-        
-        #fileInput {
-            display: none;
-        }
-        
-        .file-label {
-            padding: 8px 16px;
-            background-color: #28a745;
-            color: white;
-            border-radius: 4px;
-            cursor: pointer;
-            display: inline-block;
         }
         
         /* Theme Toggle Switch */
@@ -375,17 +269,60 @@
             margin-left: 10px;
             font-size: 1.2rem;
         }
+
+        /* Results section */
+        .results-section {
+            background-color: var(--card-background);
+            border-radius: 10px;
+            box-shadow: var(--card-shadow);
+            padding: 20px;
+            margin-top: 20px;
+            text-align: center;
+            display: none;
+        }
+        
+        .results-score {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        
+        .results-message {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        .restart-btn {
+            margin-top: 10px;
+        }
+
+        .progress-bar-container {
+            width: 100%;
+            height: 20px;
+            background-color: var(--option-background);
+            border-radius: 10px;
+            margin: 20px 0;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            height: 100%;
+            background-color: var(--button-color);
+            transition: width 0.3s ease;
+            border-radius: 10px;
+            width: 0%;
+        }
     </style>
 </head>
 <body>
-    <h1>Einbürgerungstest</h1>
+    <h1>Test Your Knowledge</h1>
     
     <div class="controls-container">
         <div class="navigation-links">
-            <a href="test-your-knowledge.html" class="nav-link">Test Your Knowledge</a>
+            <a href="index.html" class="nav-link">Back to Main Quiz</a>
         </div>
         <div class="right-controls">
-            <button id="randomizeBtn">Randomize Questions</button>
+            <button id="restartBtn">New Test</button>
             
             <div class="theme-switch-wrapper">
                 <span class="theme-icon">☀️</span>
@@ -400,57 +337,50 @@
     
     <div id="quizContainer" class="quiz-container">
         <div class="quiz-header">
-            <h2>Quiz</h2>
+            <h2>33 Random Questions</h2>
             <div class="score-container">
-                Score: <span id="score">0</span> / <span id="totalQuestions">0</span>
+                Score: <span id="score">0</span> / 33
             </div>
+        </div>
+
+        <div class="progress-bar-container">
+            <div id="progressBar" class="progress-bar"></div>
         </div>
         
         <div id="questionsContainer"></div>
-        
-        <div class="navigation">
-            <div class="pagination">
-                <button id="prevBtn" disabled>Previous</button>
-                <div id="paginationContainer"></div>
-                <button id="nextBtn" disabled>Next</button>
-            </div>
-            
-            <div class="jump-container">
-                <label for="jumpToQuestion">Jump to question:</label>
-                <input type="number" id="jumpToQuestion" min="1">
-                <button id="jumpBtn">Go</button>
-            </div>
-        </div>
+    </div>
+
+    <div id="resultsSection" class="results-section">
+        <h2>Test Results</h2>
+        <div class="results-score">You scored: <span id="finalScore">0</span> / 33</div>
+        <div class="results-message" id="resultsMessage"></div>
+        <button id="viewAnswersBtn">View Answers</button>
+        <button id="takeNewTestBtn" class="restart-btn">Take New Test</button>
     </div>
     
     <script>
         let questions = [];
-        let currentPage = 1;
-        let questionsPerPage = 10;
+        let selectedQuestions = [];
         let score = 0;
-        let answeredQuestions = {};
+        let answeredQuestions = 0;
         
         // DOM elements
         const quizContainer = document.getElementById('quizContainer');
         const questionsContainer = document.getElementById('questionsContainer');
         const scoreElement = document.getElementById('score');
-        const totalQuestionsElement = document.getElementById('totalQuestions');
-        const prevBtn = document.getElementById('prevBtn');
-        const nextBtn = document.getElementById('nextBtn');
-        const paginationContainer = document.getElementById('paginationContainer');
-        const jumpToQuestion = document.getElementById('jumpToQuestion');
-        const jumpBtn = document.getElementById('jumpBtn');
-        const randomizeBtn = document.getElementById('randomizeBtn');
+        const progressBar = document.getElementById('progressBar');
+        const resultsSection = document.getElementById('resultsSection');
+        const finalScoreElement = document.getElementById('finalScore');
+        const resultsMessageElement = document.getElementById('resultsMessage');
+        const restartBtn = document.getElementById('restartBtn');
+        const viewAnswersBtn = document.getElementById('viewAnswersBtn');
+        const takeNewTestBtn = document.getElementById('takeNewTestBtn');
         const themeToggle = document.getElementById('themeToggle');
         
-        // Get saved page from localStorage (if exists)
-        const savedPage = localStorage.getItem('currentPage');
-        
         // Event listeners
-        prevBtn.addEventListener('click', goToPreviousPage);
-        nextBtn.addEventListener('click', goToNextPage);
-        jumpBtn.addEventListener('click', jumpToQuestionNumber);
-        randomizeBtn.addEventListener('click', randomizeQuestions);
+        restartBtn.addEventListener('click', initializeQuiz);
+        takeNewTestBtn.addEventListener('click', initializeQuiz);
+        viewAnswersBtn.addEventListener('click', scrollToTop);
         themeToggle.addEventListener('change', toggleTheme);
         
         // Check for saved theme preference
@@ -469,103 +399,64 @@
                 localStorage.setItem('theme', 'light');
             }
         }
-        
-        // Randomize questions
-        function randomizeQuestions() {
-            if (questions.length > 0) {
-                // Create a copy of questions and shuffle it
-                const shuffled = [...questions];
-                for (let i = shuffled.length - 1; i > 0; i--) {
-                    const j = Math.floor(Math.random() * (i + 1));
-                    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-                }
-                
-                // Update questions array with shuffled array
-                questions = shuffled;
-                
-                // Reset state and redisplay
-                currentPage = 1;
-                score = 0;
-                answeredQuestions = {};
-                scoreElement.textContent = score;
-                
-                // Update saved page in localStorage
-                localStorage.setItem('currentPage', 1);
-                
-                // Update UI
-                createPagination();
-                displayQuestions();
-                updateButtonStates();
-            }
+
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
         
         // Initialize quiz
         function initializeQuiz() {
-            // Reset quiz state but use saved page if available
-            currentPage = savedPage ? parseInt(savedPage) : 1;
+            // Reset quiz state
             score = 0;
-            answeredQuestions = {};
+            answeredQuestions = 0;
+            selectedQuestions = [];
             
-            // Update UI
+            // Hide results section and show quiz container
+            resultsSection.style.display = 'none';
             quizContainer.style.display = 'block';
-            totalQuestionsElement.textContent = questions.length;
+            
+            // Update score display
             scoreElement.textContent = score;
             
-            // Create pagination
-            createPagination();
+            // Update progress bar
+            updateProgressBar();
             
-            // Display questions
-            displayQuestions();
-            
-            // Update button states
-            updateButtonStates();
-        }
-        
-        // Create pagination
-        function createPagination() {
-            paginationContainer.innerHTML = '';
-            
-            const totalPages = Math.ceil(questions.length / questionsPerPage);
-            
-            for (let i = 1; i <= totalPages; i++) {
-                const pageItem = document.createElement('span');
-                pageItem.classList.add('page-item');
-                pageItem.textContent = i;
-                
-                if (i === currentPage) {
-                    pageItem.classList.add('active');
-                }
-                
-                pageItem.addEventListener('click', () => {
-                    currentPage = i;
-                    displayQuestions();
-                    updatePagination();
-                    updateButtonStates();
-                });
-                
-                paginationContainer.appendChild(pageItem);
+            // Select 33 random questions
+            if (questions.length > 0) {
+                selectRandomQuestions();
+                displayQuestions();
             }
         }
         
-        // Display questions for current page
+        // Select 33 random questions from the question pool
+        function selectRandomQuestions() {
+            // Create a copy of all questions
+            const allQuestions = [...questions];
+            
+            // Shuffle the array
+            for (let i = allQuestions.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [allQuestions[i], allQuestions[j]] = [allQuestions[j], allQuestions[i]];
+            }
+            
+            // Take the first 33 or all if less than 33
+            selectedQuestions = allQuestions.slice(0, Math.min(33, allQuestions.length));
+        }
+        
+        // Display all selected questions
         function displayQuestions() {
             questionsContainer.innerHTML = '';
-            localStorage.setItem('currentPage', currentPage);
             
-            const startIndex = (currentPage - 1) * questionsPerPage;
-            const endIndex = Math.min(startIndex + questionsPerPage, questions.length);
-            
-            for (let i = startIndex; i < endIndex; i++) {
-                const question = questions[i];
-                
+            selectedQuestions.forEach((question, index) => {
                 // Create question container
                 const questionContainer = document.createElement('div');
                 questionContainer.classList.add('question-container');
+                questionContainer.id = `question-${index}`;
                 
                 // Create question number and text
                 const questionElement = document.createElement('div');
                 questionElement.classList.add('question');
-                questionElement.textContent = `${question.id}. ${question.question}`;
+                questionElement.textContent = `${index + 1}. ${question.question}`;
                 
                 questionContainer.appendChild(questionElement);
                 
@@ -581,14 +472,14 @@
                 const translationToggle = document.createElement('button');
                 translationToggle.classList.add('translation-toggle');
                 translationToggle.textContent = 'Show Translation';
-                translationToggle.dataset.questionId = i;
+                translationToggle.dataset.questionId = index;
                 translationToggle.addEventListener('click', toggleTranslation);
                 questionContainer.appendChild(translationToggle);
                 
                 // Create question translation
                 const translationElement = document.createElement('div');
                 translationElement.classList.add('translation');
-                translationElement.id = `translation-${i}`;
+                translationElement.id = `translation-${index}`;
                 translationElement.textContent = question.question_trans;
                 questionContainer.appendChild(translationElement);
                 
@@ -599,7 +490,7 @@
                 question.options.forEach((option, optionIndex) => {
                     const optionItem = document.createElement('li');
                     optionItem.classList.add('option');
-                    optionItem.dataset.questionIndex = i;
+                    optionItem.dataset.questionIndex = index;
                     optionItem.dataset.optionIndex = optionIndex;
                     
                     // Create option text container
@@ -620,7 +511,7 @@
                 
                 questionContainer.appendChild(optionsList);
                 questionsContainer.appendChild(questionContainer);
-            }
+            });
         }
         
         // Select an option
@@ -628,10 +519,7 @@
             const optionItem = event.currentTarget;
             const questionIndex = parseInt(optionItem.dataset.questionIndex);
             const optionIndex = parseInt(optionItem.dataset.optionIndex);
-            const question = questions[questionIndex];
-            
-            // Mark question as answered
-            answeredQuestions[questionIndex] = optionIndex;
+            const question = selectedQuestions[questionIndex];
             
             // Add selected class
             optionItem.classList.add('selected');
@@ -641,6 +529,7 @@
                 optionItem.classList.add('correct');
                 score++;
                 scoreElement.textContent = score;
+                finalScoreElement.textContent = score;
             } else {
                 optionItem.classList.add('incorrect');
                 
@@ -652,11 +541,22 @@
                 }
             }
             
+            // Increment answered questions count
+            answeredQuestions++;
+            
+            // Update progress bar
+            updateProgressBar();
+            
             // Disable click events for all options in this question
             const allOptions = optionItem.parentElement.querySelectorAll('.option');
             allOptions.forEach(option => {
                 option.removeEventListener('click', selectOption);
             });
+            
+            // Check if all questions have been answered
+            if (answeredQuestions === selectedQuestions.length) {
+                showResults();
+            }
         }
         
         // Toggle translation
@@ -677,69 +577,27 @@
             }
         }
         
-        // Go to previous page
-        function goToPreviousPage() {
-            if (currentPage > 1) {
-                currentPage--;
-                displayQuestions();
-                updatePagination();
-                updateButtonStates();
-            }
+        // Update progress bar
+        function updateProgressBar() {
+            const progressPercentage = (answeredQuestions / selectedQuestions.length) * 100;
+            progressBar.style.width = `${progressPercentage}%`;
         }
         
-        // Go to next page
-        function goToNextPage() {
-            const totalPages = Math.ceil(questions.length / questionsPerPage);
-            if (currentPage < totalPages) {
-                currentPage++;
-                displayQuestions();
-                updatePagination();
-                updateButtonStates();
-            }
-        }
-        
-        // Jump to specific question
-        function jumpToQuestionNumber() {
-            const questionNumber = parseInt(jumpToQuestion.value);
-            if (questionNumber && questionNumber > 0 && questionNumber <= questions.length) {
-                const pageNumber = Math.ceil(questionNumber / questionsPerPage);
-                currentPage = pageNumber;
-                
-                displayQuestions();
-                updatePagination();
-                updateButtonStates();
-                
-                // Scroll to the specific question
-                const index = questionNumber - 1;
-                const questionContainers = document.querySelectorAll('.question-container');
-                const containerIndex = index % questionsPerPage;
-                
-                if (questionContainers[containerIndex]) {
-                    questionContainers[containerIndex].scrollIntoView({ behavior: 'smooth' });
-                }
-            } else {
-                alert(`Please enter a valid question number between 1 and ${questions.length}.`);
-            }
-        }
-        
-        // Update pagination
-        function updatePagination() {
-            const pageItems = paginationContainer.querySelectorAll('.page-item');
-            pageItems.forEach((item, index) => {
-                if (index + 1 === currentPage) {
-                    item.classList.add('active');
-                } else {
-                    item.classList.remove('active');
-                }
-            });
-        }
-        
-        // Update button states
-        function updateButtonStates() {
-            const totalPages = Math.ceil(questions.length / questionsPerPage);
+        // Show results section
+        function showResults() {
+            const passPercentage = (score / selectedQuestions.length) * 100;
+            let message = '';
             
-            prevBtn.disabled = currentPage === 1;
-            nextBtn.disabled = currentPage === totalPages;
+            if (passPercentage >= 80) {
+                message = 'Excellent! You have a great understanding of the subject.';
+            } else if (passPercentage >= 60) {
+                message = 'Good job! You have a solid understanding, but there\'s room for improvement.';
+            } else {
+                message = 'Keep practicing! You might need to review the material again.';
+            }
+            
+            resultsMessageElement.textContent = message;
+            resultsSection.style.display = 'block';
         }
         
         // Quiz class to handle loading questions from JSON file
@@ -776,18 +634,6 @@
             questions = data.questions || [];
             if (questions.length > 0) {
                 initializeQuiz();
-                
-                // Make sure the saved page is valid (not greater than the total number of pages)
-                const totalPages = Math.ceil(questions.length / questionsPerPage);
-                if (currentPage > totalPages) {
-                    currentPage = totalPages;
-                    localStorage.setItem('currentPage', currentPage);
-                }
-                
-                // Load the saved page
-                displayQuestions();
-                updatePagination();
-                updateButtonStates();
             } else if (questions.length === 0 && !document.querySelector('.error')) {
                 quizContainer.innerHTML = `
                     <div class="error">
