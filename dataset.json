@@ -365,6 +365,7 @@
       "id": 21,
       "question": "Welches ist das Wappen der Bundesrepublik Deutschland?",
       "question_trans": "What is the coat of arms of the Federal Republic of Germany?",
+      "img": "21.png",
       "options": [
         "Bild 1",
         "Bild 2",
@@ -977,6 +978,7 @@
       "id": 55,
       "question": "Was zeigt dieses Bild?",
       "question_trans": "What does this picture show?",
+      "img": "55.png",
       "options": [
         "den Bundestagssitz in Berlin",
         "das Bundesverfassungsgericht in Karlsruhe",
@@ -2327,6 +2329,7 @@
       "id": 130,
       "question": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
       "question_trans": "Which ballot paper would be valid in a Bundestag election?",
+      "img": "130.png",
       "options": [
         "1",
         "2",
@@ -3155,6 +3158,7 @@
       "id": 176,
       "question": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
       "question_trans": "How were the occupation zones of Germany distributed after 1945?",
+      "img": "176.png",
       "options": [
         "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
         "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
@@ -3245,6 +3249,7 @@
       "id": 181,
       "question": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
       "question_trans": "What was Willy Brandt trying to say when he knelt down in the former Jewish ghetto in Warsaw in 1970?",
+      "img": "181.png",
       "options": [
         "Er hat sich den ehemaligen Alliierten unterworfen.",
         "Er hat Polen und die polnischen Juden um Vergebung.",
@@ -3353,6 +3358,7 @@
       "id": 187,
       "question": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
       "question_trans": "Which German state had a black, red and gold flag with a hammer, compass and spike wreath?",
+      "img": "187.png",
       "options": [
         "Preußen",
         "Bundesrepublik Deutschland",
@@ -3749,6 +3755,7 @@
       "id": 209,
       "question": "Welches war das Wappen der Deutschen Demokratischen Republik?",
       "question_trans": "What was the coat of arms of the German Democratic Republic?",
+      "img": "209.png",
       "options": [
         "Bild 1",
         "Bild 2",
@@ -4055,6 +4062,7 @@
       "id": 226,
       "question": "Welche ist die Flagge der Europäischen Union?",
       "question_trans": "What is the flag of the European Union?",
+      "img": "226.png",
       "options": [
         "Bild 1",
         "Bild 2",
@@ -4217,6 +4225,7 @@
       "id": 235,
       "question": "Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?",
       "question_trans": "The then French President François Mitterrand and the then German Chancellor Helmut Kohl commemorate the dead of both world wars together in Verdun. What goal of the European Union is made clear at this meeting?",
+      "img": "235.png",
       "options": [
         "Freundschaft zwischen England und Deutschland",
         "Reisefreiheit in alle Länder der EU",
@@ -5405,6 +5414,7 @@
       "id": 321,
       "question": "Welches Wappen gehört zum Bundesland Berlin?",
       "question_trans": "Which coat of arms belongs to the federal state of Berlin?",
+      "img": "321.png",
       "options": [
         "Bild 1",
         "Bild 2",
@@ -5531,6 +5541,7 @@
       "id": 328,
       "question": "Welches Bundesland ist Berlin?",
       "question_trans": "Which federal state is Berlin?",
+      "img": "328.png",
       "options": [
         "1",
         "2",
